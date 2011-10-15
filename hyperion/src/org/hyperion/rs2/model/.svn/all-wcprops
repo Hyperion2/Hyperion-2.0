@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/model
+END
+Appearance.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Appearance.java
+END
+UpdateFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/UpdateFlags.java
+END
+GameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/GameObject.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Settings.java
+END
+InterfaceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/InterfaceState.java
+END
+ObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/model/ObjectManager.java
+END
+Skills.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Skills.java
+END
+WalkingQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hyperion_server/!svn/ver/269/trunk/src/org/hyperion/rs2/model/WalkingQueue.java
+END
+PlayerDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/PlayerDetails.java
+END
+EntityCooldowns.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/EntityCooldowns.java
+END
+Combat.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Combat.java
+END
+ItemDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/ItemDefinition.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Location.java
+END
+GameObjectDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/model/GameObjectDefinition.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Entity.java
+END
+Graphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Graphic.java
+END
+Damage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Damage.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Animation.java
+END
+NPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/NPC.java
+END
+RequestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hyperion_server/!svn/ver/272/trunk/src/org/hyperion/rs2/model/RequestManager.java
+END
+ChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/ChatMessage.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hyperion_server/!svn/ver/265/trunk/src/org/hyperion/rs2/model/World.java
+END
+NPCDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/NPCDefinition.java
+END
+Sprites.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Sprites.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hyperion_server/!svn/ver/271/trunk/src/org/hyperion/rs2/model/Player.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Tile.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Item.java
+END
+Palette.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/Palette.java
+END

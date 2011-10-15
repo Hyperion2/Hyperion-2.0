@@ -1,0 +1,204 @@
+package org.hyperion.rs2.tickable.impl;
+
+import java.util.Random;
+
+import org.hyperion.rs2.model.Location;
+import org.hyperion.rs2.model.Mob;
+import org.hyperion.rs2.model.NPC;
+import org.hyperion.rs2.model.Player;
+import org.hyperion.rs2.model.World;
+import org.hyperion.rs2.model.RequestManager.RequestState;
+import org.hyperion.rs2.model.RequestManager.RequestType;
+import org.hyperion.rs2.model.container.Duel;
+import org.hyperion.rs2.tickable.Tickable;
+
+/**
+ * The death tickable handles player and npc deaths. Drops loot, does animation,
+ * teleportation, etc.
+ * 
+ * @author Graham
+ * @author Scu11
+ */
+public class DeathTick extends Tickable {
+
+	/**
+	 * The mob who has just died.
+	 */
+	private Mob mob;
+
+	/**
+	 * The random number generator.
+	 */
+	private final Random random = new Random();
+
+	/**
+	 * Creates the death event for the specified entity.
+	 * 
+	 * @param entity
+	 *            The mob whose death has just happened.
+	 */
+	public DeathTick(Mob mob, int ticks) {
+		super(ticks);
+		this.mob = mob;
+	}
+
+	@Override
+	public void execute() {
+		if (mob.getCombatState().isDead()) {
+			Location teleportTo = Mob.DEFAULT_LOCATION;
+			if (mob.getCombatState().getLastHitBy() != null
+					&& mob.getCombatState().getLastHitBy().getCombatState()
+							.getLastHitTimer() > (System.currentTimeMillis() + 4000)
+					&& mob.getCombatState().getLastHitBy().getCombatState()
+							.getLastHitBy() == mob) {
+				mob.getCombatState().getLastHitBy().getCombatState()
+						.setLastHitBy(null);
+				mob.getCombatState().getLastHitBy().getCombatState()
+						.setLastHitTimer(0);
+			}
+			if (mob.getCombatState().getLastHitBy() != null
+					&& mob.getCombatState().getLastHitBy().getActionSender() != null
+					&& mob.getActionSender() != null) {
+				if (mob.getActionSender() != null
+						&& ((Player) mob) != null
+						&& ((Player) mob).getRequestManager().getRequestType() == RequestType.DUEL
+						&& ((Player) mob).getRequestManager().getState() == RequestState.ACTIVE) {// validates
+																									// they
+																									// are
+																									// both
+																									// players
+					mob.getCombatState().getLastHitBy().getActionSender()
+							.sendMessage(
+									"Well done! You have defeated "
+											+ mob.getUndefinedName() + "!");
+				} else {
+					switch (random.nextInt(9)) {
+					case 0:
+						mob.getCombatState().getLastHitBy().getActionSender()
+								.sendMessage(
+										"You have defeated "
+												+ mob.getUndefinedName() + ".");
+						break;
+					case 1:
+						mob.getCombatState().getLastHitBy().getActionSender()
+								.sendMessage(
+										"Can anyone defeat you? Certainly not "
+												+ mob.getUndefinedName() + ".");
+						break;
+					case 2:
+						mob.getCombatState().getLastHitBy().getActionSender()
+								.sendMessage(
+										mob.getUndefinedName()
+												+ " falls before your might.");
+						break;
+					case 3:
+						mob.getCombatState().getLastHitBy().getActionSender()
+								.sendMessage(
+										"A humiliating defeat for "
+												+ mob.getUndefinedName() + ".");
+						break;
+					case 4:
+						mob.getCombatState().getLastHitBy().getActionSender()
+								.sendMessage(
+										"You were clearly a better fighter than "
+												+ mob.getUndefinedName() + ".");
+						break;
+					case 5:
+						mob
+								.getCombatState()
+								.getLastHitBy()
+								.getActionSender()
+								.sendMessage(
+										mob.getUndefinedName()
+												+ " has won a free ticket to Lumbridge.");
+						break;
+					case 6:
+						mob.getCombatState().getLastHitBy().getActionSender()
+								.sendMessage(
+										"It's all over for "
+												+ mob.getUndefinedName() + ".");
+						break;
+					case 7:
+						mob.getCombatState().getLastHitBy().getActionSender()
+								.sendMessage(
+										"With a crushing blow you finish "
+												+ mob.getUndefinedName() + ".");
+						break;
+					case 8:
+						mob
+								.getCombatState()
+								.getLastHitBy()
+								.getActionSender()
+								.sendMessage(
+										mob.getUndefinedName()
+												+ " regrets the day they met you in combat.");
+						break;
+					case 9:
+						mob
+								.getCombatState()
+								.getLastHitBy()
+								.getActionSender()
+								.sendMessage(
+										mob.getUndefinedName()
+												+ " didn't stand a chance against you.");
+						break;
+					}
+				}
+			}
+			mob.getCombatState().setLastHitBy(null);
+			mob.getCombatState().setLastHitTimer(0);
+			mob.getCombatState().setDead(false);
+			mob.getEnergyState().setEnergy(100);
+			mob.getCombatState().setSpecialEnergy(100);
+			if (mob.getActionSender() != null) {
+				mob.getActionSender().sendMessage("Oh dear, you are dead!");
+				mob.getActionSender().sendString(149,
+						mob.getEnergyState().getEnergy() + "%");
+				mob.getActionSender().sendBonuses();
+			}
+			mob.getCombatState().setPoisonDamage(0, null);
+			Mob killer = (mob.getCombatState().getDamageMap().highestDamage() != null && !mob
+					.isDestroyed()) ? mob.getCombatState().getDamageMap()
+					.highestDamage() : mob;
+			if (!(mob.getActionSender() != null
+					&& ((Player) mob) != null
+					&& ((Player) mob).getRequestManager().getRequestType() == RequestType.DUEL && ((Player) mob)
+					.getRequestManager().getState() == RequestState.ACTIVE)) {
+				mob.dropLoot(killer instanceof Player ? killer : mob);
+				mob.setDefaultAnimations();
+			} else {
+				teleportTo = Location.create(3366, 3269, 0);
+				Player player = (Player) mob;
+				Player partner = player.getRequestManager().getAcquaintance();
+				Duel.winDuel(partner, player);
+			}
+			mob.getCombatState().getDamageMap().reset();
+			mob.getSkills().resetStats();
+			mob.resetBonuses();
+			mob.getCombatState().setCurrentSpell(null);
+			mob.getCombatState().setQueuedSpell(null);
+			mob.setAutocastSpell(null);
+			if (mob instanceof Player)
+				mob.setTeleportTarget(teleportTo);
+			mob.getCombatState().resetPrayers();
+			mob.getActionQueue().cancelQueuedActions();
+			mob.getActionQueue().clearNonWalkableActions();
+			World.getWorld().submit(new Tickable(1) {
+				public void execute() {
+					for (Player p : World.getWorld().getPlayers()) {
+						if (p.getLocation().isWithinDistance(mob.getLocation())) {
+							p.getActionSender().sendResetAnimations();
+						}
+					}
+					if (mob instanceof NPC)
+						World.getWorld().unregister((NPC)mob);
+					else
+						mob.getCombatState().setCanMove(true);
+					this.stop();
+				}
+			});
+		}
+		this.stop();
+	}
+
+}

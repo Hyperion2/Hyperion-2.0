@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hyperion_server/!svn/ver/273/trunk/src/org/hyperion/rs2/model/container
+END
+Container.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hyperion_server/!svn/ver/273/trunk/src/org/hyperion/rs2/model/container/Container.java
+END
+Equipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/container/Equipment.java
+END
+ContainerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/container/ContainerListener.java
+END
+Bank.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/container/Bank.java
+END
+Inventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/container/Inventory.java
+END

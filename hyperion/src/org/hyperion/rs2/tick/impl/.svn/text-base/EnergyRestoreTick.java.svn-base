@@ -1,0 +1,35 @@
+package org.hyperion.rs2.tickable.impl;
+
+import org.hyperion.rs2.model.Mob;
+import org.hyperion.rs2.tickable.Tickable;
+/**
+ * An event that restores player energy.
+ * @author Michael Bull
+ *
+ */
+public class EnergyRestoreTick extends Tickable {
+	
+	/**
+	 * The mob for who we restoring energy.
+	 */
+	public Mob mob;
+	
+	/**
+	 * Creates the event.
+	 */
+	public EnergyRestoreTick(Mob mob, int ticks) {
+		super(ticks);
+		this.mob = mob;
+	}
+	
+
+	@Override
+	public void execute() {
+		mob.getEnergyState().setEnergy(mob.getEnergyState().getEnergy() + 1);
+		if(mob.getActionSender() != null) {
+			mob.getActionSender().sendString(149, mob.getEnergyState().getEnergy() + "%");
+		}
+		this.setTickDelay(mob.getEnergyState().getRestoreEnergyRate());
+	}
+
+}

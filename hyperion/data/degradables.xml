@@ -1,0 +1,9 @@
+<list>
+	<degrade>
+		<items>
+			<short>4212</short>
+		</items>
+		<degradeValue>250</degradeValue>
+		<degradeMessage>Your crystal bow has degraded slightly.</degradeMessage>
+	</degrade>
+</list>

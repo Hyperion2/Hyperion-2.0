@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/model/region
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/model/region/Region.java
+END
+RegionCoordinates.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/model/region/RegionCoordinates.java
+END
+RegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/model/region/RegionManager.java
+END

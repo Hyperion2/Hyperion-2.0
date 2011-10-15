@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util
+END
+DirectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util/DirectionUtils.java
+END
+NameUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util/NameUtils.java
+END
+EntityListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util/EntityListIterator.java
+END
+IoBufferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util/IoBufferUtils.java
+END
+ConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util/ConfigurationParser.java
+END
+TextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util/TextUtils.java
+END
+EntityList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/util/EntityList.java
+END
