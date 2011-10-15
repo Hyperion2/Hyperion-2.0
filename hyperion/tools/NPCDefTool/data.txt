@@ -1,0 +1,8590 @@
+0:Hans:0:1
+1:Man:2:1
+2:Man:2:1
+3:Man:2:1
+4:Woman:2:1
+5:Woman:2:1
+6:Woman:2:1
+7:Farmer:7:1
+8:Thief:16:1
+9:Guard:21:1
+10:Schoolgirl:0:1
+11:Tramp:0:1
+12:Barbarian:7:1
+13:Wizard:9:1
+14:Druid:33:1
+15:Warrior woman:24:1
+16:Man:2:1
+17:Schoolgirl:0:1
+18:Al-Kharid warrior:9:1
+19:White Knight:36:1
+20:Paladin:62:1
+21:Hero:69:1
+22:Forester:15:1
+23:Knight of Ardougne:46:1
+24:Man:2:1
+25:Woman:2:1
+26:Knight of Ardougne:46:1
+27:Archer:37:1
+28:Zoo keeper:0:1
+29:Chuck:1:1
+30:Barman:0:1
+31:Priest:0:1
+32:Guard:20:1
+33:Door man:0:1
+34:Watchman:33:1
+35:Soldier:28:1
+36:Wyson the gardener:0:1
+37:Sigbert the Adventurer:0:1
+38:Shipyard worker:11:1
+39:Shipyard worker:11:1
+40:Shark:0:1
+41:Chicken:1:1
+42:Sheep:0:1
+43:Sheep:0:1
+44:Banker:0:1
+45:Banker:0:1
+46:Duck:1:1
+47:Rat:1:1
+48:Oomlie bird:46:1
+49:Hellhound:122:2
+50:King Black Dragon:276:5
+51:Baby dragon:48:2
+52:Baby blue dragon:48:2
+53:Red dragon:152:4
+54:Black dragon:227:4
+55:Blue dragon:111:4
+56:Dryad:1:1
+57:Fairy:0:1
+58:Shadow spider:52:1
+59:Giant spider:2:1
+60:Giant spider:27:1
+61:Spider:1:1
+62:Jungle spider:44:1
+63:Deadly red spider:34:1
+64:Ice spider:61:1
+65:Leprechaun:12:1
+66:Gnome:1:1
+67:Gnome:1:1
+68:Gnome:1:1
+69:Lizard man:22:2
+70:null:1:1
+71:Orc:20:1
+72:Troll:69:1
+73:Zombie:13:1
+74:Zombie:18:1
+75:Zombie:24:1
+76:Zombie:25:1
+77:Summoned Zombie:13:1
+78:Giant bat:27:2
+79:Death wing:83:2
+80:Camel:0:2
+81:Cow:2:2
+82:Lesser demon:82:2
+83:Greater demon:92:3
+84:Black demon:172:3
+85:Golem:55:2
+86:Giant rat:3:2
+87:Giant rat:6:2
+88:Dungeon rat:12:2
+89:Unicorn:15:2
+90:Skeleton:22:1
+91:Skeleton:21:1
+92:Skeleton:25:1
+93:Skeleton:45:1
+94:Skeleton Mage:16:1
+95:Wolf:64:2
+96:White wolf:25:2
+97:White wolf:38:2
+98:Dog:0:1
+99:Guard dog:44:1
+100:Goblin:2:1
+101:Goblin:5:1
+102:Goblin:13:1
+103:Ghost:19:1
+104:Ghost:19:1
+105:Grizzly bear:21:2
+106:Black bear:19:2
+107:Scorpion:14:2
+108:Poison Scorpion:20:2
+109:Pit Scorpion:28:1
+110:Fire giant:86:2
+111:Ice giant:53:2
+112:Moss giant:42:2
+113:Jogre:53:2
+114:Mogre:60:2
+115:Ogre:53:2
+116:Cyclops:56:2
+117:Hill Giant:28:2
+118:Dwarf:10:1
+119:Chaos dwarf:48:1
+120:Dwarf:20:1
+121:Dwarf:9:1
+122:Hobgoblin:28:1
+123:Hobgoblin:42:1
+124:Earth warrior:51:1
+125:Ice warrior:57:1
+126:Otherworldly being:64:1
+127:Magic axe:42:1
+128:Snake:5:1
+129:Skavid:2:1
+130:Yeti:58:3
+131:Penguin:2:1
+132:Monkey:3:1
+133:Black unicorn:27:2
+134:Poison spider:64:1
+135:Mammoth:41:3
+136:Mounted terrorchick gnome:0:1
+137:Terrorchick gnome:0:1
+138:Terrorbird:28:2
+139:Terrorbird:28:2
+140:Souless:18:1
+141:Big Wolf:73:2
+142:Wolf:25:2
+143:Jungle Wolf:64:2
+144:King Scorpion:32:2
+145:Ice warrior:57:1
+146:Gull:0:2
+147:Cormorant:0:2
+148:Pelican:0:2
+149:Gull:0:2
+150:Gull:0:2
+151:Fly trap:0:1
+152:null:85:1
+153:Butterfly:0:1
+154:Butterfly:0:1
+155:Butterfly:0:1
+156:Butterfly:0:1
+157:Butterfly:0:1
+158:Shadow warrior:48:1
+159:Gnome child:1:1
+160:Gnome child:1:1
+161:Gnome child:1:1
+162:Gnome trainer:0:1
+163:Gnome guard:23:1
+164:Gnome guard:23:1
+165:Gnome shop keeper:0:1
+166:Gnome banker:0:1
+167:Gnome baller:0:1
+168:Gnome woman:1:1
+169:Gnome woman:1:1
+170:Man:2:1
+171:Brimstail:0:1
+172:Dark wizard:20:1
+173:Invrigar the Necromancer:20:1
+174:Dark wizard:7:1
+175:Mugger:6:1
+176:Witch:25:1
+177:Witch:25:1
+178:Black Knight:33:1
+179:Black Knight:33:1
+180:Highwayman:5:1
+181:Chaos druid:13:1
+182:Pirate:23:1
+183:Pirate:23:1
+184:Pirate:26:1
+185:Pirate:23:1
+186:Thug:10:1
+187:Rogue:15:1
+188:Monk of Zamorak:22:1
+189:Monk of Zamorak:17:1
+190:Monk of Zamorak:45:1
+191:Tribesman:32:1
+192:Dark warrior:8:1
+193:Chaos druid warrior:37:1
+194:Necromancer:26:1
+195:Bandit:22:1
+196:Guard Bandit:22:1
+197:Barbarian guard:8:1
+198:Guildmaster:0:1
+199:Gunthor the Brave:29:1
+200:Lord Daquarius:0:1
+201:Jailer:47:1
+202:Black Heather:34:1
+203:Donny the Lad:34:1
+204:Speedy Keith:34:1
+205:Salarin the Twisted:70:1
+206:Guard:10:1
+207:Lollk:0:1
+208:Captain Lawgof:0:1
+209:Nulodion:0:1
+210:Grail Maiden:0:1
+211:Sir Percival:0:1
+212:King Percival:0:1
+213:Merlin:0:1
+214:Peasant:0:1
+215:Peasant:0:1
+216:High Priest:0:1
+217:Crone:0:1
+218:Galahad:0:1
+219:Fisherman:0:1
+220:The Fisher King:0:1
+221:Black Knight Titan:120:1
+222:Monk:5:1
+223:Brother Kojo:0:1
+224:Dungeon rat:12:1
+225:Bonzo:0:1
+226:null:1:1
+227:Morris:0:1
+228:Big Dave:0:1
+229:Joshua:0:1
+230:Grandpa Jack:0:1
+231:Forester:0:1
+232:Austri:0:1
+233:Fishing spot:0:1
+234:Fishing spot:0:1
+235:Fishing spot:0:1
+236:Fishing spot:0:1
+237:Renegade Knight:37:1
+238:Thrantax the Mighty:92:1
+239:Sir Lancelot:0:1
+240:Sir Gawain:0:1
+241:Sir Kay:0:1
+242:Sir Bedivere:0:1
+243:Sir Tristram:0:1
+244:Sir Pelleas:0:1
+245:Sir Lucan:0:1
+246:Teapotspout:94:1
+247:Sir Mordred:39:1
+248:Morgan Le Faye:0:1
+249:Merlin:0:1
+250:The Lady of the Lake:0:1
+251:King Arthur:0:1
+252:Beggar:0:1
+253:Khazard Guard:23:1
+254:Khazard Guard:23:1
+255:Khazard Guard:23:1
+256:Khazard Guard:23:1
+257:Khazard Guard:25:1
+258:General Khazard:112:1
+259:Khazard barman:0:1
+260:Kelvin:0:1
+261:Joe:0:1
+262:Fightslave:0:1
+263:Hengrad:0:1
+264:Lady Servil:0:1
+265:Jeremy Servil:0:1
+266:Jeremy Servil:0:1
+267:Justin Servil:0:1
+268:Local:0:1
+269:Bouncer:137:2
+270:Khazard Ogre:63:2
+271:Khazard Scorpion:44:3
+272:Lucien:14:1
+273:Lucien:0:1
+274:Guardian of Armadyl:45:1
+275:Guardian of Armadyl:43:1
+276:Winelda:0:1
+277:Fire Warrior of Lesarkus:84:1
+278:Cook:0:1
+279:Brother Omad:0:1
+280:Brother Cedric:0:1
+281:Monk:3:1
+282:Thief:14:1
+283:Head Thief:26:1
+284:Doric:0:1
+285:Veronica:0:1
+286:Professor Oddenstein:0:1
+287:Ernest:0:1
+288:Chicken:0:1
+289:Councillor Halgrive:0:1
+290:Doctor Orbon:0:1
+291:Farmer Brumty:0:1
+292:null:1:1
+293:null:1:1
+294:null:1:1
+295:null:1:1
+296:Guard:21:1
+297:Guard:21:1
+298:Guard:21:1
+299:Guard:21:1
+300:Sedridor:0:1
+301:Twig:0:1
+302:Hadley:0:1
+303:Gerald:0:1
+304:Almera:0:1
+305:Hudon:0:1
+306:Golrie:0:1
+307:Hetty:0:1
+308:Master fisher:0:1
+309:Fishing spot:0:1
+310:Fishing spot:0:1
+311:Fishing spot:0:1
+312:Fishing spot:0:1
+313:Fishing spot:0:1
+314:Fishing spot:0:1
+315:Fishing spot:0:1
+316:Fishing spot:0:1
+317:Fishing spot:0:1
+318:Fishing spot:0:1
+319:Fishing spot:0:1
+320:Fishing spot:0:1
+321:Fishing spot:0:1
+322:Fishing spot:0:1
+323:Fishing spot:0:1
+324:Fishing spot:0:1
+325:Fishing spot:0:1
+326:Fishing spot:0:1
+327:Fishing spot:0:1
+328:Fishing spot:0:1
+329:Fishing spot:0:1
+330:Fishing spot:0:1
+331:Fishing spot:0:1
+332:Fishing spot:0:1
+333:Fishing spot:0:1
+334:Fishing spot:0:1
+335:null:1:1
+336:Da Vinci:0:1
+337:Da Vinci:0:1
+338:Chancy:0:1
+339:Chancy:0:1
+340:Hops:0:1
+341:Hops:0:1
+342:Guidor's wife:0:1
+343:Guidor:0:1
+344:Guard:0:1
+345:Guard:0:1
+346:Guard:0:1
+347:Mourner:11:1
+348:Mourner:24:1
+349:Kilron:0:1
+350:Omart:0:1
+351:Man:4:1
+352:Woman:3:1
+353:Woman:4:1
+354:Woman:3:1
+355:Child:0:1
+356:Child:0:1
+357:Mourner:18:1
+358:Priest:0:1
+359:Man:0:1
+360:Woman:4:1
+361:Woman:12:1
+362:Woman:3:1
+363:Woman:14:1
+364:King Lathas:0:1
+365:Paladin:59:1
+366:Jerico:0:1
+367:Chemist:0:1
+368:Guard:0:1
+369:Mourner:24:1
+370:Mourner:13:1
+371:Mourner:12:1
+372:Mourner:0:1
+373:Nurse Sarah:0:1
+374:Ogre:58:2
+375:Redbeard Frank:0:1
+376:Captain Tobias:0:1
+377:Seaman Lorris:0:1
+378:Seaman Thresnor:0:1
+379:Luthas:0:1
+380:Customs officer:0:1
+381:null:1:1
+382:Dwarf:0:1
+383:Stankers:0:1
+384:Barbarian guard:0:1
+385:Kharid Scorpion:0:1
+386:Kharid Scorpion:0:1
+387:Kharid Scorpion:0:1
+388:Seer:0:1
+389:Thormac:0:1
+390:Big fish:0:1
+391:River troll:14:1
+392:River troll:29:1
+393:River troll:49:1
+394:River troll:79:1
+395:River troll:120:1
+396:River troll:159:1
+397:Cow:2:2
+398:Legends guard:0:1
+399:Legends guard:0:1
+400:Radimus Erkle:0:1
+401:Jungle forester:0:1
+402:Jungle forester:0:1
+403:Fishing spot:0:1
+404:Fishing spot:0:1
+405:Fishing spot:0:1
+406:Fishing spot:0:1
+407:Strange plant:0:1
+408:Strange plant:0:1
+409:Genie:0:1
+410:Mysterious Old Man:0:1
+411:Swarm:0:1
+412:Bat:6:1
+413:Rock Golem:14:1
+414:Rock Golem:29:1
+415:Rock Golem:49:1
+416:Rock Golem:79:1
+417:Rock Golem:120:1
+418:Rock Golem:159:1
+419:Zombie:14:1
+420:Zombie:29:1
+421:Zombie:49:1
+422:Zombie:79:1
+423:Zombie:120:1
+424:Zombie:159:1
+425:Shade:14:1
+426:Shade:29:1
+427:Shade:49:1
+428:Shade:79:1
+429:Shade:120:1
+430:Shade:159:1
+431:null:0:1
+432:Cyrisus:138:1
+433:Cyrisus:138:1
+434:Cyrisus:138:1
+435:Fallen Man:0:1
+436:Fallen Man:0:1
+437:Cap'n Izzy No-Beard:0:1
+438:Tree spirit:14:1
+439:Tree spirit:29:1
+440:Tree spirit:49:1
+441:Tree spirit:79:1
+442:Tree spirit:120:1
+443:Tree spirit:159:1
+444:Goblin:5:1
+445:Goblin:5:1
+446:Giant rat:3:2
+447:Jail guard:26:1
+448:Jail guard:26:1
+449:Jail guard:26:1
+450:Gull:0:1
+451:Gull:0:1
+452:Seth Groats:0:1
+453:Suit of armour:19:1
+454:Sanfew:0:1
+455:Kaqemeex:0:1
+456:Father Aereck:0:1
+457:Restless ghost:0:1
+458:Father Urhney:0:1
+459:Skeleton:13:1
+460:Wizard Frumscone:0:1
+461:Magic Store owner:0:1
+462:Wizard Distentor:0:1
+463:Murphy:0:1
+464:Murphy:0:1
+465:Murphy:0:1
+466:Murphy:0:1
+467:Shark:0:1
+468:Shark:0:1
+469:King Bolren:0:1
+470:Commander Montai:0:1
+471:Bolkoy:0:1
+472:Remsai:0:1
+473:null:1:1
+474:null:1:1
+475:Khazard trooper:19:1
+476:Khazard trooper:19:1
+477:Khazard warlord:112:1
+478:Khazard commander:48:1
+479:Gnome troop:1:1
+480:Gnome troop:1:1
+481:Tracker gnome 1:0:1
+482:Tracker gnome 2:0:1
+483:Tracker gnome 3:0:1
+484:Local Gnome:0:1
+485:Local Gnome:0:1
+486:Kalron:0:1
+487:Giant:0:2
+488:Observatory professor:0:1
+489:Goblin guard:42:1
+490:Mummy:0:2
+491:Ghost:24:1
+492:Spirit of Scorpius:0:1
+493:Grave scorpion:12:1
+494:Banker:0:1
+495:Banker:0:1
+496:Banker:0:1
+497:Banker:0:1
+498:Banker:0:1
+499:Banker:0:1
+500:Mosol Rei:0:1
+501:Spirit of Zadimus:0:1
+502:Undead one:68:1
+503:Undead one:61:1
+504:Undead one:68:1
+505:Undead one:73:1
+506:Rashiliyia:0:1
+507:Nazastarool:91:2
+508:Nazastarool:68:2
+509:Nazastarool:93:2
+510:Hajedy:0:1
+511:Vigroy:0:1
+512:Kaleb Paramaya:0:1
+513:Yohnus:0:1
+514:Seravel:0:1
+515:Yanni Salika:0:1
+516:Obli:0:1
+517:Fernahei:0:1
+518:Captain Shanks:0:1
+519:Bob:0:1
+520:Shopkeeper:0:1
+521:Shop assistant:0:1
+522:Shopkeeper:0:1
+523:Shop assistant:0:1
+524:Shopkeeper:0:1
+525:Shop assistant:0:1
+526:Shopkeeper:0:1
+527:Shop assistant:0:1
+528:Shopkeeper:0:1
+529:Shop assistant:0:1
+530:Shopkeeper:0:1
+531:Shop assistant:0:1
+532:Shopkeeper:0:1
+533:Shop assistant:0:1
+534:Fairy shopkeeper:0:1
+535:Fairy shop assistant:0:1
+536:Valaine:0:1
+537:Scavvo:0:1
+538:Peksa:0:1
+539:Silk trader:0:1
+540:Gem trader:0:1
+541:Zeke:0:1
+542:Louie Legs:0:1
+543:Karim:0:1
+544:Ranael:0:1
+545:Dommik:0:1
+546:Zaff:0:1
+547:Baraek:0:1
+548:Thessalia:0:1
+549:Horvik:0:1
+550:Lowe:0:1
+551:Shopkeeper:0:1
+552:Shop assistant:0:1
+553:Aubury:0:1
+554:Fancy-dress shop owner:0:1
+555:Shopkeeper:0:1
+556:Grum:0:1
+557:Wydin:0:1
+558:Gerrant:0:1
+559:Brian:0:1
+560:Jiminua:0:1
+561:Shopkeeper:0:1
+562:Candle-maker:0:1
+563:Arhein:0:1
+564:Jukat:0:1
+565:Lunderwin:0:1
+566:Irksol:0:1
+567:Fairy:0:1
+568:Zambo:0:1
+569:Silver merchant:0:1
+570:Gem merchant:0:1
+571:Baker:0:1
+572:Spice seller:0:1
+573:Fur trader:0:1
+574:Silk merchant:0:1
+575:Hickton:0:1
+576:Harry:0:1
+577:Cassie:0:1
+578:Frincos:0:1
+579:Drogo dwarf:0:1
+580:Flynn:0:1
+581:Wayne:0:1
+582:Dwarf:0:1
+583:Betty:0:1
+584:Herquin:0:1
+585:Rommik:0:1
+586:Gaius:0:1
+587:Jatix:0:1
+588:Davon:0:1
+589:Zenesha:0:1
+590:Aemad:0:1
+591:Kortan:0:1
+592:Roachey:0:1
+593:Frenita:0:1
+594:Nurmof:0:1
+595:Tea seller:0:1
+596:Fat Tony:0:1
+597:Noterazzo:0:1
+598:Hairdresser:0:1
+599:Make-over Mage:0:1
+600:Hudo:0:1
+601:Rometti:0:1
+602:Gulluck:0:1
+603:Heckel Funch:0:1
+604:Thurgo:0:1
+605:Sir Vyvin:0:1
+606:Squire:0:1
+607:Gunnjorn:0:1
+608:Sir Amik Varze:0:1
+609:Fortress Guard:20:1
+610:Black Knight Captain:0:1
+611:Witch:0:1
+612:Greldo:0:1
+613:Digsite workman:0:1
+614:Doug Deeping:0:1
+615:Student:0:1
+616:Student:0:1
+617:Student:0:1
+618:Examiner:0:1
+619:Archaeological expert:0:1
+620:Panning guide:0:1
+621:Gnome baller:0:1
+622:Gnome baller:0:1
+623:Gnome baller:0:1
+624:Gnome baller:0:1
+625:Gnome baller:0:1
+626:Gnome baller:0:1
+627:Gnome baller:0:1
+628:Gnome baller:0:1
+629:Gnome baller:0:1
+630:Gnome baller:0:1
+631:Gnome baller:0:1
+632:Gnome baller:0:1
+633:Gnome winger:0:1
+634:Gnome winger:0:1
+635:Gnome ball referee:0:1
+636:Cheerleader:0:1
+637:Juliet:0:1
+638:Apothecary:0:1
+639:Romeo:0:1
+640:Father Lawrence:0:1
+641:Charlie the Tramp:0:1
+642:Katrine:0:1
+643:Weaponsmaster:23:1
+644:Straven:0:1
+645:Jonny the beard:2:1
+646:Curator Haig Halen:0:1
+647:null:1:1
+648:King Roald:0:1
+649:Archer:0:1
+650:Warrior:0:1
+651:Monk:0:1
+652:Wizard:0:1
+653:Fairy Queen:0:1
+654:Shamus:0:1
+655:Tree spirit:101:1
+656:Cave monk:0:1
+657:Monk of Entrana:0:1
+658:Monk of Entrana:0:1
+659:Party Pete:0:1
+660:Knight:0:1
+661:Megan:0:1
+662:Lucy:0:1
+663:Man:0:1
+664:null:1:1
+665:Boot:0:1
+666:Caleb:0:1
+667:Chronozon:170:3
+668:Johnathon:0:1
+669:Hazelmere:0:1
+670:King Narnode Shareen:0:1
+671:Glough:0:1
+672:Anita:0:1
+673:Charlie:0:1
+674:Foreman:23:1
+675:Shipyard worker:0:1
+676:Femi:0:1
+677:Black demon:172:3
+678:Guard:37:1
+679:Ranging Guild Doorman:0:1
+680:Leatherworker:0:1
+681:Held vampyre juvinate:59:1
+682:Armour salesman:0:1
+683:Bow and Arrow salesman:0:1
+684:Tower Advisor:0:1
+685:Tower Advisor:0:1
+686:Tower Advisor:0:1
+687:Tower Advisor:0:1
+688:Tower Archer:19:1
+689:Tower Archer:34:1
+690:Tower Archer:49:1
+691:Tower Archer:64:1
+692:Tribal Weapon Salesman:0:1
+693:Competition Judge:0:1
+694:Ticket Merchant:0:1
+695:Bailey:0:1
+696:Caroline:0:1
+697:null:1:1
+698:Holgart:0:1
+699:Holgart:0:1
+700:Holgart:0:1
+701:Kent:0:1
+702:Fisherman:0:1
+703:Fisherman:0:1
+704:Fisherman:0:1
+705:Melee Tutor:0:1
+706:Wizard Mizgog:0:1
+707:Wizard Grayzag:0:1
+708:Imp:2:1
+709:Imp:3:1
+710:Alrena:0:1
+711:Bravek:0:1
+712:Carla:0:1
+713:Clerk:0:1
+714:Edmond:0:1
+715:null:1:1
+716:Head mourner:0:1
+717:Mourner:0:1
+718:Mourner:0:1
+719:Mourner:0:1
+720:Recruiter:0:1
+721:Ted Rehnison:0:1
+722:Martha Rehnison:0:1
+723:Billy Rehnison:0:1
+724:Milli Rehnison:0:1
+725:Jethick:0:1
+726:Man:0:1
+727:Man:0:1
+728:Man:0:1
+729:Man:0:1
+730:Man:0:1
+731:Bartender:0:1
+732:Bartender:0:1
+733:Bartender:0:1
+734:Bartender:0:1
+735:Bartender:0:1
+736:Emily:0:1
+737:Bartender:0:1
+738:Bartender:0:1
+739:Bartender:0:1
+740:Trufitus:0:1
+741:Duke Horacio:0:1
+742:Elvarg:83:4
+743:Ned:0:1
+744:Klarense:0:1
+745:Wormbrain:2:1
+746:Oracle:0:1
+747:Oziach:0:1
+748:null:0:1
+749:Angry barbarian spirit:166:1
+750:Enraged barbarian spirit:166:1
+751:Berserk barbarian spirit:166:1
+752:Ferocious barbarian spirit:166:1
+753:Melzar the Mad:43:1
+754:Peaceful barbarian spirit:0:1
+755:Morgan:0:1
+756:Dr Harlow:0:1
+757:Count Draynor:34:1
+758:Fred the Farmer:0:1
+759:null:1:1
+760:Kittens:0:1
+761:Kitten:0:1
+762:Kitten:0:1
+763:Kitten:0:1
+764:Kitten:0:1
+765:Kitten:0:1
+766:Kitten:0:1
+767:Crate:0:1
+768:Cat:0:1
+769:Cat:0:1
+770:Cat:0:1
+771:Cat:0:1
+772:Cat:0:1
+773:Cat:0:1
+774:Overgrown cat:0:1
+775:Overgrown cat:0:1
+776:Overgrown cat:0:1
+777:Overgrown cat:0:1
+778:Overgrown cat:0:1
+779:Overgrown cat:0:1
+780:Gertrude:0:1
+781:Shilop:0:1
+782:Philop:0:1
+783:Wilough:0:1
+784:Kanel:0:1
+785:Civilian:0:1
+786:Civilian:0:1
+787:Civilian:0:1
+788:Garv:0:1
+789:Grubor:0:1
+790:Letham:111:1
+791:Seth:0:1
+792:Grip:22:1
+793:Alfonse the waiter:0:1
+794:Charlie the cook:0:1
+795:Ice Queen:111:1
+796:Achietties:0:1
+797:Helemos:0:1
+798:Velrak the explorer:0:1
+799:Pirate Guard:19:1
+800:Fishing spot:0:1
+801:Abbot Langley:0:1
+802:Brother Jered:0:1
+803:Monk:5:1
+804:Tanner:0:1
+805:Master Crafter:0:1
+806:Donovan the Family Handyman:0:1
+807:Pierre:0:1
+808:Hobbes:0:1
+809:Louisa:0:1
+810:Mary:0:1
+811:Stanford:0:1
+812:Guard:0:1
+813:Gossip:0:1
+814:Anna:0:1
+815:Bob:0:1
+816:Carol:0:1
+817:David:0:1
+818:Elizabeth:0:1
+819:Frank:0:1
+820:Poison Salesman:0:1
+821:Sinclair Guard dog:0:1
+822:Ana:0:1
+823:Ana:0:1
+824:Female slave:0:1
+825:Male slave:0:1
+826:Escaping slave:0:1
+827:Rowdy slave:10:1
+828:Shanty Claws:0:1
+829:null:0:1
+830:Mercenary Captain:47:1
+831:Captain Siad:0:1
+832:Al Shabim:0:1
+833:Bedabin Nomad:0:1
+834:Bedabin Nomad Guard:0:1
+835:Irena:0:1
+836:Shantay:0:1
+837:Shantay Guard:22:1
+838:Shantay Guard:22:1
+839:Desert Wolf:27:2
+840:Ugthanki:42:2
+841:Mine cart driver:0:1
+842:Rowdy Guard:43:1
+843:RPDT employee:0:1
+844:null:1:1
+845:Horacio:0:1
+846:Kangai Mau:0:1
+847:Head chef:0:1
+848:Blurberry:0:1
+849:Barman:0:1
+850:Aluft Gianne snr.:0:1
+851:Gnome Waiter:0:1
+852:Ogre chieftain:81:2
+853:Og:0:2
+854:Grew:0:2
+855:Toban:0:2
+856:Gorad:68:2
+857:Ogre guard:0:2
+858:Ogre guard:0:2
+859:Ogre guard:0:2
+860:Ogre guard:0:2
+861:Ogre guard:0:2
+862:City guard:83:2
+863:Scared skavid:0:2
+864:Mad skavid:0:2
+865:Skavid:0:2
+866:Skavid:0:2
+867:Skavid:0:2
+868:Skavid:0:2
+869:Skavid:0:2
+870:Enclave guard:83:2
+871:null:1:1
+872:Watchtower Wizard:0:1
+873:Ogre trader:0:2
+874:Ogre merchant:0:2
+875:Ogre trader:0:2
+876:Ogre trader:0:2
+877:Tower guard:28:1
+878:Colonel Radick:38:1
+879:Delrith:27:2
+880:Weakened Delrith:1:2
+881:Traiborn:0:1
+882:Gypsy Aris:0:1
+883:Sir Prysin:0:1
+884:Captain Rovin:0:1
+885:Ceril Carnillean:0:1
+886:Claus the chef:0:1
+887:Guard:0:1
+888:Philipe Carnillean:0:1
+889:Henryeta Carnillean:0:1
+890:Butler Jones:0:1
+891:Alomone:13:1
+892:Hazeel:296:1
+893:Clivet:13:1
+894:Hazeel Cultist:13:1
+895:Boy:0:1
+896:Nora T. Hagg:0:1
+897:Witch's experiment:19:1
+898:Witch's experiment (second form):30:1
+899:Witch's experiment (third form):42:2
+900:Witch's experiment (fourth form):53:2
+901:Mouse:0:1
+902:Gundai:0:1
+903:Lundail:0:1
+904:Chamber guardian:0:1
+905:Kolodion:0:1
+906:Kolodion:0:1
+907:Kolodion:0:1
+908:Kolodion:0:1
+909:Kolodion:0:3
+910:Kolodion:0:1
+911:Kolodion:112:3
+912:Battle mage:54:1
+913:Battle mage:54:1
+914:Battle mage:54:1
+915:Leela:0:1
+916:Joe:0:1
+917:Jail guard:26:1
+918:Ned:0:1
+919:Lady Keli:0:1
+920:Prince Ali:0:1
+921:Prince Ali:0:1
+922:Aggie:0:1
+923:Hassan:0:1
+924:Osman:0:1
+925:Border Guard:0:1
+926:Border Guard:0:1
+927:Fishing spot:0:1
+928:Gujuo:0:1
+929:Ungadulu:70:1
+930:Ungadulu:169:1
+931:Jungle savage:90:1
+932:Fionella:0:1
+933:Siegfried Erkle:0:1
+934:Nezikchened:187:3
+935:Viyeldi:79:1
+936:San Tojalon:106:1
+937:Irvig Senay:100:1
+938:Ranalph Devere:92:1
+939:Boulder:0:2
+940:Echned Zekin:187:1
+941:Green dragon:79:4
+942:Master chef:0:1
+943:Survival expert:0:1
+944:Combat instructor:146:1
+945:RuneScape guide:0:1
+946:Magic instructor:0:1
+947:Financial advisor:0:1
+948:Mining instructor:0:1
+949:Quest guide:0:1
+950:Giant rat:3:2
+951:Chicken:3:1
+952:Fishing spot:0:1
+953:Banker:0:1
+954:Brother Brace:0:1
+955:Cow:2:2
+956:Drunken Dwarf:0:1
+957:Mubariz:0:1
+958:Fadli:0:1
+959:A'abla:0:1
+960:Sabreen:0:1
+961:Surgeon General Tafani:0:1
+962:Jaraah:0:1
+963:Zahwa:0:1
+964:Ima:0:1
+965:Sabeil:0:1
+966:Jadid:0:1
+967:Dalal:0:1
+968:Afrah:0:1
+969:Jeed:0:1
+970:Diango:0:1
+971:Chadwell:0:1
+972:Koftik:0:1
+973:Koftik:0:1
+974:Koftik:0:1
+975:Koftik:0:1
+976:Koftik:0:1
+977:Blessed spider:39:1
+978:Blessed giant rat:9:2
+979:Slave:0:1
+980:Slave:0:1
+981:Slave:0:1
+982:Slave:0:1
+983:Slave:0:1
+984:Slave:0:1
+985:Slave:0:1
+986:Boulder:0:2
+987:Unicorn:15:2
+988:Sir Jerro:62:1
+989:Sir Carl:62:1
+990:Sir Harry:62:1
+991:Half-soulless:1:2
+992:Kardia:0:1
+993:Witch's cat:0:1
+994:Niloof:0:1
+995:Klank:0:1
+996:Kamen:0:1
+997:Kalrag:89:3
+998:Othainian:91:3
+999:Doomion:91:3
+1000:Holthion:91:3
+1001:Dark mage:0:1
+1002:Disciple of Iban:13:1
+1003:Lord Iban:0:2
+1004:Spider:1:1
+1005:Giant bat:0:2
+1006:Sea slug:0:1
+1007:Zamorak wizard:65:1
+1008:Hamid:0:1
+1009:Poison spider:31:1
+1010:Rantz:0:2
+1011:Fycie:0:1
+1012:Bugs:0:1
+1013:Swamp toad:0:1
+1014:Bloated Toad:0:1
+1015:Iron pickaxe:0:1
+1016:Chompy bird:0:1
+1017:Chicken:1:1
+1018:Rooster:3:1
+1019:Fire elemental:35:1
+1020:Earth elemental:35:1
+1021:Air elemental:34:1
+1022:Water elemental:34:1
+1023:Vampire:72:1
+1024:null:0:1
+1025:null:0:1
+1026:null:0:1
+1027:null:0:1
+1028:Baby impling:0:1
+1029:Young impling:0:1
+1030:Gourmet impling:0:1
+1031:Earth impling:0:1
+1032:Essence impling:0:1
+1033:Eclectic impling:0:1
+1034:Nature impling:0:1
+1035:Magpie impling:0:1
+1036:Banker:0:1
+1037:Prissy Scilla:0:1
+1038:Rufus:0:1
+1039:Barker:0:1
+1040:Fidelio:0:1
+1041:Sbott:0:1
+1042:Roavar:0:1
+1043:Will o' the wisp:0:1
+1044:Monk of Zamorak:22:1
+1045:Monk of Zamorak:17:1
+1046:Monk of Zamorak:30:1
+1047:null:1:1
+1048:null:1:1
+1049:Drezel:0:1
+1050:Filliman Tarlock:0:1
+1051:Nature Spirit:0:1
+1052:Ghast:0:2
+1053:Ghast:30:2
+1054:Ulizius:0:1
+1055:Pirate Jackie the Fruit:0:1
+1056:Mime:0:1
+1057:Strange watcher:0:1
+1058:Strange watcher:0:1
+1059:Strange watcher:0:1
+1060:Denulth:0:1
+1061:Sergeant:0:1
+1062:Sergeant:0:1
+1063:Soldier:0:1
+1064:Soldier:0:1
+1065:Soldier:48:1
+1066:Soldier:0:1
+1067:Soldier:0:1
+1068:Soldier:0:1
+1069:Soldier:0:2
+1070:Saba:0:1
+1071:Tenzing:0:1
+1072:Eadburg:4:1
+1073:Archer:42:1
+1074:Archer:42:1
+1075:Archer:42:1
+1076:Guard:37:1
+1077:Guard:37:1
+1078:Harold:0:1
+1079:Tostig:0:1
+1080:Eohric:0:1
+1081:Servant:5:1
+1082:Dunstan:0:1
+1083:Wistan:0:1
+1084:Breoca:5:1
+1085:Ocga:5:1
+1086:Man:2:1
+1087:Penda:5:1
+1088:Hygd:4:1
+1089:Ceolburg:4:1
+1090:Hild:0:1
+1091:Bob:0:1
+1092:White Knight:36:1
+1093:Billy:0:1
+1094:Mountain goat:0:1
+1095:Rock:111:2
+1096:Stick:104:2
+1097:Pee Hat:91:2
+1098:Kraka:91:2
+1099:Dung:0:2
+1100:Ash:0:2
+1101:Thrower Troll:67:1
+1102:Thrower Troll:67:1
+1103:Thrower Troll:67:1
+1104:Thrower Troll:67:1
+1105:Thrower Troll:67:1
+1106:Mountain troll:69:1
+1107:Mountain troll:69:1
+1108:Mountain troll:69:1
+1109:Mountain troll:69:1
+1110:Mountain troll:69:1
+1111:Mountain troll:69:1
+1112:Mountain troll:69:1
+1113:Eadgar:0:1
+1114:Godric:0:1
+1115:Troll general:113:2
+1116:Troll general:113:2
+1117:Troll general:113:2
+1118:Troll spectator:71:1
+1119:Troll spectator:71:1
+1120:Troll spectator:71:1
+1121:Troll spectator:71:1
+1122:Troll spectator:71:1
+1123:Troll spectator:71:1
+1124:Troll spectator:71:1
+1125:Dad:101:3
+1126:Twig:71:2
+1127:Berry:71:2
+1128:Twig:71:2
+1129:Berry:71:2
+1130:Thrower troll:68:1
+1131:Thrower troll:68:1
+1132:Thrower troll:68:1
+1133:Thrower troll:68:1
+1134:Thrower troll:68:1
+1135:Cook:0:2
+1136:Cook:0:2
+1137:Cook:0:2
+1138:Mountain troll:71:1
+1139:Mushroom:0:2
+1140:Mountain goat:0:1
+1141:Mountain goat:0:1
+1142:Guard:0:1
+1143:Guard:0:1
+1144:Guard:0:1
+1145:Guard:0:1
+1146:Guard:0:1
+1147:Guard:0:1
+1148:Guard:0:1
+1149:Guard:0:1
+1150:Guard:0:1
+1151:Burntmeat:0:2
+1152:Weird Old Man:0:1
+1153:Kalphite Worker:28:2
+1154:Kalphite Soldier:85:3
+1155:Kalphite Guardian:141:4
+1156:Kalphite Worker:28:2
+1157:Kalphite Guardian:141:4
+1158:Kalphite Queen:333:5
+1159:Kalphite Queen:333:5
+1160:Kalphite Queen:333:5
+1161:Kalphite Larva:0:1
+1162:Timfraku:0:1
+1163:Tiadeche:0:1
+1164:Tiadeche:0:1
+1165:Tinsay:0:1
+1166:Tinsay:0:1
+1167:Tamayu:0:1
+1168:Tamayu:0:1
+1169:Tamayu:0:1
+1170:Tamayu:0:1
+1171:Lubufu:0:1
+1172:The Shaikahan:83:3
+1173:The Shaikahan:83:3
+1174:Fishing spot:0:1
+1175:Fishing spot:0:1
+1176:Fishing spot:0:1
+1177:Fishing spot:0:1
+1178:Fishing spot:0:1
+1179:Gull:0:2
+1180:Cormorant:0:2
+1181:Pelican:0:2
+1182:Lord Iorwerth:0:1
+1183:Elf warrior:90:1
+1184:Elf warrior:108:1
+1185:Elven city guard:0:1
+1186:Idris:0:1
+1187:Essyllt:0:1
+1188:Morvran:0:1
+1189:Fishing spot:0:1
+1190:Fishing spot:0:1
+1191:Fishing spot:0:1
+1192:Rabbit:2:1
+1193:Rabbit:2:1
+1194:Rabbit:2:1
+1195:Grizzly bear:42:2
+1196:Grizzly bear cub:33:2
+1197:Grizzly bear cub:36:1
+1198:Dire Wolf:88:2
+1199:Elf Tracker:0:1
+1200:Tyras guard:110:1
+1201:Elf warrior:0:1
+1202:Arianwyn:0:1
+1203:Tyras guard:110:1
+1204:Tyras guard:110:1
+1205:null:1:1
+1206:Tyras guard:0:1
+1207:null:1:1
+1208:Quartermaster:0:1
+1209:Koftik:0:1
+1210:Kings messenger:0:1
+1211:Will o' the wisp:0:1
+1212:Will o' the wisp:0:1
+1213:Tegid:0:2
+1214:Thistle:0:1
+1215:Parrots:0:1
+1216:Parroty Pete:0:1
+1217:Gardener:4:1
+1218:Ghoul:42:1
+1219:Leech:52:1
+1220:Vampire:72:1
+1221:Spider:0:1
+1222:Mist:1:2
+1223:Vampire:61:1
+1224:Vampyric hound:1:2
+1225:Vampire:25:1
+1226:Tree:0:1
+1227:Myre Blamish Snail:9:1
+1228:Blood Blamish Snail:20:1
+1229:Ochre Blamish Snail:10:1
+1230:Bruise Blamish Snail:20:1
+1231:Bark Blamish Snail:15:1
+1232:Myre Blamish Snail:10:1
+1233:Blood Blamish Snail:20:1
+1234:Ochre Blamish Snail:15:1
+1235:Bruise Blamish Snail:20:1
+1236:Fishing spot:0:1
+1237:Fishing spot:0:1
+1238:Fishing spot:0:1
+1239:Bedabin Nomad Fighter:56:1
+1240:Loar Shadow:40:1
+1241:Loar Shade:40:1
+1242:Shade Spirit:0:1
+1243:Phrin Shadow:60:1
+1244:Phrin Shade:60:1
+1245:Riyl Shadow:80:1
+1246:Riyl Shade:80:1
+1247:Asyn Shadow:100:1
+1248:Asyn Shade:100:1
+1249:Fiyr Shadow:120:1
+1250:Fiyr Shade:120:1
+1251:Afflicted(Ulsquire):0:1
+1252:Ulsquire Shauncy:0:1
+1253:Afflicted(Razmire):0:1
+1254:Razmire Keelgan:0:1
+1255:Mort'ton Local:0:1
+1256:Mort'ton Local:0:1
+1257:Afflicted:37:1
+1258:Afflicted:34:1
+1259:Mort'ton local:0:1
+1260:Mort'ton local:0:1
+1261:Afflicted:32:1
+1262:Afflicted:30:1
+1263:Wizard:0:1
+1264:Saradomin wizard:108:1
+1265:Rock Crab:13:1
+1266:Rocks:0:1
+1267:Rock Crab:13:1
+1268:Rocks:0:1
+1269:Olaf the Bard:0:1
+1270:Lalli:0:1
+1271:Golden sheep:0:1
+1272:Golden sheep:0:1
+1273:Fossegrimen:0:1
+1274:Ospak:0:1
+1275:Styrmir:0:1
+1276:Torbrund:0:1
+1277:Fridgeir:0:1
+1278:Longhall Bouncer:0:1
+1279:The Draugen:69:1
+1280:Butterfly:0:1
+1281:Sigli the Huntsman:0:1
+1282:Sigmund The Merchant:0:1
+1283:Swensen the Navigator:0:1
+1284:Bjorn:0:1
+1285:Eldgrim:0:1
+1286:Manni the Reveller:0:1
+1287:Council workman:0:1
+1288:Peer the Seer:0:1
+1289:Thorvald the Warrior:0:1
+1290:Koschei the deathless:0:1
+1291:Koschei the deathless:0:1
+1292:Koschei the deathless:0:1
+1293:Koschei the deathless:0:1
+1294:Brundt the Chieftain:0:1
+1295:Askeladden:0:1
+1296:Guard:0:1
+1297:Guard:0:1
+1298:Town Guard:0:1
+1299:Town Guard:0:1
+1300:Thora the Barkeep:0:1
+1301:Yrsa:0:1
+1302:Fisherman:0:1
+1303:Skulgrimen:0:1
+1304:Sailor:0:1
+1305:Agnar:0:1
+1306:Freidir:48:1
+1307:Borrokar:48:1
+1308:Lanzig:48:1
+1309:Pontak:48:1
+1310:Freygerd:48:1
+1311:Lensa:48:1
+1312:Jennella:48:1
+1313:Sassilik:48:1
+1314:Inga:48:1
+1315:Fish monger:0:1
+1316:Fur trader:0:1
+1317:Market Guard:48:1
+1318:Warrior:48:1
+1319:Fox:0:1
+1320:Bunny:2:1
+1321:Bunny:2:1
+1322:Gull:0:1
+1323:Gull:0:1
+1324:Gull:0:1
+1325:Gull:0:1
+1326:Bear Cub:15:2
+1327:Bear Cub:15:1
+1328:Unicorn Foal:12:2
+1329:Black unicorn Foal:22:2
+1330:Wolf:64:2
+1331:Fishing spot:0:1
+1332:Fishing spot:0:1
+1333:Fishing spot:0:1
+1334:Jossik:0:1
+1335:Jossik:0:2
+1336:Larrissa:0:1
+1337:Larrissa:0:1
+1338:Dagannoth:74:1
+1339:Dagannoth:74:1
+1340:Dagannoth:74:1
+1341:Dagannoth:92:2
+1342:Dagannoth:92:2
+1343:Dagannoth:92:2
+1344:Dagannoth:100:2
+1345:Dagannoth:100:2
+1346:Dagannoth:100:2
+1347:Dagannoth:100:2
+1348:Dagannoth mother:100:3
+1349:Dagannoth mother:100:3
+1350:Dagannoth mother:100:3
+1351:Dagannoth mother:100:3
+1352:Dagannoth mother:100:3
+1353:Dagannoth mother:100:3
+1354:Dagannoth mother:100:3
+1355:Dagannoth mother:100:3
+1356:Dagannoth mother:100:3
+1357:Sam:0:1
+1358:Rachael:0:1
+1359:Queen Sigrid:0:1
+1360:Banker:0:1
+1361:Arnor:0:1
+1362:Haming:0:1
+1363:Moldof:0:1
+1364:Helga:0:1
+1365:Matilda:0:1
+1366:Ashild:0:1
+1367:Skraeling:2:1
+1368:Skraeling:2:1
+1369:Fishmonger:0:1
+1370:Greengrocer:0:1
+1371:Prince Brand:0:1
+1372:Princess Astrid:0:1
+1373:King Vargas:0:2
+1374:Guard:0:1
+1375:Advisor Ghrim:0:1
+1376:Derrik:0:1
+1377:Farmer:0:1
+1378:Flower Girl:0:1
+1379:Ragnar:1:1
+1380:Einar:1:1
+1381:Alrik:1:1
+1382:Thorhild:1:1
+1383:Halla:1:1
+1384:Yrsa:1:1
+1385:Sailor:0:1
+1386:Rannveig:2:1
+1387:Thora:2:1
+1388:Valgerd:2:1
+1389:Skraeling:2:1
+1390:Broddi:2:1
+1391:Skraeling:2:1
+1392:Ragnvald:2:1
+1393:Fishmonger:0:1
+1394:Greengrocer:0:1
+1395:Lumberjack Leif:0:1
+1396:Miner Magnus:0:1
+1397:Fisherman Frodi:0:2
+1398:Gardener Gunnhild:0:1
+1399:Fishing spot:0:1
+1400:Gull:0:1
+1401:Chicken:1:1
+1402:Chicken:1:1
+1403:Rooster:2:1
+1404:Rabbit:2:1
+1405:Fishing spot:0:1
+1406:Fishing spot:0:1
+1407:Daero:0:1
+1408:Waydar:0:1
+1409:Waydar:0:1
+1410:Waydar:0:1
+1411:Garkor:0:1
+1412:Garkor:0:1
+1413:Lumo:0:1
+1414:Lumo:0:1
+1415:Bunkdo:0:1
+1416:Bunkdo:0:1
+1417:Carado:0:1
+1418:Carado:0:1
+1419:Lumdo:0:1
+1420:Karam:0:1
+1421:Karam:0:1
+1422:Karam:0:1
+1423:Bunkwicket:0:1
+1424:Waymottin:0:1
+1425:Zooknock:0:1
+1426:Zooknock:0:1
+1427:G.L.O. Caranock:0:1
+1428:G.L.O. Caranock:0:1
+1429:Dugopul:0:1
+1430:Salenab:0:1
+1431:Trefaji:0:2
+1432:Aberab:0:2
+1433:Solihib:0:1
+1434:Daga:0:1
+1435:Tutab:0:1
+1436:Ifaba:0:1
+1437:Hamab:0:1
+1438:Hafuba:0:2
+1439:Denadu:0:1
+1440:Lofu:0:1
+1441:Kruk:149:1
+1442:Duke:149:1
+1443:Oipuis:149:1
+1444:Uyoro:149:1
+1445:Ouhai:149:1
+1446:Uodai:149:1
+1447:Padulah:149:1
+1448:Awowogei:0:1
+1449:Uwogo:0:1
+1450:Muruwoi:0:1
+1451:Sleeping Monkey:0:1
+1452:Monkey Child:0:1
+1453:The Monkey's Uncle:0:1
+1454:The Monkey's Aunt:0:1
+1455:Monkey Guard:149:1
+1456:Monkey Archer:86:1
+1457:Monkey Archer:86:1
+1458:Monkey Archer:86:1
+1459:Monkey Guard:167:2
+1460:Monkey Guard:167:2
+1461:Elder Guard:0:2
+1462:Elder Guard:0:2
+1463:Monkey:3:1
+1464:Monkey:3:1
+1465:Monkey Zombie:98:1
+1466:Monkey Zombie:129:1
+1467:Monkey Zombie:82:1
+1468:Bonzara:0:1
+1469:Monkey minder:0:1
+1470:Foreman:0:1
+1471:Skeleton:142:1
+1472:Jungle demon:195:3
+1473:Spider:1:1
+1474:Spider:0:1
+1475:Bird:11:1
+1476:Bird:5:1
+1477:Scorpion:38:1
+1478:Jungle spider:37:1
+1479:Snake:24:1
+1480:Small ninja monkey:1:1
+1481:Medium ninja monkey:1:1
+1482:Gorilla:1:1
+1483:Bearded gorilla:1:1
+1484:Ancient monkey:1:1
+1485:Small zombie monkey:1:1
+1486:Large zombie monkey:1:1
+1487:Monkey:1:1
+1488:Dummy:0:1
+1489:Dummy:0:1
+1490:Dummy:0:1
+1491:Dummy:0:1
+1492:Dummy:0:1
+1493:Dummy:0:1
+1494:Dummy:0:1
+1495:Dummy:0:1
+1496:Dummy:0:1
+1497:Dummy:0:1
+1498:Dummy:0:1
+1499:Dummy:0:1
+1500:Dummy:0:1
+1501:Dummy:0:1
+1502:Dummy:0:1
+1503:Dummy:0:1
+1504:Dummy:0:1
+1505:Dummy:0:1
+1506:Dummy:0:1
+1507:Dummy:0:1
+1508:Forester:0:1
+1509:Woman-at-arms:0:1
+1510:Apprentice:0:1
+1511:Ranger:0:1
+1512:Adventurer:0:1
+1513:Mage:0:1
+1514:Hiylik Myna:0:1
+1515:null:1:1
+1516:null:1:1
+1517:null:1:1
+1518:null:1:1
+1519:null:1:1
+1520:null:1:1
+1521:Nail beast:69:2
+1522:Nail beast:98:2
+1523:Nail beast:141:2
+1524:Undead Lumberjack:30:1
+1525:Undead Lumberjack:30:1
+1526:Lanthus:0:1
+1527:Mine cart:0:1
+1528:Zealot:0:1
+1529:Sheep:1:1
+1530:Rabbit:1:1
+1531:Imp:1:1
+1532:Barricade:0:1
+1533:Barricade:0:1
+1534:Barricade:0:1
+1535:Barricade:0:1
+1536:Possessed pickaxe:50:1
+1537:Haze:0:1
+1538:Corpse:0:1
+1539:Skeletal miner:42:1
+1540:Treus Dayth:95:1
+1541:Ghost:95:1
+1542:Loading crane:0:3
+1543:Innocent-looking key:0:1
+1544:Mine cart:0:1
+1545:Mine cart:0:1
+1546:Mine cart:0:1
+1547:Mine cart:0:1
+1548:Mine cart:0:1
+1549:Ghost:29:1
+1550:Chompy bird:6:1
+1551:Mischievous ghost:0:1
+1552:Santa:0:1
+1553:Ug:0:1
+1554:Aga:0:1
+1555:Arrg:171:2
+1556:Arrg:171:2
+1557:Ug:1:1
+1558:Ice wolf:96:2
+1559:Ice wolf:132:2
+1560:Ice Troll:124:1
+1561:Ice Troll:123:1
+1562:Ice Troll:120:1
+1563:Ice Troll:121:1
+1564:Ice Troll:120:1
+1565:Ice Troll:120:1
+1566:Ice Troll:121:1
+1567:Cyreg Paddlehorn:0:1
+1568:Curpile Fyod:0:1
+1569:Veliaf Hurtz:0:1
+1570:Sani Piliu:0:1
+1571:Harold Evans:0:1
+1572:Radigad Ponfit:0:1
+1573:Polmafi Ferdygris:0:1
+1574:Ivan Strom:0:1
+1575:Skeleton Hellhound:97:2
+1576:Stranger:0:1
+1577:Vanstrom Klause:0:1
+1578:Mist:0:3
+1579:Vanstrom Klause:0:1
+1580:Vanstrom Klause:0:2
+1581:Vanstrom Klause:0:2
+1582:Fire giant:86:2
+1583:Fire giant:86:2
+1584:Fire giant:86:2
+1585:Fire giant:86:2
+1586:Fire giant:86:2
+1587:Moss giant:42:2
+1588:Moss giant:42:2
+1589:Baby red dragon:48:2
+1590:Bronze dragon:131:4
+1591:Iron dragon:189:4
+1592:Steel dragon:246:4
+1593:Wild dog:63:1
+1594:Wild dog:63:1
+1595:Saniboch:0:1
+1596:null:0:1
+1597:Vannaka:0:1
+1598:Chaeldar:0:1
+1599:null:0:1
+1600:Cave crawler:23:2
+1601:Cave crawler:23:2
+1602:Cave crawler:23:2
+1603:Cave crawler:23:2
+1604:Aberrant spectre:96:2
+1605:Aberrant spectre:96:2
+1606:Aberrant spectre:96:2
+1607:Aberrant spectre:96:2
+1608:Kurask:106:3
+1609:Kurask:106:3
+1610:Gargoyle:111:3
+1611:Swarming turoth:89:1
+1612:Banshee:23:2
+1613:Nechryael:115:1
+1614:Death spawn:46:1
+1615:Abyssal demon:124:1
+1616:Basilisk:61:2
+1617:Basilisk:61:2
+1618:Bloodveld:76:2
+1619:Bloodveld:76:2
+1620:Cockatrice:37:2
+1621:Cockatrice:37:3
+1622:Turoth:86:1
+1623:Turoth:89:2
+1624:Dust devil:93:1
+1625:Smokedevil:93:1
+1626:Turoth:87:2
+1627:Turoth:85:1
+1628:Turoth:83:1
+1629:Turoth:88:2
+1630:Turoth:88:2
+1631:Rockslug:29:1
+1632:Rockslug:29:1
+1633:Pyrefiend:43:1
+1634:Pyrefiend:43:1
+1635:Pyrefiend:43:1
+1636:Pyrefiend:43:1
+1637:Jelly:78:1
+1638:Jelly:78:1
+1639:Jelly:78:1
+1640:Jelly:78:1
+1641:Jelly:78:1
+1642:Jelly:78:1
+1643:Infernal Mage:66:1
+1644:Infernal Mage:66:1
+1645:Infernal Mage:66:1
+1646:Infernal Mage:66:1
+1647:Infernal Mage:66:1
+1648:Crawling Hand:8:1
+1649:Crawling Hand:8:1
+1650:Crawling Hand:7:1
+1651:Crawling Hand:8:1
+1652:Crawling Hand:8:1
+1653:Crawling Hand:12:2
+1654:Crawling Hand:12:2
+1655:Crawling Hand:11:2
+1656:Crawling Hand:12:2
+1657:Crawling Hand:12:2
+1658:Robe Store owner:0:1
+1659:Skullball:0:1
+1660:Skullball Boss:0:1
+1661:Agility Boss:0:1
+1662:Skullball Trainer:0:1
+1663:Agility Trainer:0:1
+1664:Agility Trainer:0:1
+1665:Werewolf:0:1
+1666:null:1:1
+1667:null:1:1
+1668:null:1:1
+1669:null:1:1
+1670:Dr Fenkenstrain:0:1
+1671:null:1:1
+1672:null:1:1
+1673:Fenkenstrain's Monster:0:1
+1674:Lord Rologarth:0:1
+1675:Gardener Ghost:0:1
+1676:Experiment:51:2
+1677:Experiment:25:2
+1678:Experiment:25:1
+1679:Eluned:0:1
+1680:Islwyn:0:1
+1681:Moss giant:84:2
+1682:Golrie:0:1
+1683:Velorina:0:1
+1684:Necrovarus:0:1
+1685:Gravingas:0:1
+1686:Ghost disciple:0:1
+1687:null:1:1
+1688:Ak-Haranu:0:1
+1689:null:0:3
+1690:null:0:1
+1691:Undead cow:2:2
+1692:Undead chicken:1:1
+1693:Giant lobster:32:2
+1694:Robin:0:1
+1695:Old crone:0:1
+1696:Old man:0:1
+1697:Ghost villager:0:1
+1698:Tortured soul:59:1
+1699:Ghost shopkeeper:0:1
+1700:Ghost innkeeper:0:1
+1701:Ghost farmer:0:1
+1702:Ghost banker:0:1
+1703:Ghost sailor:0:1
+1704:Ghost captain:0:1
+1705:Ghost captain:0:1
+1706:Ghost guard:0:1
+1707:Ghost (?):1:1
+1708:Ghost (?):1:1
+1709:Johanhus Ulsbrecht:0:1
+1710:H.A.M. Guard:12:1
+1711:H.A.M. Guard:18:1
+1712:H.A.M. Guard:22:1
+1713:H.A.M. Deacon:0:1
+1714:H.A.M. Member:0:1
+1715:H.A.M. Member:0:1
+1716:H.A.M. Member:0:1
+1717:H.A.M. Member:0:1
+1718:Jimmy the Chisel:0:1
+1719:Tree:0:2
+1720:Tree:0:2
+1721:Tree:0:2
+1722:Dead tree:0:2
+1723:Dead tree:0:2
+1724:Dead tree:0:1
+1725:Dead tree:0:1
+1726:Dead tree:0:1
+1727:Dead tree:0:1
+1728:Dead tree:0:2
+1729:Dead tree:0:1
+1730:Dead tree:0:2
+1731:Dead tree:0:2
+1732:null:0:1
+1733:Dramen tree:0:2
+1734:Magic tree:0:2
+1735:Maple tree:0:2
+1736:Willow:0:2
+1737:Willow:0:2
+1738:Willow:0:2
+1739:Oak:0:3
+1740:Yew:0:3
+1741:Evergreen:0:2
+1742:Evergreen:0:3
+1743:Evergreen:0:3
+1744:Tree:0:3
+1745:Dead tree:0:1
+1746:Achey Tree:0:2
+1747:Tree:0:3
+1748:Tree:0:3
+1749:Hollow tree:0:1
+1750:Hollow tree:0:2
+1751:Terrorbird:28:2
+1752:Mounted terrorbird gnome:31:2
+1753:Mounted terrorbird gnome:49:2
+1754:Crow:0:1
+1755:Crow:0:1
+1756:Crow:0:1
+1757:Farmer:7:1
+1758:Farmer:7:1
+1759:Farmer:0:1
+1760:Farmer:0:1
+1761:Farmer:0:1
+1762:Sheep:0:1
+1763:Sheep:0:1
+1764:Sheep:0:1
+1765:Sheep:0:1
+1766:Cow calf:2:2
+1767:Cow:2:2
+1768:Cow calf:2:2
+1769:Goblin:2:1
+1770:Goblin:2:1
+1771:Goblin:2:1
+1772:Goblin:2:1
+1773:Goblin:2:1
+1774:Goblin:2:1
+1775:Goblin:2:1
+1776:Goblin:2:1
+1777:Ilfeen:0:1
+1778:William:0:2
+1779:Ian:0:2
+1780:Larry:0:2
+1781:Darren:0:2
+1782:Edward:0:2
+1783:Richard:0:2
+1784:Neil:0:2
+1785:Edmond:0:2
+1786:Simon:0:2
+1787:Sam:0:2
+1788:Lumdo:0:1
+1789:Bunkwicket:0:1
+1790:Waymottin:0:1
+1791:Jungle Tree:0:1
+1792:Jungle Tree:0:2
+1793:Tassie Slipcast:0:1
+1794:Hammerspike Stoutbeard:0:1
+1795:Dwarf gang member:44:1
+1796:Dwarf gang member:48:1
+1797:Dwarf gang member:49:1
+1798:Phantuwti Fanstuwi Farsight:0:1
+1799:Tindel Marchant:0:1
+1800:Gnormadium Avlafrim:0:1
+1801:Petra Fiyed:1:1
+1802:Slagilith:92:2
+1803:Rock pile:0:2
+1804:Slagilith:0:2
+1805:Guard:0:1
+1806:Guard:0:1
+1807:Hamal the Chieftain:0:1
+1808:Ragnar:0:1
+1809:Svidi:0:1
+1810:Jokul:0:1
+1811:null:1:2
+1812:The Kendal:70:2
+1813:The Kendal:70:2
+1814:Camp dweller:31:1
+1815:Camp dweller:31:1
+1816:Camp dweller:31:1
+1817:Camp dweller:31:1
+1818:Camp dweller:25:1
+1819:Mountain Goat:0:1
+1820:Mountain Goat:0:1
+1821:Bald Headed Eagle:0:2
+1822:Cave goblin:3:1
+1823:Cave goblin:3:1
+1824:Cave goblin:3:1
+1825:Cave goblin:3:1
+1826:Zombie:39:1
+1827:Gargoyle:111:3
+1828:Giant frog:99:2
+1829:Big frog:24:1
+1830:Frog:0:1
+1831:Cave slime:23:1
+1832:Cave bug:6:1
+1833:Cave bug larva:0:1
+1834:Candle seller:0:1
+1835:Easter Bunny:0:1
+1836:null:1:1
+1837:Dondakan the Dwarf:0:1
+1838:Dondakan the Dwarf:0:1
+1839:Dondakan the Dwarf:0:1
+1840:Dwarven Engineer:0:1
+1841:Rolad:0:1
+1842:Khorvak, a dwarven engineer:0:1
+1843:Dwarven Ferryman:0:1
+1844:Dwarven Ferryman:0:1
+1845:null:1:1
+1846:Dwarven Boatman:0:1
+1847:Miodvetnir:0:1
+1848:Dernu:0:1
+1849:Derni:0:1
+1850:Arzinian Avatar of Strength:0:1
+1851:Arzinian Avatar of Strength:125:1
+1852:Arzinian Avatar of Strength:75:1
+1853:Arzinian Avatar of Ranging:0:1
+1854:Arzinian Avatar of Ranging:125:1
+1855:Arzinian Avatar of Ranging:75:1
+1856:Arzinian Avatar of Magic:0:1
+1857:Arzinian Avatar of Magic:125:1
+1858:Arzinian Avatar of Magic:75:1
+1859:Arzinian Being of Bordanzan:781:1
+1860:Brian:0:1
+1861:Ranged Tutor:0:1
+1862:Ali Morrisane:0:1
+1863:Drunken Ali:0:1
+1864:Ali The barman:0:1
+1865:Ali the Kebab seller:0:1
+1866:Market seller:0:1
+1867:Ali the Camel Man:0:1
+1868:Street urchin:0:1
+1869:null:0:1
+1870:Ali the Mayor:0:1
+1871:Ali the Hag:0:1
+1872:Ali the Snake Charmer:0:1
+1873:Ali the Camel:0:2
+1874:Desert snake:5:1
+1875:Snake:0:1
+1876:null:0:1
+1877:null:0:1
+1878:Bandit Leader:0:1
+1879:null:56:1
+1880:Bandit:56:1
+1881:Bandit:56:1
+1882:Sir Palomedes:118:1
+1883:Sir Palomedes:118:1
+1884:Trobert:0:1
+1885:Bandit champion:70:1
+1886:Cowardly Bandit:56:1
+1887:null:3:1
+1888:Villager:3:1
+1889:Villager:3:1
+1890:Villager:3:1
+1891:null:3:1
+1892:Villager:3:1
+1893:Villager:3:1
+1894:Villager:3:1
+1895:null:3:1
+1896:Villager:3:1
+1897:Villager:3:1
+1898:Villager:3:1
+1899:null:0:1
+1900:null:0:1
+1901:Menaphite Leader:0:1
+1902:Ali the Operator:0:1
+1903:null:55:1
+1904:Menaphite Thug:55:1
+1905:Menaphite Thug:55:1
+1906:Tough Guy:75:1
+1907:null:1:1
+1908:Broken clay golem:0:1
+1909:Damaged clay golem:0:1
+1910:Clay golem:0:1
+1911:Desert Phoenix:0:2
+1912:Elissa:0:1
+1913:Kamil:154:1
+1914:Dessous:139:1
+1915:Dessous:139:1
+1916:Ruantun:0:1
+1917:Bandit shopkeeper:0:1
+1918:Archaeologist:0:1
+1919:Stranger:95:1
+1920:Malak:0:1
+1921:Bartender:0:1
+1922:null:1:1
+1923:Eblis:0:1
+1924:null:1:1
+1925:Eblis:0:1
+1926:Bandit:74:1
+1927:Bandit:0:1
+1928:Bandit:0:1
+1929:Bandit:0:1
+1930:Bandit:0:1
+1931:Bandit:57:1
+1932:null:0:1
+1933:Troll child:0:1
+1934:Troll child:0:1
+1935:Ice troll:0:1
+1936:Ice troll:124:1
+1937:Ice troll:123:1
+1938:Ice troll:120:1
+1939:Ice troll:121:1
+1940:Ice troll:120:1
+1941:Ice troll:120:1
+1942:Ice troll:121:1
+1943:null:34:2
+1944:Ice block:0:2
+1945:null:34:2
+1946:Ice block:0:2
+1947:null:1:1
+1948:Troll father:0:1
+1949:null:1:1
+1950:Troll mother:0:1
+1951:Ice wolf:132:2
+1952:Ice wolf:132:2
+1953:Ice wolf:132:2
+1954:Ice wolf:132:2
+1955:Ice wolf:132:2
+1956:Ice wolf:132:2
+1957:null:1:1
+1958:Mummy:96:1
+1959:Mummy:98:1
+1960:Mummy ashes:96:1
+1961:Mummy:103:1
+1962:Mummy:103:1
+1963:Mummy:103:1
+1964:Mummy:103:1
+1965:Mummy:103:1
+1966:Mummy:103:1
+1967:Mummy:103:1
+1968:Mummy:103:1
+1969:Scarabs:92:1
+1970:null:0:2
+1971:Azzanadra:0:2
+1972:Rasolo:0:1
+1973:Giant skeleton:80:1
+1974:Damis:103:1
+1975:Damis:174:1
+1976:Shadow Hound:63:1
+1977:Fareed:167:1
+1978:Slave:0:1
+1979:Slave:0:1
+1980:Embalmer:0:1
+1981:Carpenter:0:1
+1982:Raetul:0:1
+1983:Siamun:0:1
+1984:null:1:1
+1985:null:1:1
+1986:High Priest:0:1
+1987:null:1:1
+1988:Priest:0:1
+1989:Priest:0:1
+1990:Sphinx:0:2
+1991:Possessed Priest:91:1
+1992:Neite:0:1
+1993:Crocodile:63:2
+1994:Jackal:21:1
+1995:Locust:18:1
+1996:Vulture:31:2
+1997:Plague frog:11:1
+1998:Plague cow:0:2
+1999:Plague cow:0:2
+2000:Plague cow:0:2
+2001:Scarab swarm:98:1
+2002:null:1:1
+2003:null:1:1
+2004:null:1:1
+2005:Wanderer:0:1
+2006:Wanderer:0:1
+2007:Het:81:1
+2008:Apmeken:75:1
+2009:Scabaras:75:1
+2010:Crondis:75:1
+2011:null:1:1
+2012:Icthlarin:0:1
+2013:null:1:1
+2014:Klenter:0:1
+2015:Mummy:84:1
+2016:Mummy:84:1
+2017:Mummy:84:1
+2018:Mummy:84:1
+2019:Mummy:84:1
+2020:null:1:1
+2021:Light creature:0:1
+2022:Light creature:0:3
+2023:Juna:0:1
+2024:Strange Old Man:0:1
+2025:Ahrim the Blighted:98:1
+2026:Dharok the Wretched:115:1
+2027:Guthan the Infested:115:1
+2028:Karil the Tainted:98:1
+2029:Torag the Corrupted:115:1
+2030:Verac the Defiled:115:1
+2031:Bloodworm:52:1
+2032:Crypt rat:43:1
+2033:Giant crypt rat:76:2
+2034:Crypt spider:56:1
+2035:Giant crypt spider:79:1
+2036:Skeleton:77:1
+2037:Skeleton:77:1
+2038:Grish:0:2
+2039:Uglug Nar:0:2
+2040:Pilg:0:2
+2041:Grug:0:2
+2042:Ogre guard:0:2
+2043:Ogre guard:76:2
+2044:Zogre:44:2
+2045:Zogre:44:2
+2046:Zogre:44:2
+2047:Zogre:44:2
+2048:Zogre:44:2
+2049:Zogre:44:2
+2050:Skogre:44:2
+2051:Zogre:44:2
+2052:Zogre:44:2
+2053:Zogre:44:2
+2054:Zogre:44:2
+2055:Zogre:44:2
+2056:Skogre:44:2
+2057:Skogre:44:2
+2058:Hole in the wall:0:1
+2059:Zavistic Rarve:0:1
+2060:Slash Bash:111:3
+2061:Sithik Ints:1:1
+2062:Sithik Ints:1:1
+2063:Gargh:0:2
+2064:Scarg:0:2
+2065:Gruh:0:2
+2066:Irwin Feaselbaum:0:1
+2067:Fishing spot:0:1
+2068:Fishing spot:0:1
+2069:Cave goblin miner:11:1
+2070:Cave goblin miner:11:1
+2071:Cave goblin miner:11:1
+2072:Cave goblin miner:11:1
+2073:Cave goblin guard:26:1
+2074:Cave goblin guard:24:1
+2075:Cave goblin miner:11:1
+2076:Cave goblin miner:11:1
+2077:Cave goblin miner:11:1
+2078:Cave goblin miner:11:1
+2079:null:1:1
+2080:null:1:1
+2081:null:1:1
+2082:Sigmund:0:1
+2083:Sigmund:0:1
+2084:Mistag:0:1
+2085:null:1:1
+2086:Kazgar:0:1
+2087:Ur-tag:0:1
+2088:Duke Horacio:0:1
+2089:Mistag:0:1
+2090:Sigmund:0:1
+2091:Secretary:0:1
+2092:Purple Pewter Secretary:0:1
+2093:Yellow Fortune Secretary:0:1
+2094:Blue Opal Secretary:0:1
+2095:Green Gemstone Secretary:0:1
+2096:White Chisel Secretary:0:1
+2097:Silver Cog Secretary:0:1
+2098:Brown Engine Secretary:0:1
+2099:Red Axe Secretary:0:1
+2100:Purple Pewter Director:0:1
+2101:Blue Opal Director:0:1
+2102:Yellow Fortune Director:0:1
+2103:Green Gemstone Director:0:1
+2104:White Chisel Director:0:1
+2105:Silver Cog Director:0:1
+2106:Brown Engine Director:0:1
+2107:Red Axe Director:0:1
+2108:Red Axe Cat:0:1
+2109:Trader:0:1
+2110:Trader:0:1
+2111:Trader:0:1
+2112:Trader:0:1
+2113:Trader:0:1
+2114:Trader:0:1
+2115:Trader:0:1
+2116:Trader:0:1
+2117:Trader:0:1
+2118:Trader:0:1
+2119:Trader:0:1
+2120:Trader:0:1
+2121:Trader:0:1
+2122:Trader:0:1
+2123:null:0:1
+2124:Trader:0:1
+2125:null:0:1
+2126:Trader:0:1
+2127:Trade Referee:0:1
+2128:Supreme Commander:0:1
+2129:Commander Veldaban:0:1
+2130:Black Guard:48:1
+2131:Black Guard:48:1
+2132:Black Guard:48:1
+2133:Black Guard:48:1
+2134:Black Guard Berserker:66:1
+2135:Black Guard Berserker:66:1
+2136:Black Guard Berserker:66:1
+2137:Gnome emissary:0:1
+2138:Gnome traveller:0:1
+2139:Gnome traveller:0:1
+2140:Dromund's cat:0:1
+2141:Blasidar the sculptor:0:1
+2142:null:0:1
+2143:Riki the sculptor's model:0:1
+2144:Riki the sculptor's model:0:1
+2145:Riki the sculptor's model:0:1
+2146:Riki the sculptor's model:0:1
+2147:Riki the sculptor's model:0:1
+2148:Riki the sculptor's model:0:1
+2149:Riki the sculptor's model:0:1
+2150:Riki the sculptor's model:0:1
+2151:Vigr:0:1
+2152:Santiri:0:1
+2153:Saro:0:1
+2154:Gunslik:0:1
+2155:Wemund:0:1
+2156:Randivor:0:1
+2157:Hervi:0:1
+2158:Nolar:0:1
+2159:Gulldamar:0:1
+2160:Tati:0:1
+2161:Agmundi:0:1
+2162:Vermundi:0:1
+2163:Banker:0:1
+2164:Banker:0:1
+2165:Librarian:0:1
+2166:Assistant:0:1
+2167:Customer:0:1
+2168:Customer:0:1
+2169:Dromund:0:1
+2170:Rind the gardener:0:1
+2171:Factory Manager:0:1
+2172:Factory Worker:0:1
+2173:Factory Worker:0:1
+2174:Factory Worker:0:1
+2175:Factory Worker:0:1
+2176:Inn Keeper:0:1
+2177:Inn Keeper:0:1
+2178:Barmaid:0:1
+2179:Barman:0:1
+2180:Cart conductor:0:1
+2181:Cart conductor:0:1
+2182:Cart conductor:0:1
+2183:Cart conductor:0:1
+2184:Cart conductor:0:1
+2185:Cart conductor:0:1
+2186:Cart conductor:0:1
+2187:Rowdy dwarf:0:1
+2188:Hegir:0:1
+2189:Haera:0:1
+2190:Runvastr:0:1
+2191:Sune:0:1
+2192:Bentamir:0:1
+2193:Ulifed:0:1
+2194:Reinald:0:1
+2195:Karl:0:1
+2196:Gauss:0:1
+2197:Myndill:0:1
+2198:Kjut:0:1
+2199:Tombar:0:1
+2200:Odmar:0:1
+2201:Audmann:0:1
+2202:null:0:1
+2203:Drunken Dwarf:0:1
+2204:Drunken Dwarf:0:1
+2205:Dwarven Boatman:0:1
+2206:Dwarven Boatman:0:1
+2207:Dwarven Miner:0:1
+2208:Dwarven Miner:0:1
+2209:Dwarven Miner:0:1
+2210:Dwarven Miner:0:1
+2211:Dwarven Miner:0:1
+2212:Dwarven Miner:0:1
+2213:Dwarven Miner:0:1
+2214:Dwarven Miner:0:1
+2215:Dwarven Miner:0:1
+2216:Dwarven Miner:0:1
+2217:Dwarven Miner:0:1
+2218:Dwarven Miner:0:1
+2219:Purple Pewter Director:0:1
+2220:Purple Pewter Director:0:1
+2221:Blue Opal Director:0:1
+2222:Yellow Fortune Director:0:1
+2223:Green Gemstone Director:0:1
+2224:White Chisel Director:0:1
+2225:Silver Cog Director:0:1
+2226:Brown Engine Director:0:1
+2227:Red Axe Director:0:1
+2228:Commander Veldaban:0:1
+2229:Red Axe Cat:0:1
+2230:Red Axe Cat:0:1
+2231:null:0:1
+2232:Black Guard Berserker:0:1
+2233:Olivia:0:1
+2234:Master Farmer:0:1
+2235:Master Farmer:0:1
+2236:Market Guard:20:1
+2237:Gee:0:1
+2238:Donie:0:1
+2239:Pig:0:1
+2240:Pig:0:2
+2241:Piglet:0:1
+2242:Piglet:0:1
+2243:Piglet:0:1
+2244:Lumbridge Guide:0:1
+2245:Khazard trooper:19:1
+2246:Khazard trooper:19:1
+2247:Gnome troop:3:1
+2248:Gnome troop:3:1
+2249:Gnome:3:1
+2250:Gnome:1:1
+2251:Gnome:3:1
+2252:Crow:0:1
+2253:Wise Old Man:0:1
+2254:Bed:0:2
+2255:Thing under the bed:0:2
+2256:Paladin:62:1
+2257:null:1:1
+2258:Mage of Zamorak:0:1
+2259:Mage of Zamorak:0:1
+2260:null:1:1
+2261:Mage of Zamorak:0:1
+2262:Dark mage:0:1
+2263:Abyssal leech:41:1
+2264:Abyssal guardian:59:1
+2265:Abyssal walker:81:1
+2266:Brian O'Richard:0:1
+2267:Rogue Guard:0:1
+2268:Rogue Guard:0:1
+2269:Rogue Guard:0:1
+2270:Martin Thwait:0:1
+2271:Emerald Benedict:0:1
+2272:Spin Blades:0:1
+2273:Spin Blades:0:1
+2274:Goblin:2:1
+2275:Goblin:2:1
+2276:Goblin:2:1
+2277:Goblin:2:1
+2278:Goblin:2:1
+2279:Goblin:2:1
+2280:Goblin:2:1
+2281:Goblin:2:1
+2282:Sir Spishyus:0:1
+2283:Lady Table:0:1
+2284:Sir Kuam Ferentse:0:1
+2285:Sir Leye:20:1
+2286:Sir Tinley:0:1
+2287:Sir Ren Itchood:0:1
+2288:Miss Cheevers:0:1
+2289:Ms. Hynn Terprett:0:2
+2290:Sir Tiffy Cashien:0:1
+2291:Rug Merchant:0:1
+2292:Rug Merchant:0:1
+2293:Rug Merchant:0:1
+2294:Rug Merchant:0:1
+2295:null:1:1
+2296:Rug Merchant:0:1
+2297:null:0:1
+2298:Rug Merchant:0:1
+2299:null:0:1
+2300:Rug Station Attendant:0:1
+2301:Monkey:0:1
+2302:null:0:1
+2303:null:0:1
+2304:Sarah:0:1
+2305:Vanessa:0:1
+2306:Richard:0:1
+2307:Alice:0:1
+2308:Capt' Arnav:0:1
+2309::0:1
+2310:Cow calf:2:1
+2311:Sheepdog:0:1
+2312:Rooster:0:1
+2313:Chicken:1:1
+2314:Chicken:1:1
+2315:Chicken:1:1
+2316:Pig:0:1
+2317:Pig:0:2
+2318:Piglet:0:1
+2319:Piglet:0:1
+2320:Piglet:0:1
+2321:Blandebir:0:1
+2322:Metarialus:0:1
+2323:Elstan:0:1
+2324:Dantaera:0:1
+2325:Kragen:0:1
+2326:Lyra:0:1
+2327:Francis:0:1
+2328:Wizard Cromperty:0:1
+2329:Muncher:0:2
+2330:Garth:0:1
+2331:Ellena:0:1
+2332:Selena:0:1
+2333:Vasquen:0:1
+2334:Rhonen:0:1
+2335:Dreven:0:1
+2336:Taria:0:1
+2337:Rhazien:0:1
+2338:Torrell:0:1
+2339:Alain:0:1
+2340:Heskel:0:1
+2341:Treznor:0:1
+2342:Fayeth:0:1
+2343:Bolongo:0:1
+2344:Gileth:0:1
+2345:Sick-looking sheep (1):0:1
+2346:Sick-looking sheep (2):0:1
+2347:Sick-looking sheep (3):0:1
+2348:Sick-looking sheep (4):0:1
+2349:Mourner:11:1
+2350:Mourner:11:1
+2351:Mourner:11:1
+2352:Eudav:0:1
+2353:Oronwen:0:1
+2354:Banker:0:1
+2355:Banker:0:1
+2356:Dalldav:0:1
+2357:Gethin:0:1
+2358:Arianwyn:0:1
+2359:Elf warrior:108:1
+2360:Elf warrior:108:1
+2361:Elf warrior:90:1
+2362:Elf warrior:90:1
+2363:Goreu:0:1
+2364:Ysgawyn:0:1
+2365:Arvel:0:1
+2366:Mawrth:0:1
+2367:Kelyn:0:1
+2368:Eoin:0:1
+2369:Iona:0:1
+2370:null:0:1
+2371:Gnome:0:1
+2372:Head mourner:0:1
+2373:Mourner:108:1
+2374:Mourner:0:1
+2375:null:1:1
+2376:Eluned:0:1
+2377:Sick-looking sheep (1):0:1
+2378:Sick-looking sheep (2):0:1
+2379:Sick-looking sheep (3):0:1
+2380:Sick-looking sheep (4):0:1
+2381:null:1:1
+2382:null:1:1
+2383:null:1:1
+2384:null:1:1
+2385:null:1:1
+2386:null:1:1
+2387:null:1:1
+2388:null:1:1
+2389:null:1:1
+2390:null:1:1
+2391:null:1:1
+2392:null:1:1
+2393:null:1:1
+2394:null:1:1
+2395:null:1:1
+2396:null:1:1
+2397:Mysterious ghost:0:1
+2398:Mysterious ghost:0:1
+2399:Mysterious ghost:0:1
+2400:Mysterious ghost:0:1
+2401:Mysterious ghost:0:1
+2402:Mysterious ghost:0:1
+2403:null:0:1
+2404:null:0:1
+2405:null:0:1
+2406:null:0:1
+2407:null:0:1
+2408:null:0:1
+2409:Cart conductor:0:1
+2410:Red Axe Director:0:1
+2411:Red Axe Director:0:1
+2412:Red Axe Henchman:0:1
+2413:Red Axe Henchman:0:1
+2414:Red Axe Henchman:0:1
+2415:Colonel Grimsson:0:1
+2416:Colonel Grimsson:0:1
+2417:Ogre shaman:0:2
+2418:Ogre shaman:0:2
+2419:Grunsh:0:2
+2420:Gnome emissary:0:1
+2421:Gnome companion:0:1
+2422:Gnome companion:0:1
+2423:Chaos dwarf:48:1
+2424:Gunslik:0:1
+2425:Nolar:0:1
+2426:Factory Worker:0:1
+2427:Cart conductor:0:1
+2428:Gauss:0:1
+2429:Drunken Dwarf:0:1
+2430:Rowdy dwarf:0:1
+2431:Ulifed:0:1
+2432:Red Axe Henchman:1:1
+2433:Red Axe Henchman:1:1
+2434:Ogre shaman:1:2
+2435:null:1:1
+2436:Jarvald:0:1
+2437:Jarvald:0:1
+2438:Jarvald:0:1
+2439:Askeladden:0:1
+2440:Door-support:0:1
+2441:Door:0:1
+2442:Door:0:1
+2443:Door-support:0:1
+2444:Door:0:1
+2445:Door:0:1
+2446:Door-support:0:1
+2447:Door:0:1
+2448:Door:0:1
+2449:Egg:0:1
+2450:Egg:0:1
+2451:Egg:0:1
+2452:Giant Rock Crab:137:2
+2453:Boulder:0:2
+2454:Dagannoth spawn:42:1
+2455:Dagannoth:90:1
+2456:Dagannoth:88:1
+2457:Wallasalki:98:1
+2458:Freaky Forester:0:1
+2459:Pheasant:3:1
+2460:Pheasant:3:1
+2461:Pheasant:3:1
+2462:Pheasant:3:1
+2463:Evil Chicken:19:1
+2464:Evil Chicken:38:1
+2465:Evil Chicken:69:1
+2466:Evil Chicken:81:1
+2467:Evil Chicken:121:1
+2468:Evil Chicken:159:1
+2469:Frog:0:1
+2470:Frog:0:1
+2471:Frog:0:1
+2472:Frog:0:1
+2473:Frog:0:1
+2474:Frog prince:0:1
+2475:Frog princess:0:1
+2476:Rick Turpentine:0:1
+2477:Quiz Master:0:1
+2478:Evil Bob:0:1
+2479:Evil Bob:0:1
+2480:Servant:0:1
+2481:Servant:0:1
+2482:Giant bat:0:2
+2483:null:1:1
+2484:null:1:1
+2485:null:1:1
+2486:null:1:1
+2487:null:1:1
+2488:null:1:1
+2489:Bush snake:35:1
+2490:Bush snake:35:1
+2491:Jungle spider:44:1
+2492:Jungle spider:44:1
+2493:Large mosquito:13:1
+2494:Mosquito swarm:17:1
+2495:Mosquito swarm:20:1
+2496:Tribesman:32:1
+2497:Tribesman:32:1
+2498:Broodoo victim:1:1
+2499:Broodoo victim:60:1
+2500:Broodoo victim:1:1
+2501:Broodoo victim:60:1
+2502:Broodoo victim:1:1
+2503:Broodoo victim:60:1
+2504:null:1:1
+2505:Sharimika:0:1
+2506:Sharimika:0:1
+2507:null:1:1
+2508:Mamma Bufetta:0:1
+2509:Mamma Bufetta:0:1
+2510:null:1:1
+2511:Layleen:0:1
+2512:Layleen:0:1
+2513:null:1:1
+2514:Karaday:0:1
+2515:Karaday:0:1
+2516:null:1:1
+2517:Safta Doc:0:1
+2518:Safta Doc:0:1
+2519:null:1:1
+2520:Gabooty:0:1
+2521:Gabooty:0:1
+2522:null:1:1
+2523:Fanellaman:0:1
+2524:Fanellaman:0:1
+2525:null:1:1
+2526:Jagbakoba:0:1
+2527:Jagbakoba:0:1
+2528:null:1:1
+2529:Murcaily:0:1
+2530:Murcaily:0:1
+2531:null:1:1
+2532:Rionasta:0:1
+2533:Rionasta:0:1
+2534:Mahogany:0:3
+2535:Teak:0:1
+2536:Niles:0:1
+2537:Miles:0:1
+2538:Giles:0:1
+2539:Cap'n Hand:0:1
+2540:Dr Jekyll:0:1
+2541:Mr Hyde:14:1
+2542:Mr Hyde:29:1
+2543:Mr Hyde:49:1
+2544:Mr Hyde:79:1
+2545:Mr Hyde:120:1
+2546:Mr Hyde:159:1
+2547:Chaos druid:13:1
+2548:Blackjack seller:0:1
+2549:Ali the dyer:0:1
+2550:Dwarven Miner:0:1
+2551:Dwarven Miner:0:1
+2552:Dwarven Miner:0:1
+2553:Blast Furnace Foreman:0:1
+2554:Tin ore:0:3
+2555:Copper ore:0:3
+2556:Iron ore:0:3
+2557:Mithril ore:0:3
+2558:Adamantite ore:0:3
+2559:Runite ore:0:3
+2560:Silver ore:0:3
+2561:Gold ore:0:3
+2562:Coal:0:3
+2563:Perfect gold ore:0:3
+2564:Ordan:0:1
+2565:Jorzik:0:1
+2566:Wise Old Man:0:1
+2567:Wise Old Man:0:1
+2568:Banker:0:1
+2569:Banker:0:1
+2570:Banker:0:1
+2571:Market Guard:20:1
+2572:Olivia:0:1
+2573:Pillory Guard:0:1
+2574:Bank guard:0:1
+2575:Purepker895:52:1
+2576:Qutiedoll:16:1
+2577:1337sp34kr:63:1
+2578:Elfinlocks:87:1
+2579:Cool Mom227:27:1
+2580:Bernald:0:1
+2581:Ellamaria:0:1
+2582:Trolley:0:1
+2583:Trolley:0:1
+2584:Trolley:0:1
+2585:null:1:1
+2586:Billy, a guard of Falador:0:1
+2587:Bob, another guard of Falador:0:1
+2588:Brother Althric:0:1
+2589:PKMaster0036:87:1
+2590:King Roald:0:1
+2591:TzHaar-Mej:103:1
+2592:TzHaar-Mej:103:1
+2593:TzHaar-Mej:103:1
+2594:TzHaar-Mej:103:1
+2595:TzHaar-Mej:103:1
+2596:TzHaar-Mej:103:1
+2597:TzHaar-Mej:103:1
+2598:TzHaar-Hur:74:1
+2599:TzHaar-Hur:74:1
+2600:TzHaar-Hur:74:1
+2601:TzHaar-Hur:74:1
+2602:TzHaar-Hur:74:1
+2603:TzHaar-Hur:74:1
+2604:TzHaar-Xil:133:1
+2605:TzHaar-Xil:133:1
+2606:TzHaar-Xil:133:1
+2607:TzHaar-Xil:133:1
+2608:TzHaar-Xil:133:1
+2609:TzHaar-Xil:133:1
+2610:TzHaar-Ket:149:1
+2611:TzHaar-Ket:149:1
+2612:TzHaar-Ket:149:1
+2613:TzHaar-Ket:149:1
+2614:TzHaar-Ket:149:1
+2615:TzHaar-Ket:149:1
+2616:TzHaar-Ket:149:1
+2617:TzHaar-Mej-Jal:0:1
+2618:TzHaar-Mej-Kah:0:1
+2619:TzHaar-Ket-Zuh:0:1
+2620:TzHaar-Hur-Tel:0:1
+2621:Olaf Hradson:0:1
+2622:TzHaar-Hur-Lek:0:1
+2623:TzHaar-Mej-Roh:0:1
+2624:TzHaar-Ket:0:1
+2625:TzHaar-Ket:0:1
+2626:Rocks:1:1
+2627:Tz-Kih:22:1
+2628:Tz-Kih:22:1
+2629:Tz-Kek:45:2
+2630:Tz-Kek:45:2
+2631:Tok-Xil:90:3
+2632:Tok-Xil:90:3
+2633:Wise Old Man:0:1
+2634:Miss Schism:0:1
+2635:Bob:0:1
+2636:Bob:0:1
+2637:Sphinx:0:2
+2638:Neite:0:1
+2639:Robert the Strong:0:1
+2640:Odysseus:0:2
+2641:Dragonkin:0:3
+2642:King Black Dragon:0:5
+2643:R4ng3rNo0b889:0:1
+2644:Love Cats:0:2
+2645:Love Cats:0:1
+2646:Neite:0:1
+2647:Bob:0:1
+2648:Beite:0:1
+2649:Gnome:0:1
+2650:Gnome:0:1
+2651:Odysseus:0:2
+2652:null:1:1
+2653:Neite:0:1
+2654:null:1:1
+2655:Unferth:0:1
+2656:Unferth:0:1
+2657:Unferth:0:1
+2658:Unferth:0:1
+2659:Unferth:0:1
+2660:Reldo:0:1
+2661:Reldo:0:1
+2662:Lazy cat:0:1
+2663:Lazy cat:0:1
+2664:Lazy cat:0:1
+2665:Lazy cat:0:1
+2666:Lazy cat:0:1
+2667:Lazy cat:0:1
+2668:Wily cat:0:1
+2669:Wily cat:0:1
+2670:Wily cat:0:1
+2671:Wily cat:0:1
+2672:Wily cat:0:1
+2673:Wily cat:0:1
+2674:Thief:16:1
+2675:Man:2:1
+2676:Make-over Mage:0:1
+2677:Highwayman:5:1
+2678:Goblin:2:1
+2679:Goblin:2:1
+2680:Goblin:2:1
+2681:Goblin:2:1
+2682:Rat:1:1
+2683:Hengel:2:1
+2684:Anja:2:1
+2685:Hobgoblin:28:1
+2686:Hobgoblin:28:1
+2687:Hobgoblin:28:1
+2688:Hobgoblin:28:1
+2689:Frog:0:1
+2690:Jack Seagull:0:1
+2691:Longbow Ben:0:1
+2692:Ahab:0:1
+2693:Duck:1:1
+2694:Duckling:1:1
+2695:Pirate:23:1
+2696:Thief:16:1
+2697:Mugger:6:1
+2698:Black knight:33:1
+2699:Guard:21:1
+2700:Guard:21:1
+2701:Guard:21:1
+2702:Guard:21:1
+2703:Guard:21:1
+2704:Guard:0:1
+2705:Guard:0:1
+2706:Crab:0:1
+2707:Seagull:0:1
+2708:Seagull:0:1
+2709:Fire wizard:13:1
+2710:Water wizard:13:1
+2711:Earth wizard:13:1
+2712:Air wizard:13:1
+2713:Malignius Mortifer:0:1
+2714:Zombie:0:1
+2715:Skeleton:0:1
+2716:Ghost:0:1
+2717:Skeleton mage:0:1
+2718:Betty:0:1
+2719:Grum:0:1
+2720:Gerrant:0:1
+2721:Wydin:0:1
+2722:Fishing spot:0:1
+2723:Fishing spot:0:1
+2724:Fishing spot:0:1
+2725:Otto Godblessed:0:1
+2726:Gull:0:1
+2727:Gull:0:1
+2728:Monk of Entrana:0:1
+2729:Monk of Entrana:0:1
+2730:Monk of Entrana:0:1
+2731:Monk of Entrana:0:1
+2732:Master Crafter:0:1
+2733:Master Crafter:0:1
+2734:Tz-Kih:22:1
+2735:Tz-Kih:22:1
+2736:Tz-Kek:45:2
+2737:Tz-Kek:45:2
+2738:Tz-Kek:22:1
+2739:Tok-Xil:90:3
+2740:Tok-Xil:90:3
+2741:Yt-MejKot:180:4
+2742:Yt-MejKot:180:4
+2743:Ket-Zek:360:5
+2744:Ket-Zek:360:5
+2745:TzTok-Jad:702:5
+2746:Yt-HurKot:108:1
+2747:Solus Dellagar:0:1
+2748:Savant:0:1
+2749:Lord Daquarius:0:1
+2750:Solus Dellagar:0:1
+2751:Black Knight:0:1
+2752:Lord Daquarius:0:1
+2753:Mage of Zamorak:0:1
+2754:Mage of Zamorak:0:1
+2755:Mage of Zamorak:0:1
+2756:null:1:1
+2757:null:1:1
+2758:null:1:1
+2759:null:1:1
+2760:null:1:1
+2761:null:1:1
+2762:null:1:1
+2763:null:1:1
+2764:null:1:1
+2765:null:1:1
+2766:null:1:1
+2767:null:1:1
+2768:null:1:1
+2769:null:1:1
+2770:null:1:1
+2771:null:1:1
+2772:null:1:1
+2773:null:1:1
+2774:null:1:1
+2775:null:1:1
+2776:Woman:0:1
+2777:Black Knight:32:1
+2778:Black Knight:32:1
+2779:Ranger:0:1
+2780:Solus Dellagar:0:1
+2781:Gnome guard:0:1
+2782:Shadow:73:1
+2783:Dark beast:182:3
+2784:Mourner:0:1
+2785:Slave:0:1
+2786:Slave:0:1
+2787:Slave:0:1
+2788:null:1:1
+2789:Thorgel:0:1
+2790:Sergeant Damien:0:1
+2791:Pillory Guard:0:1
+2792:Tramp:0:1
+2793:Tramp:0:1
+2794:Tramp:0:1
+2795:null:48:1
+2796:Skippy:0:1
+2797:Skippy:0:1
+2798:Skippy:0:1
+2799:Skippy:0:1
+2800:A pile of broken glass:0:1
+2801:Ogre:63:2
+2802:Gnome Coach:0:1
+2803:Lizard:42:3
+2804:Desert Lizard:24:2
+2805:Desert Lizard:24:2
+2806:Desert Lizard:24:2
+2807:Small Lizard:12:1
+2808:Small Lizard:12:1
+2809:Al the Camel:0:2
+2810:Elly the Camel:0:2
+2811:Ollie the Camel:0:2
+2812:Cam the Camel:0:2
+2813:null:0:2
+2814:Alice the Camel:0:2
+2815:Neferti the Camel:0:2
+2816:null:1:1
+2817:null:1:1
+2818:null:1:1
+2819:null:1:1
+2820:Ali the Smith:0:1
+2821:Ali the Farmer:0:1
+2822:Ali the Tailor:0:1
+2823:Ali the Guard:0:1
+2824:Ellis:0:1
+2825:Pirate Pete:0:1
+2826:Pirate Pete:0:1
+2827:Captain Braindeath:0:1
+2828:50% Luke:0:1
+2829:Davey:0:1
+2830:Captain Donnie:0:1
+2831:Zombie protester:0:1
+2832:Zombie protester:0:1
+2833:Zombie protester:0:1
+2834:Zombie protester:0:1
+2835:Zombie protester:0:1
+2836:Zombie protester:0:1
+2837:Zombie pirate:57:1
+2838:Zombie pirate:57:1
+2839:Zombie pirate:57:1
+2840:Zombie pirate:57:1
+2841:Zombie pirate:57:1
+2842:Zombie pirate:57:1
+2843:Zombie swab:55:1
+2844:Zombie swab:55:1
+2845:Zombie swab:55:1
+2846:Zombie swab:55:1
+2847:Zombie swab:55:1
+2848:Zombie swab:55:1
+2849:Evil spirit:150:2
+2850:Fever spider:49:2
+2851:Brewer:0:1
+2852:Brewer:0:1
+2853:Brewer:0:1
+2854:Brewer:0:1
+2855:Brewer:0:1
+2856:Brewer:0:1
+2857:Brewer:0:1
+2858:Brewer:0:1
+2859:Fishing spot:0:1
+2860:Amaethwr:0:1
+2861:Teclyn:0:1
+2862:Death:0:1
+2863:Zombie:0:1
+2864:Most of a Zombie:0:1
+2865:Most of a Zombie:0:1
+2866:Zombie:0:1
+2867:Most of a Zombie:0:1
+2868:Zombie Head:0:1
+2869:Zombie:0:1
+2870:Half-Zombie:0:1
+2871:Other Half-Zombie:0:1
+2872:Child:0:1
+2873:Child:0:1
+2874:Child:0:1
+2875:Child:0:1
+2876:Child:0:1
+2877:Child:0:1
+2878:Zombie:0:1
+2879:Bardur:94:1
+2880:Dagannoth fledgeling:70:2
+2881:Dagannoth Supreme:303:3
+2882:Dagannoth Prime:303:3
+2883:Dagannoth Rex:303:3
+2884:Wallasalki:98:1
+2885:Giant Rock Crab:137:2
+2886:Boulder:0:2
+2887:Dagannoth:88:1
+2888:Dagannoth:90:1
+2889:Rock lobster:127:2
+2890:Rock:0:2
+2891:Suspicious water:34:1
+2892:Spinolyp:76:1
+2893:Suspicious water:34:1
+2894:Spinolyp:76:1
+2895:Suspicious water:34:1
+2896:Spinolyp:76:1
+2897:null:1:1
+2898:null:1:1
+2899:Father Reen:0:1
+2900:Father Reen:0:1
+2901:null:1:1
+2902:Father Badden:0:1
+2903:Father Badden:0:1
+2904:Denath:0:1
+2905:Denath:0:1
+2906:Eric:0:1
+2907:Eric:0:1
+2908:null:1:1
+2909:Evil Dave:0:1
+2910:Evil Dave:0:1
+2911:Matthew:0:1
+2912:Matthew:0:1
+2913:Jennifer:0:1
+2914:Jennifer:0:1
+2915:Tanya:0:1
+2916:Tanya:0:1
+2917:Patrick:0:1
+2918:Patrick:0:1
+2919:Agrith Naar:100:3
+2920:null:1:3
+2921:Sand storm:0:3
+2922:null:1:1
+2923:null:1:1
+2924:null:1:1
+2925:null:1:1
+2926:null:1:1
+2927:Clay golem:0:1
+2928:Clay golem:0:1
+2929:null:2:1
+2930:null:0:1
+2931:Ghost:0:1
+2932:Jorral:0:1
+2933:null:0:1
+2934:Melina:0:1
+2935:Melina:0:1
+2936:null:0:1
+2937:Droalak:0:1
+2938:Droalak:0:1
+2939:Dron:0:1
+2940:Blanin:0:1
+2941:The Beast:0:1
+2942:Bellemorde:0:1
+2943:Pox:0:1
+2944:Pox:0:1
+2945:Bones:0:1
+2946:Grimesquit:0:1
+2947:Phingspet:0:1
+2948:Hooknosed Jack:0:1
+2949:Jimmy Dazzler:0:1
+2950:The Face:0:1
+2951:Felkrash:0:1
+2952:Smokin' Joe:0:1
+2953:Ceril Carnillean:0:1
+2954:Councillor Halgrive:0:1
+2955:Spice seller:0:1
+2956:Fur trader:0:1
+2957:Gem merchant:0:1
+2958:Silver merchant:0:1
+2959:Silk merchant:0:1
+2960:Zenesha:0:1
+2961:Ali Morrisane:0:1
+2962:Guard:0:1
+2963:Guard:0:1
+2964:Guard:0:1
+2965:Guard:0:1
+2966:Guard:0:1
+2967:Guard:0:1
+2968:Guard:0:1
+2969:Guard:0:1
+2970:Guard:0:1
+2971:Guard:0:1
+2972:Guard:0:1
+2973:Guard:0:1
+2974:null:1:1
+2975:null:1:1
+2976:null:1:1
+2977:null:1:1
+2978:null:1:1
+2979:null:1:1
+2980:Rat:0:1
+2981:Rat:0:1
+2982:King rat:0:1
+2983:Turbogroomer:0:1
+2984:Pusskins:0:1
+2985:Loki:0:1
+2986:Captain Tom:0:1
+2987:Treacle:0:1
+2988:Mittens:0:1
+2989:Claude:0:1
+2990:Topsy:0:1
+2991:Rauborn:0:1
+2992:Vaeringk:0:1
+2993:Oxi:0:1
+2994:Fior:0:1
+2995:Sagira:0:1
+2996:Anleif:0:1
+2997:Gertrude's cat:0:1
+2998:Gambler:0:1
+2999:Gambler:0:1
+3000:Barman:0:1
+3001:Gambler:0:1
+3002:Gambler:0:1
+3003:Gambler:0:1
+3004:Gambler:0:1
+3005:Gambler:0:1
+3006:Gambler:0:1
+3007:Rat:0:1
+3008:Rat:0:1
+3009:Rat:0:1
+3010:Rat:0:1
+3011:Rat:0:1
+3012:Rat:0:1
+3013:Rat:0:1
+3014:Rat:0:1
+3015:Rat:0:1
+3016:Rat:0:1
+3017:Rat:0:1
+3018:Rat:0:1
+3019:Fishing spot:0:1
+3020:Rug Merchant:0:1
+3021:Tool leprechaun:0:1
+3022:Genie:0:1
+3023:Nirrie:0:1
+3024:Tirrie:0:1
+3025:Hallak:0:1
+3026:Black golem:75:1
+3027:White golem:75:1
+3028:Grey golem:75:1
+3029:Ghaslor the Elder:0:1
+3030:Ali the Carter:0:1
+3031:Usi:0:1
+3032:Nkuku:0:1
+3033:Garai:0:1
+3034:Habibah:0:1
+3035:Meskhenet:0:1
+3036:Zahra:0:1
+3037:Zahur:0:1
+3038:Seddu:0:1
+3039:Kazemde:0:1
+3040:Awusah the Mayor:0:1
+3041:Tarik:21:1
+3042:Poltenip:21:1
+3043:Radat:21:1
+3044:Shiratti the Custodian:0:1
+3045:Rokuh:0:1
+3046:Nardah Banker:0:1
+3047:Target:0:1
+3048:Target:0:1
+3049:null:1:1
+3050:Larxus:0:1
+3051:Mystery figure:0:2
+3052:Mystery figure:0:2
+3053:Mystery figure:0:2
+3054:Mystery figure:0:2
+3055:Mystery figure:0:2
+3056:Mystery figure:0:2
+3057:Earth Warrior Champion:102:1
+3058:Giant Champion:56:2
+3059:Ghoul Champion:85:1
+3060:Goblin Champion:24:1
+3061:Hobgoblin Champion:56:1
+3062:Imp Champion:14:1
+3063:Jogre Champion:107:2
+3064:Lesser Demon Champion:162:2
+3065:Skeleton Champion:40:1
+3066:Zombies Champion:51:2
+3067:Leon d'Cour:141:1
+3068:Skeletal Wyvern:140:3
+3069:Skeletal Wyvern:140:3
+3070:Skeletal Wyvern:140:3
+3071:Skeletal Wyvern:140:3
+3072:Ice giant:53:2
+3073:Ice warrior:57:1
+3074:null:1:1
+3075:Monk:0:1
+3076:null:1:2
+3077:Dead Monk:0:2
+3078:High Priest:0:1
+3079:Monk:0:1
+3080:Monk:0:1
+3081:Assassin:0:1
+3082:Rosie:0:1
+3083:Sorcha:0:1
+3084:Cait:0:1
+3085:Cormac:0:1
+3086:Fionn:0:1
+3087:Donnacha:0:1
+3088:Ronan:0:1
+3089::0:1
+3090::0:1
+3091::0:1
+3092:Hooded Stranger:0:1
+3093:null:0:1
+3094:Flying Book:0:1
+3095:Flying Book:0:1
+3096:Pizzaz Hat:1:1
+3097:Entrance Guardian:0:1
+3098:Telekinetic Guardian:0:1
+3099:Alchemy Guardian:0:1
+3100:Enchantment Guardian:0:2
+3101:Graveyard Guardian:0:2
+3102:Maze Guardian:0:1
+3103:Rewards Guardian:0:2
+3104:Charmed Warrior:0:1
+3105:Charmed Warrior:0:1
+3106:Charmed Warrior:0:1
+3107:Charmed Warrior:0:1
+3108:Bert:0:1
+3109:Guard Captain:0:1
+3110:null:1:1
+3111:null:1:1
+3112:Sandy:0:1
+3113:Sandy:0:1
+3114:Mazion:0:1
+3115:Blaec:0:1
+3116:Reeso:0:1
+3117:Sandwich lady:0:1
+3118:Prison Pete:0:1
+3119:Balloon Animal:0:1
+3120:Balloon Animal:0:1
+3121:Balloon Animal:0:1
+3122:Balloon Animal:0:1
+3123:Simon Templeton:0:1
+3124:Pyramid block:0:2
+3125:Pyramid block:0:2
+3126:Pentyn:0:1
+3127:Aristarchus:0:1
+3128:null:13:1
+3129:Boneguard:0:2
+3130:Pile of bones:0:2
+3131:Desert Spirit:0:1
+3132:null:0:2
+3133:Crust of ice:0:2
+3134:null:0:2
+3135:Furnace grate:0:2
+3136:null:1:1
+3137:Enakhra:0:1
+3138:Enakhra:0:1
+3139:null:1:1
+3140:Boneguard:0:3
+3141:Akthanakos:0:1
+3142:Akthanakos:0:1
+3143:null:1:1
+3144:null:1:1
+3145:null:1:1
+3146:null:1:1
+3147:Lazim:0:1
+3148:Enakhra:0:1
+3149:Akthanakos:0:1
+3150:Knight:0:1
+3151:Skeleton:1:1
+3152:null:1:1
+3153:Harpie Bug Swarm:46:1
+3154:Count Draynor:34:2
+3155:Bill Teach:0:1
+3156:Bill Teach:0:1
+3157:Bill Teach:0:1
+3158:Bill Teach:0:1
+3159:Bill Teach:0:1
+3160:Bill Teach:0:1
+3161:Charley:0:1
+3162:Smith:0:1
+3163:Joe:0:1
+3164:Mama:0:1
+3165:Mama:0:1
+3166:Mike:0:1
+3167:Pirate:0:1
+3168:Pirate:0:1
+3169:Pirate:0:1
+3170:Pirate:0:1
+3171:Pirate:0:1
+3172:Pirate:0:1
+3173:Pirate:0:1
+3174:Pirate:0:1
+3175:Pirate:0:1
+3176:Pirate:0:1
+3177:Pirate:0:1
+3178:Pirate:0:1
+3179:Pirate:0:1
+3180:Pirate:0:1
+3181:Pirate:0:1
+3182:Pirate:0:1
+3183:Pirate:0:1
+3184:Pirate:0:1
+3185:Pirate:0:1
+3186:Pirate:0:1
+3187:Pirate:57:1
+3188:Pirate:57:1
+3189:Pirate:57:1
+3190:Pirate:57:1
+3191:Pirate:57:1
+3192:Pirate:57:1
+3193:Pirate:57:1
+3194:Pirate:57:1
+3195:Pirate:57:1
+3196:Pirate:57:1
+3197:Gull:0:1
+3198:Banker:0:1
+3199:Banker:0:1
+3200:Chaos Elemental:305:3
+3201:Killerwatt:55:1
+3202:Killerwatt:55:1
+3203:Storm Cloud:0:3
+3204:Storm Cloud:0:1
+3205:Romily Weaklax:0:1
+3206:Priest:0:1
+3207:Pious Pete:0:1
+3208:Taper:0:1
+3209:Elena:0:1
+3210:Alrena:0:1
+3211:Alrena:0:1
+3212:Bravek:0:1
+3213:null:0:1
+3214:null:0:1
+3215:Elena:0:1
+3216:Mourner:0:1
+3217:Kaylee:0:1
+3218:Tina:0:1
+3219:Dwarf:11:1
+3220:Dwarf:11:1
+3221:Dwarf:10:1
+3222:Drunken man:3:1
+3223:Man:2:1
+3224:Man:2:1
+3225:Man:2:1
+3226:Woman:2:1
+3227:Woman:2:1
+3228:Guard:21:1
+3229:Guard:22:1
+3230:Guard:19:1
+3231:Guard:22:1
+3232:Guard:22:1
+3233:Guard:22:1
+3234:Gardener:3:1
+3235:Apprentice workman:0:1
+3236:Workman:0:1
+3237:Cuffs:3:1
+3238:Narf:2:1
+3239:Rusty:2:1
+3240:Jeff:2:1
+3241:Guard:19:1
+3242:Dark wizard:23:1
+3243:Dark wizard:22:1
+3244:Dark wizard:11:1
+3245:Dark wizard:11:1
+3246:Barbarian:17:1
+3247:Barbarian:10:1
+3248:Barbarian:17:1
+3249:Barbarian:17:1
+3250:Barbarian:10:1
+3251:Barbarian:10:1
+3252:Barbarian:10:1
+3253:Barbarian:17:1
+3254:Hunding:0:1
+3255:Barbarian:10:1
+3256:Barbarian:10:1
+3257:Barbarian:10:1
+3258:Barbarian:10:1
+3259:Barbarian:15:1
+3260:Barbarian:17:1
+3261:Barbarian:10:1
+3262:Barbarian:10:1
+3263:Barbarian:9:1
+3264:Goblin:5:1
+3265:Goblin:5:1
+3266:Goblin:5:1
+3267:Goblin:5:1
+3268:Dwarf:11:1
+3269:Dwarf:11:1
+3270:Dwarf:11:1
+3271:Dwarf:11:1
+3272:Dwarf:10:1
+3273:Dwarf:11:1
+3274:Dwarf:11:1
+3275:Dwarf:7:1
+3276:Black Guard:25:1
+3277:Black Guard:25:1
+3278:Black Guard:25:1
+3279:Black Guard:25:1
+3280:Engineering assistant:0:1
+3281:Engineering assistant:0:1
+3282:Engineer:0:1
+3283:Squirrel:0:1
+3284:Squirrel:0:1
+3285:Squirrel:0:1
+3286:Raccoon:0:1
+3287:Raccoon:0:1
+3288:Raccoon:0:1
+3289:null:1:1
+3290:null:1:1
+3291:Skeleton:22:1
+3292:Witch:25:1
+3293:null:0:1
+3294:Dwarf:0:1
+3295:Dwarf:0:1
+3296:Swan:0:1
+3297:Black swan:0:1
+3298:Sweeper:0:1
+3299:Martin the Master Gardener:0:1
+3300:Frog:0:1
+3301:Storm cloud:0:3
+3302:Co-ordinator:0:1
+3303:Fairy Nuff:0:1
+3304:Fairy Godfather:0:1
+3305:Slim Louie:0:1
+3306:Fat Rocco:0:1
+3307:Gatekeeper:0:1
+3308:Zandar Horfyre:0:1
+3309:Cow:2:2
+3310:Sheep:0:1
+3311:Sheep:0:1
+3312:Zanaris choir:0:1
+3313:Tanglefoot:111:1
+3314:null:1:1
+3315:null:1:1
+3316:null:1:1
+3317:null:1:1
+3318:null:1:1
+3319:Baby tanglefoot:45:1
+3320:Baby tanglefoot:45:1
+3321:Gatekeeper:0:1
+3322:Fairy chef:0:1
+3323:null:0:1
+3324:Draul Leptoc:0:1
+3325:Phillipa:0:1
+3326:Martina Scorsby:0:1
+3327:Jeremy Clerksin:0:1
+3328:Tarquin:0:1
+3329:Sigurd:0:1
+3330:Hari:0:1
+3331:Barfy Bill:0:1
+3332:Trees:0:5
+3333:Trees:0:5
+3334:Cavemouth:0:5
+3335:Bullrush:0:1
+3336:Bullrush:0:1
+3337:Cave scenery:0:3
+3338:Cave scenery:0:3
+3339:Cave scenery:0:4
+3340:Giant Mole:230:3
+3341:Baby Mole:0:1
+3342:Baby Mole:0:1
+3343:Baby Mole:0:1
+3344:Fungi:74:1
+3345:Fungi:86:1
+3346:Zygomite:74:1
+3347:Zygomite:86:2
+3348:White Knight:38:1
+3349:White Knight:39:1
+3350:White Knight:42:1
+3351:Genie:0:1
+3352:Mysterious Old Man:0:1
+3353:Swarm:0:1
+3354:Cap'n Hand:0:1
+3355:Rick Turpentine:0:1
+3356:Niles:0:1
+3357:Miles:0:1
+3358:Giles:0:1
+3359:Dr Jekyll:0:1
+3360:Mr Hyde:14:1
+3361:Mr Hyde:29:1
+3362:Mr Hyde:49:1
+3363:Mr Hyde:79:1
+3364:Mr Hyde:120:1
+3365:Mr Hyde:159:1
+3366:Evil Chicken:19:1
+3367:Evil Chicken:38:1
+3368:Evil Chicken:69:1
+3369:Evil Chicken:81:1
+3370:Evil Chicken:121:1
+3371:Evil Chicken:159:1
+3372:Sir Amik Varze:0:1
+3373:null:1:1
+3374:Sir Amik Varze:0:1
+3375:Evil Chicken:159:1
+3376:Baby black dragon:83:2
+3377:K'klik:0:1
+3378:Evil Dave:0:1
+3379:null:1:1
+3380:Evil Dave:0:1
+3381:Doris:0:1
+3382:Hell-Rat:0:1
+3383:null:0:1
+3384:null:0:1
+3385:Gypsy:0:1
+3386:Gypsy:0:1
+3387:Culinaromancer:0:1
+3388:Osman:0:1
+3389:Pirate Pete:0:1
+3390:Mountain Dwarf:0:1
+3391:General Wartface:0:1
+3392:General Bentnoze:0:1
+3393:Lumbridge Guide:0:1
+3394:Evil Dave:0:1
+3395:Sir Amik Varze:0:1
+3396:Awowogei:0:1
+3397:Awowogei:0:1
+3398:Skrach Uglogwee:0:2
+3399:null:1:1
+3400:Culinaromancer:0:1
+3401:null:1:1
+3402:An old Dwarf:0:1
+3403:Rohak:0:1
+3404:null:1:1
+3405:Rohak:0:1
+3406:Icefiend:18:1
+3407:Guard:21:1
+3408:Guard:21:1
+3409:Wild jade vine:167:3
+3410:Wild jade vine:167:3
+3411:Wild jade vine:167:3
+3412:Wild jade vine:167:3
+3413:Goblin Cook:0:1
+3414:Goblin Cook:0:1
+3415:Goblin Cook:0:1
+3416:Pirate Pete:0:1
+3417:null:1:1
+3418:Pirate Pete:0:1
+3419:Ogre:53:2
+3420:Mogre Guard:0:2
+3421:Crab:23:2
+3422:Mudskipper:30:1
+3423:Mudskipper:31:2
+3424:Crab:21:1
+3425:Fish:0:1
+3426:Fish:0:1
+3427:Fish:0:1
+3428:Fish:0:1
+3429:Fish:0:1
+3430:Fish:0:1
+3431:Fish:0:1
+3432:Fish:0:1
+3433:Fish:0:1
+3434:Fish:0:1
+3435:Fish:0:1
+3436:Fish:0:1
+3437:Fish:0:1
+3438:Fish:0:1
+3439:Fish:0:1
+3440:Fish:0:1
+3441:Fish:0:1
+3442:Fish:0:1
+3443:Fish:0:2
+3444:Fish:0:2
+3445:Fish:0:3
+3446:Fish:0:2
+3447:Fish:0:2
+3448:Fish:0:3
+3449:Lumbridge Guide:0:1
+3450:null:1:1
+3451:Lumbridge Guide:0:1
+3452:? ? ? ?:0:1
+3453:? ? ? ?:0:1
+3454:? ? ? ?:0:1
+3455:? ? ? ?:0:1
+3456:? ? ? ?:0:1
+3457:? ? ? ?:0:1
+3458:? ? ? ?:0:1
+3459:? ? ? ?:0:1
+3460:? ? ? ?:0:1
+3461:? ? ? ?:0:1
+3462:null:0:1
+3463:Skrach Uglogwee:0:2
+3464:Skrach Uglogwee:0:2
+3465:Nung:0:2
+3466:Ogre:53:2
+3467:Rantz:0:2
+3468:Rantz:1:2
+3469:null:1:5
+3470:null:1:5
+3471:Ogre boat:0:5
+3472:Ogre boat:0:5
+3473:Balloon Toad:0:1
+3474:Balloon Toad:0:1
+3475:Balloon Toad:0:1
+3476:Jubbly bird:9:3
+3477:Jubbly bird:0:3
+3478:King Awowogei:0:1
+3479:null:1:1
+3480:King Awowogei:0:1
+3481:Mizaru:0:1
+3482:Kikazaru:0:1
+3483:Iwazaru:0:1
+3484:Big Snake:84:2
+3485:Culinaromancer:0:1
+3486:Culinaromancer:0:1
+3487:Culinaromancer:0:1
+3488:Culinaromancer:0:1
+3489:Culinaromancer:0:1
+3490:Culinaromancer:0:1
+3491:Culinaromancer:75:1
+3492:Culinaromancer:0:1
+3493:Agrith-Na-Na:146:3
+3494:Flambeed:149:5
+3495:Karamel:136:1
+3496:Dessourt:121:1
+3497:Gelatinnoth Mother:130:3
+3498:Gelatinnoth Mother:130:3
+3499:Gelatinnoth Mother:130:3
+3500:Gelatinnoth Mother:130:3
+3501:Gelatinnoth Mother:130:3
+3502:Gelatinnoth Mother:130:3
+3503:Overgrown hellcat:0:1
+3504:Hellcat:0:1
+3505:Hell-kitten:0:1
+3506:Lazy hellcat:0:1
+3507:Wily hellcat:0:1
+3508:Leo:0:1
+3509:Sorin:0:1
+3510:null:1:1
+3511:Wiskit:0:1
+3512:null:1:1
+3513:null:1:1
+3514:Vampyre Juvinate:0:1
+3515:Vampyre Juvinate:0:1
+3516:null:1:1
+3517:Gadderanks:0:1
+3518:Gadderanks:35:1
+3519:Gadderanks:0:2
+3520:Vampyre Juvinate:50:1
+3521:Vampyre Juvinate:54:1
+3522:Vampyre Juvinate:54:1
+3523:Vampyre Juvinate:54:1
+3524:Vampyre Juvinate:54:1
+3525:Vampyre Juvinate:54:1
+3526:Vampyre Juvinate:64:1
+3527:Held Vampyre Juvinate:54:1
+3528:Vampyre Juvinate:0:1
+3529:Vampyre Juvinate:0:1
+3530:Mist:0:3
+3531:Vampyre Juvenile:45:1
+3532:Vampyre Juvenile:45:1
+3533:Vampyre Juvenile:45:1
+3534:Held Vampyre Juvenile:45:1
+3535:Ivan Strom:0:1
+3536:Ivan Strom:0:1
+3537:Vampyre Juvinate:75:1
+3538:Vampyre Juvinate:50:1
+3539:Veliaf Hurtz:0:1
+3540:Elisabeta:0:1
+3541:Aurel:0:1
+3542:Sorin:0:1
+3543:Luscion:0:1
+3544:Sergiu:0:1
+3545:Radu:0:1
+3546:Grigore:0:1
+3547:Ileana:0:1
+3548:Valeria:0:1
+3549:Emilia:0:1
+3550:Florin:0:1
+3551:Catalina:0:1
+3552:Ivan:0:1
+3553:Victor:0:1
+3554:Helena:0:1
+3555:Teodor:0:1
+3556:Marius:0:2
+3557:Gabriela:0:1
+3558:Vladimir:0:2
+3559:Calin:0:1
+3560:Mihail:0:1
+3561:Nicoleta:0:1
+3562:Simona:0:1
+3563:Vasile:0:1
+3564:Razvan:0:1
+3565:Luminata:0:1
+3566:null:1:1
+3567:null:1:1
+3568:Cornelius:0:1
+3569:Cornelius:0:1
+3570:Benjamin:0:1
+3571:Liam:0:1
+3572:Miala:0:1
+3573:Verak:0:1
+3574:Fishing spot:0:1
+3575:Fishing spot:0:1
+3576:Juvinate:59:1
+3577:Juvinate:90:1
+3578:Juvinate:119:1
+3579:Sheep:0:1
+3580:Tentacle:0:1
+3581:Skeleton:22:1
+3582:Guard dog:44:1
+3583:Hobgoblin:54:1
+3584:Troll:91:1
+3585:Huge spider:81:2
+3586:Hellhound:122:2
+3587:Rantz:1:2
+3588:Baby red dragon:65:2
+3589:Kalphite Soldier:85:3
+3590:Steel dragon:246:3
+3591:Dagannoth:135:3
+3592:Tok-Xil:135:3
+3593:Demon:82:2
+3594:Rocnar:97:2
+3595:Toy Soldier:0:1
+3596:Toy Doll:0:1
+3597:Toy Mouse:0:1
+3598:Clockwork cat:0:1
+3599:Swamp snake:80:3
+3600:Swamp snake:109:4
+3601:Swamp snake:139:5
+3602:Swamp snake:0:3
+3603:Dead swamp snake:0:3
+3604:Dead swamp snake:0:4
+3605:Dead swamp snake:0:5
+3606:Ghast:0:2
+3607:Ghast:0:2
+3608:Ghast:0:2
+3609:Ghast:79:2
+3610:Ghast:109:2
+3611:Ghast:139:2
+3612:Giant snail:80:3
+3613:Giant snail:109:3
+3614:Giant snail:139:3
+3615:Riyl shadow:80:1
+3616:Asyn shadow:110:1
+3617:Shade:140:1
+3618:Tentacle:99:1
+3619:Head:140:1
+3620:Head:140:1
+3621:Tentacle:136:1
+3622:Zombie:23:1
+3623:null:1:1
+3624:Smiddi Ryak:0:1
+3625:null:1:1
+3626:Rolayne Twickit:0:1
+3627:null:1:1
+3628:Jayene Kliyn:0:1
+3629:null:1:1
+3630:Valantay Eppel:0:1
+3631:null:1:1
+3632:Dalcian Fang:0:1
+3633:null:1:1
+3634:Fyiona Fray:0:1
+3635:Abidor Crank:0:1
+3636:Spirit tree:0:2
+3637:Spirit tree:0:4
+3638:null:0:1
+3639:Launa:0:1
+3640:Launa:0:1
+3641:Brana:0:1
+3642:Mawnis Burowgar:0:1
+3643:Tolna:0:2
+3644:Tolna:0:1
+3645:Angry bear:40:2
+3646:Angry unicorn:45:2
+3647:Angry giant rat:45:2
+3648:Angry goblin:45:1
+3649:Fear reaper:42:2
+3650:Confusion beast:43:2
+3651:Confusion beast:43:2
+3652:Confusion beast:43:2
+3653:Confusion beast:43:2
+3654:Confusion beast:43:2
+3655:Hopeless creature:40:2
+3656:Hopeless creature:40:2
+3657:Hopeless creature:40:2
+3658:Tolna:46:3
+3659:Tolna:46:3
+3660:Tolna:46:3
+3661:Angry unicorn:47:2
+3662:Angry giant rat:47:1
+3663:Angry goblin:47:1
+3664:Angry bear:47:2
+3665:Fear reaper:55:2
+3666:Confusion beast:63:2
+3667:Hopeless creature:71:2
+3668:Hopeless beast:71:2
+3669:Hopeless beast:71:2
+3670:Odd Old Man:0:2
+3671:Fortunato:0:1
+3672:Ram:2:1
+3673:Ram:2:1
+3674:Bones:0:1
+3675:Vulture:31:2
+3676:Vulture:31:2
+3677:Sinister Stranger:0:1
+3678:Sinister Stranger:0:1
+3679:Vestri:0:1
+3680:Ali the Leaflet Dropper:0:1
+3681:Nigel:0:1
+3682:Egg:0:1
+3683:Egg:0:1
+3684:Egg:0:1
+3685:Egg:0:1
+3686:Chocolate kebbit:0:1
+3687:Chocolate kebbit:0:1
+3688:Easter Bunny:1:1
+3689:Egg:0:1
+3690:Egg:0:1
+3691:Egg:0:1
+3692:Egg:0:1
+3693:Egg:0:1
+3694:Egg:0:1
+3695:Volf Olafson:0:1
+3696:Ingrid Hradson:0:1
+3697:Skeleton fremennik:40:1
+3698:Skeleton fremennik:40:1
+3699:Skeleton fremennik:40:1
+3700:Skeleton fremennik:50:1
+3701:Skeleton fremennik:50:1
+3702:Skeleton fremennik:50:1
+3703:Skeleton fremennik:60:1
+3704:Skeleton fremennik:60:1
+3705:Skeleton fremennik:60:1
+3706:Ulfric:100:1
+3707:Brine rat:70:1
+3708:Boulder:0:2
+3709:Boulder:0:2
+3710:Ulfric:0:1
+3711:Giant bat:27:1
+3712:Zanik:0:1
+3713:Sigmund:64:1
+3714:Zanik:41:1
+3715:Guard:22:1
+3716:Sigmund:64:1
+3717:Sigmund:64:1
+3718:Sigmund:64:1
+3719:Sigmund:64:1
+3720:Sigmund:64:1
+3721:Zanik:0:1
+3722:Zanik:0:1
+3723:General Bentnoze:0:1
+3724:General Wartface:0:1
+3725:Grubfoot:0:1
+3726:Goblin:0:1
+3727:Splatter:22:1
+3728:Splatter:33:1
+3729:Splatter:44:1
+3730:Splatter:54:1
+3731:Splatter:65:1
+3732:Shifter:38:1
+3733:Shifter:38:1
+3734:Shifter:57:1
+3735:Shifter:57:1
+3736:Shifter:76:1
+3737:Shifter:76:1
+3738:Shifter:90:1
+3739:Shifter:90:1
+3740:Shifter:104:1
+3741:Shifter:104:1
+3742:Ravager:36:1
+3743:Ravager:53:1
+3744:Ravager:71:1
+3745:Ravager:89:1
+3746:Ravager:106:1
+3747:Spinner:36:1
+3748:Spinner:55:1
+3749:Spinner:74:1
+3750:Spinner:92:1
+3751:Spinner:88:1
+3752:Torcher:33:1
+3753:Torcher:33:1
+3754:Torcher:49:1
+3755:Torcher:49:1
+3756:Torcher:66:1
+3757:Torcher:66:1
+3758:Torcher:79:1
+3759:Torcher:79:1
+3760:Torcher:91:1
+3761:Torcher:92:1
+3762:Defiler:33:1
+3763:Defiler:33:1
+3764:Defiler:50:1
+3765:Defiler:50:1
+3766:Defiler:66:1
+3767:Defiler:67:1
+3768:Defiler:80:1
+3769:Defiler:80:1
+3770:Defiler:97:1
+3771:Defiler:97:1
+3772:Brawler:51:2
+3773:Brawler:76:2
+3774:Brawler:101:2
+3775:Brawler:129:2
+3776:Brawler:158:2
+3777:Doomsayer:0:1
+3778:null:1:1
+3779:Arthur:0:1
+3780:null:1:1
+3781:Squire:0:1
+3782:Void Knight:0:1
+3783:Frog:66:1
+3784:Void Knight:0:1
+3785:Void Knight:0:1
+3786:Void Knight:0:1
+3787:Sir Palomedes:0:1
+3788:Void Knight:0:1
+3789:Void Knight:0:1
+3790:Squire:0:1
+3791:Squire:0:1
+3792:Squire:0:1
+3793:Squire:0:1
+3794:Squire:0:1
+3795:Squire:0:1
+3796:Squire:0:1
+3797:Squire:0:1
+3798:Squire:0:1
+3799:Squire:0:1
+3800:Squire:0:1
+3801:Squire:0:1
+3802:Squire (Novice):0:1
+3803:null:1:1
+3804:Fishing spot:0:1
+3805:Postie Pete:0:1
+3806:Millie Miller:0:1
+3807:Gillie Groats:0:1
+3808:Tortoise:92:3
+3809:Captain Dalbur:0:1
+3810:Captain Bleemadge:0:1
+3811:Captain Errdo:0:1
+3812:Captain Klemfoodle:0:1
+3813:Captain Wimto:0:1
+3814:Gnome Archer:5:1
+3815:Gnome Driver:5:1
+3816:Gnome Mage:5:1
+3817:Lieutenant Schepbur:0:1
+3818:Trainer Nacklepen:0:1
+3819:Tortoise:79:3
+3820:null:1:1
+3821:Wise Old Man:0:1
+3822:Herman Caranos:0:1
+3823:Franklin Caranos:0:1
+3824:Arnold Lydspor:0:1
+3825:Devin Mendelberg:0:1
+3826:George Laxmeister:0:1
+3827:Ramara du Croissant:0:1
+3828:null:1:1
+3829:null:1:1
+3830:Kathy Corkat:0:1
+3831:Kathy Corkat:0:1
+3832:null:1:1
+3833:null:1:1
+3834:null:1:1
+3835:Kalphite Queen:333:5
+3836:Kalphite Queen:333:5
+3837:Drunken Dwarf:0:1
+3838:Wise Old Man:0:1
+3839:Wise Old Man:0:1
+3840:Sea troll:79:1
+3841:Sea troll:65:1
+3842:Sea troll:87:1
+3843:Sea troll:101:1
+3844:Skeleton Mage:64:1
+3845:Sea troll:58:1
+3846:Sea Troll General:0:3
+3847:Sea Troll Queen:170:5
+3848:Fishing spot:0:1
+3849:Fishing spot:0:1
+3850:Skeleton Mage:0:1
+3851:Skeleton Mage:83:1
+3852:Suspect:0:1
+3853:Suspect:0:1
+3854:Suspect:0:1
+3855:Suspect:0:1
+3856:Suspect:0:1
+3857:Suspect:0:1
+3858:Suspect:0:1
+3859:Suspect:0:1
+3860:Suspect:0:1
+3861:Suspect:0:1
+3862:Suspect:0:1
+3863:Suspect:0:1
+3864:Suspect:0:1
+3865:Suspect:0:1
+3866:Suspect:0:1
+3867:Suspect:0:1
+3868:Suspect:0:1
+3869:Suspect:0:1
+3870:Suspect:0:1
+3871:Suspect:0:1
+3872:Suspect:0:1
+3873:Suspect:0:1
+3874:Suspect:0:1
+3875:Suspect:0:1
+3876:Suspect:0:1
+3877:Suspect:0:1
+3878:Suspect:0:1
+3879:Suspect:0:1
+3880:Suspect:0:1
+3881:Suspect:0:1
+3882:Suspect:0:1
+3883:Suspect:0:1
+3884:Suspect:0:1
+3885:Suspect:0:1
+3886:Suspect:0:1
+3887:Suspect:0:1
+3888:Suspect:0:1
+3889:Suspect:0:1
+3890:Suspect:0:1
+3891:Suspect:0:1
+3892:Molly:0:1
+3893:Molly:0:1
+3894:Molly:0:1
+3895:Molly:0:1
+3896:Molly:0:1
+3897:Molly:0:1
+3898:Molly:0:1
+3899:Molly:0:1
+3900:Molly:0:1
+3901:Molly:0:1
+3902:Molly:0:1
+3903:Molly:0:1
+3904:Molly:0:1
+3905:Molly:0:1
+3906:Molly:0:1
+3907:Molly:0:1
+3908:Molly:0:1
+3909:Molly:0:1
+3910:Molly:0:1
+3911:Molly:0:1
+3912:Flippa:0:2
+3913:Tilt:0:2
+3914:Gardener:4:1
+3915:Man:2:1
+3916:Carpenter Kjallak:0:1
+3917:Farmer Fromund:0:1
+3918:Prince Brand:0:1
+3919:Princess Astrid:0:1
+3920:Runa:0:1
+3921:Halla:0:1
+3922:Finn:0:1
+3923:Osvald:0:1
+3924:Runolf:0:1
+3925:Tjorvi:0:1
+3926:Ingrid:0:1
+3927:Thora:0:1
+3928:Signy:0:1
+3929:Hild:0:1
+3930:Armod:0:1
+3931:Beigarth:0:1
+3932:Reinn:0:1
+3933:Alviss:0:1
+3934:Fullangr:0:1
+3935:Jari:0:1
+3936:Thorodin:0:1
+3937:Ferd:0:1
+3938:Donal:0:1
+3939:Sea Snake Young:90:2
+3940:Sea Snake Hatchling:62:1
+3941:Guard:0:1
+3942:Guard:0:1
+3943:Giant Sea Snake:149:5
+3944:Hangman game:0:2
+3945:Hangman game:0:2
+3946:Hangman game:0:2
+3947:Hangman game:0:2
+3948:Hangman game:0:2
+3949:Hangman game:0:2
+3950:Hangman game:0:2
+3951:Hangman game:0:2
+3952:Hangman game:0:2
+3953:Hangman game:0:2
+3954:Treasure fairy:0:1
+3955:Jacky Jester:0:1
+3956:Combat stone:0:1
+3957:Combat stone:0:1
+3958:Combat stone:0:1
+3959:Combat stone:0:1
+3960:Combat stone:0:1
+3961:Combat stone:0:1
+3962:Combat stone:0:1
+3963:Combat stone:0:1
+3964:Combat stone:0:1
+3965:Combat stone:0:1
+3966:Combat stone:0:1
+3967:Combat stone:0:1
+3968:Combat stone:0:1
+3969:Combat stone:0:1
+3970:Combat stone:0:1
+3971:Combat stone:0:1
+3972:Combat stone:0:1
+3973:Combat stone:0:1
+3974:Combat stone:0:1
+3975:Combat stone:0:1
+3976:Combat stone:0:1
+3977:Combat stone:0:1
+3978:Combat stone:0:1
+3979:Combat stone:0:1
+3980:Combat stone:0:1
+3981:Combat stone:0:1
+3982:Combat stone:0:1
+3983:Combat stone:0:1
+3984:Combat stone:0:1
+3985:Combat stone:0:1
+3986:Combat stone:0:1
+3987:Combat stone:0:1
+3988:Combat stone:0:1
+3989:Combat stone:0:1
+3990:Combat stone:0:1
+3991:Combat stone:0:1
+3992:Combat stone:0:1
+3993:Combat stone:0:1
+3994:Combat stone:0:1
+3995:Combat stone:0:1
+3996:Combat stone:0:1
+3997:Combat stone:0:1
+3998:Combat stone:0:1
+3999:Combat stone:0:1
+4000:Combat stone:0:1
+4001:Combat stone:0:1
+4002:Combat stone:0:1
+4003:Combat stone:0:1
+4004:Combat stone:0:1
+4005:Combat stone:0:1
+4006:Combat stone:0:1
+4007:Combat stone:0:1
+4008:Combat stone:0:1
+4009:Combat stone:0:1
+4010:Combat stone:0:1
+4011:Combat stone:0:1
+4012:Combat stone:0:1
+4013:Combat stone:0:1
+4014:Combat stone:0:1
+4015:Combat stone:0:1
+4016:Combat stone:0:1
+4017:Combat stone:0:1
+4018:Combat stone:0:1
+4019:Combat stone:0:1
+4020:Combat stone:0:1
+4021:Elemental balance:0:1
+4022:Elemental balance:0:1
+4023:Elemental balance:0:1
+4024:Elemental balance:0:1
+4025:Elemental balance:0:1
+4026:Elemental balance:0:1
+4027:Elemental balance:0:1
+4028:Elemental balance:0:1
+4029:Elemental balance:0:1
+4030:Elemental balance:0:1
+4031:Elemental balance:0:1
+4032:Elemental balance:0:1
+4033:Elemental balance:0:1
+4034:Elemental balance:0:1
+4035:Elemental balance:0:1
+4036:Elemental balance:0:1
+4037:Elemental balance:0:1
+4038:Elemental balance:0:1
+4039:Elemental balance:0:1
+4040:Elemental balance:0:1
+4041:Elemental balance:0:1
+4042:Elemental balance:0:1
+4043:Elemental balance:0:1
+4044:Elemental balance:0:1
+4045:Elemental balance:0:1
+4046:Elemental balance:0:1
+4047:Elemental balance:0:1
+4048:Elemental balance:0:1
+4049:Elemental balance:0:1
+4050:Elemental balance:0:1
+4051:Elemental balance:0:1
+4052:Elemental balance:0:1
+4053:Elemental balance:0:1
+4054:Elemental balance:0:1
+4055:Elemental balance:0:1
+4056:Elemental balance:0:1
+4057:Elemental balance:0:1
+4058:Elemental balance:0:1
+4059:Elemental balance:0:1
+4060:Elemental balance:0:1
+4061:Elemental balance:0:1
+4062:Elemental balance:0:1
+4063:Elemental balance:0:1
+4064:Elemental balance:0:1
+4065:Elemental balance:0:1
+4066:Elemental balance:0:1
+4067:Elemental balance:0:1
+4068:Elemental balance:0:1
+4069:Elemental balance:0:1
+4070:Elemental balance:0:1
+4071:Elemental balance:0:1
+4072:Elemental balance:0:1
+4073:Elemental balance:0:1
+4074:Elemental balance:0:1
+4075:Elemental balance:0:1
+4076:Elemental balance:0:1
+4077:Elemental balance:0:1
+4078:Elemental balance:0:1
+4079:Elemental balance:0:1
+4080:Elemental balance:0:1
+4081:Elemental balance:0:1
+4082:Elemental balance:0:1
+4083:Elemental balance:0:1
+4084:Elemental balance:0:1
+4085:Elemental balance:0:1
+4086:Elemental balance:0:1
+4087:Elemental balance:0:1
+4088:Elemental balance:0:1
+4089:Elemental balance:0:1
+4090:Elemental balance:0:1
+4091:Elemental balance:0:1
+4092:Elemental balance:0:1
+4093:Elemental balance:0:1
+4094:Elemental balance:0:1
+4095:Elemental balance:0:1
+4096:Combat stone:0:1
+4097:Combat stone:0:1
+4098:Combat stone:0:1
+4099:Combat stone:0:1
+4100:Combat stone:0:1
+4101:Combat stone:0:1
+4102:Combat stone:0:1
+4103:Combat stone:0:1
+4104:Combat stone:0:1
+4105:Combat stone:0:1
+4106:Combat stone:0:1
+4107:Combat stone:0:1
+4108:Combat stone:0:1
+4109:Combat stone:0:1
+4110:Combat stone:0:1
+4111:Combat stone:0:1
+4112:Combat stone:0:1
+4113:Combat stone:0:1
+4114:Combat stone:0:1
+4115:Combat stone:0:1
+4116:Combat stone:0:1
+4117:Combat stone:0:1
+4118:Combat stone:0:1
+4119:Combat stone:0:1
+4120:Combat stone:0:1
+4121:Combat stone:0:1
+4122:Combat stone:0:1
+4123:Combat stone:0:1
+4124:Combat stone:0:1
+4125:Combat stone:0:1
+4126:Combat stone:0:1
+4127:Combat stone:0:1
+4128:Combat stone:0:1
+4129:Combat stone:0:1
+4130:Combat stone:0:1
+4131:Combat stone:0:1
+4132:Combat stone:0:1
+4133:Combat stone:0:1
+4134:Combat stone:0:1
+4135:Combat stone:0:1
+4136:Combat stone:0:1
+4137:Combat stone:0:1
+4138:Combat stone:0:1
+4139:Combat stone:0:1
+4140:Combat stone:0:1
+4141:Combat stone:0:1
+4142:Combat stone:0:1
+4143:Combat stone:0:1
+4144:Combat stone:0:1
+4145:Combat stone:0:1
+4146:Combat stone:0:1
+4147:Combat stone:0:1
+4148:Combat stone:0:1
+4149:Combat stone:0:1
+4150:Combat stone:0:1
+4151:Combat stone:0:1
+4152:Combat stone:0:1
+4153:Combat stone:0:1
+4154:Combat stone:0:1
+4155:Combat stone:0:1
+4156:Combat stone:0:1
+4157:Combat stone:0:1
+4158:Combat stone:0:1
+4159:Combat stone:0:1
+4160:Combat stone:0:1
+4161:Combat stone:0:1
+4162:Combat stone:0:1
+4163:Combat stone:0:1
+4164:Combat stone:0:1
+4165:Combat stone:0:1
+4166:Combat stone:0:1
+4167:Combat stone:0:1
+4168:Combat stone:0:1
+4169:Combat stone:0:1
+4170:Combat stone:0:1
+4171:Combat stone:0:1
+4172:Combat stone:0:1
+4173:Combat stone:0:1
+4174:Combat stone:0:1
+4175:Combat stone:0:1
+4176:Combat stone:0:1
+4177:Combat stone:0:1
+4178:Combat stone:0:1
+4179:Combat stone:0:1
+4180:Combat stone:0:1
+4181:Combat stone:0:1
+4182:Combat stone:0:1
+4183:Combat stone:0:1
+4184:Combat stone:0:1
+4185:Combat stone:0:1
+4186:Combat stone:0:1
+4187:Combat stone:0:1
+4188:Combat stone:0:1
+4189:Combat stone:0:1
+4190:Combat stone:0:1
+4191:Combat stone:0:1
+4192:Combat stone:0:1
+4193:Combat stone:0:1
+4194:Combat stone:0:1
+4195:Combat stone:0:1
+4196:Combat stone:0:1
+4197:Combat stone:0:1
+4198:Combat stone:0:1
+4199:Combat stone:0:1
+4200:Combat stone:0:1
+4201:Combat stone:0:1
+4202:Combat stone:0:1
+4203:Combat stone:0:1
+4204:Combat stone:0:1
+4205:Combat stone:0:1
+4206:Combat stone:0:1
+4207:Combat stone:0:1
+4208:Combat stone:0:1
+4209:Combat stone:0:1
+4210:Combat stone:0:1
+4211:Combat stone:0:1
+4212:Combat stone:0:1
+4213:Combat stone:0:1
+4214:Combat stone:0:1
+4215:Combat stone:0:1
+4216:Combat stone:0:1
+4217:Combat stone:0:1
+4218:Combat stone:0:1
+4219:Combat stone:0:1
+4220:Combat stone:0:1
+4221:Combat stone:0:1
+4222:Combat stone:0:1
+4223:Combat stone:0:1
+4224:Combat stone:0:1
+4225:Combat stone:0:1
+4226:Crawling hand:0:1
+4227:Cockatrice:0:1
+4228:Basilisk:0:1
+4229:Kurask:0:1
+4230:Abyssal demon:0:1
+4231:Left head:0:1
+4232:Middle head:0:1
+4233:Right head:0:1
+4234:Kalphite Queen:0:1
+4235:Rick:0:1
+4236:null:1:1
+4237:Maid:0:1
+4238:null:1:1
+4239:Cook:0:1
+4240:null:1:1
+4241:Butler:0:1
+4242:null:1:1
+4243:Demon butler:0:1
+4244:null:1:1
+4245:Chief servant:0:1
+4246:Taxidermist:0:1
+4247:Estate agent:0:1
+4248:Stonemason:0:1
+4249:Sir Renitee:0:1
+4250:Sawmill operator:0:1
+4251:Garden supplier:0:1
+4252:Macaroni Penguin:0:1
+4253:null:1:1
+4254:null:1:1
+4255:null:1:1
+4256:null:1:1
+4257:Guard:10:1
+4258:Guard:10:1
+4259:Guard:10:1
+4260:Guard:10:1
+4261:Goblin:2:1
+4262:Goblin:2:1
+4263:Goblin:2:1
+4264:Goblin:2:1
+4265:Goblin:2:1
+4266:Goblin:2:1
+4267:Goblin:2:1
+4268:Goblin:2:1
+4269:Goblin:2:1
+4270:Goblin:2:1
+4271:Goblin:2:1
+4272:Goblin:2:1
+4273:Goblin:2:1
+4274:Goblin:2:1
+4275:Goblin:2:1
+4276:Goblin:2:1
+4277:Buinn:1:5
+4278:Animated Bronze Armour:11:1
+4279:Animated Iron Armour:23:1
+4280:Animated Steel Armour:46:1
+4281:Animated Black Armour:69:1
+4282:Animated Mithril Armour:92:1
+4283:Animated Adamant Armour:113:1
+4284:Animated Rune Armour:138:1
+4285:Ghommal:0:1
+4286:Harrallak Menarous:0:1
+4287:Gamfred:0:1
+4288:Ajjat:0:1
+4289:Kamfreena:0:1
+4290:Shanomi:0:1
+4291:Cyclops:56:2
+4292:Cyclops:76:2
+4293:Lidio:0:1
+4294:Lilly:0:1
+4295:Anton:0:1
+4296:Jade:0:1
+4297:Sloane:0:1
+4298:Jimmy:0:1
+4299:Ref:0:1
+4300:Ref:0:1
+4301:Guard:22:1
+4302:Guard:22:1
+4303:Guard:22:1
+4304:Guard:22:1
+4305:Guard:22:1
+4306:Guard:22:1
+4307:Guard:22:1
+4308:Guard:22:1
+4309:Guard:22:1
+4310:Guard:22:1
+4311:Guard:22:1
+4312:Nardok:0:1
+4313:null:1:1
+4314:Dartog:0:1
+4315:null:1:1
+4316:Dwarf:0:1
+4317:null:1:1
+4318:H.A.M. Member:0:1
+4319:null:1:1
+4320:H.A.M. Member:0:1
+4321:null:1:1
+4322:Zanik:0:1
+4323:Zanik:0:1
+4324:Zanik:0:1
+4325:Light creature:0:1
+4326:Zanik:0:1
+4327:HAM member:22:1
+4328:Sigmund:0:1
+4329:H.A.M. Deacon:0:1
+4330:Johanhus Ulsbrecht:0:1
+4331:Sigmund:0:1
+4332:Sigmund:50:1
+4333:Sigmund:50:1
+4334:Sigmund:50:1
+4335:Sigmund:50:1
+4336:Guard:22:1
+4337:Zanik:0:1
+4338:null:1:1
+4339:Zanik:0:1
+4340:Zanik:0:1
+4341:Zanik:0:1
+4342:Zanik:41:1
+4343:Snake:35:1
+4344:Monkey:3:1
+4345:Albino bat:52:2
+4346:Crab:0:1
+4347:Giant mosquito:13:1
+4348:Jungle horror:70:2
+4349:Jungle horror:70:1
+4350:Jungle horror:70:2
+4351:Jungle horror:70:1
+4352:Jungle horror:70:2
+4353:Cave horror:80:2
+4354:Cave horror:80:2
+4355:Cave horror:80:2
+4356:Cave horror:80:2
+4357:Cave horror:80:2
+4358:Cavey Davey:0:1
+4359:Patchy:0:1
+4360:San Fan:0:1
+4361:Fancy Dan:0:1
+4362:Honest Jimmy:0:1
+4363:Monkey:0:1
+4364:Swarm:0:1
+4365:null:0:1
+4366:null:0:1
+4367:null:0:1
+4368:null:0:1
+4369:null:0:1
+4370:null:0:1
+4371:Blue Monkey:1:1
+4372:Red Monkey:1:1
+4373:Parrot:0:1
+4374:Parrot:0:1
+4375:Security Guard:0:1
+4376:Litara:0:1
+4377:Gate of War:1:1
+4378:Ricketty door:1:1
+4379:Oozing barrier:1:1
+4380:Portal of Death:1:1
+4381:Ankou:75:1
+4382:Ankou:82:1
+4383:Ankou:86:1
+4384:Skeleton:68:1
+4385:Skeleton:60:1
+4386:Skeleton:85:1
+4387:Ghost:77:1
+4388:Ghost:76:1
+4389:Flesh Crawler:28:2
+4390:Flesh Crawler:35:2
+4391:Flesh Crawler:41:2
+4392:Zombie:30:1
+4393:Zombie:44:1
+4394:Zombie:53:1
+4395:Giant rat:26:2
+4396:Rat:1:1
+4397:Catablepon:49:2
+4398:Catablepon:64:2
+4399:Catablepon:68:2
+4400:Giant spider:50:1
+4401:Spider:24:1
+4402:Scorpion:59:2
+4403:Scorpion:37:2
+4404:Minotaur:12:1
+4405:Minotaur:19:1
+4406:Minotaur:27:1
+4407:Goblin:5:1
+4408:Goblin:13:1
+4409:Goblin:11:1
+4410:Goblin:16:1
+4411:Goblin:25:1
+4412:Goblin:16:1
+4413:Wolf:14:2
+4414:Wolf:11:2
+4415:Rat:1:1
+4416:Bee keeper:0:1
+4417:Bees!:0:1
+4418:Gorak:145:2
+4419:Cosmic Being:0:1
+4420:null:0:1
+4421:null:0:1
+4422:null:1:1
+4423:null:1:1
+4424:null:0:1
+4425:null:0:1
+4426:null:1:1
+4427:null:1:1
+4428:null:1:1
+4429:null:1:1
+4430:null:1:1
+4431:null:1:1
+4432:null:1:1
+4433:Fairy Godfather:0:1
+4434:Fairy Nuff:0:1
+4435:null:1:1
+4436:null:1:1
+4437:Fairy Queen:0:1
+4438:Centaur:0:2
+4439:Centaur:0:2
+4440:Stag:15:2
+4441:Wood Dryad:0:1
+4442:Fairy Very Wise:0:1
+4443:Fairy:0:1
+4444:Fairy:0:1
+4445:Fairy:0:1
+4446:Fairy:0:1
+4447:Rabbit:1:1
+4448:Rabbit:1:1
+4449:Butterfly:0:1
+4450:Butterfly:0:1
+4451:Starflower:0:1
+4452:Starflower:0:1
+4453:null:1:1
+4454:null:1:1
+4455:Fairy Fixit:0:1
+4456:Ork:0:1
+4457:Ork:0:1
+4458:Ork:20:1
+4459:Ork:20:1
+4460:Fake Man:1:1
+4461:Held vampyre juvinate:90:1
+4462:Held vampyre juvinate:119:1
+4463:Angry juvinate:70:1
+4464:Angry juvinate:100:1
+4465:Angry juvinate:130:1
+4466:Benjamin:0:1
+4467:Liam:0:1
+4468:Miala:0:1
+4469:Verak:0:1
+4470:Tree spirit:14:1
+4471:null:1:1
+4472:Bogrog:0:2
+4473:Woman:2:1
+4474:Magic dummy:0:1
+4475:Ned:0:1
+4476:Guardian mummy:0:1
+4477:Annoyed guardian mummy:0:1
+4478:Tarik:0:1
+4479:Goblin:5:1
+4480:Goblin:5:1
+4481:Goblin:5:1
+4482:Goblin:5:1
+4483:Goblin:5:1
+4484:Goblin:5:1
+4485:Goblin:5:1
+4486:Goblin:5:1
+4487:Goblin:5:1
+4488:Goblin:5:1
+4489:Goblin:5:1
+4490:Goblin:5:1
+4491:Goblin:5:1
+4492:Goblin:5:1
+4493:General Bentnoze:0:1
+4494:General Wartface:0:1
+4495:null:1:1
+4496:Grubfoot:0:1
+4497:Grubfoot:0:1
+4498:Grubfoot:0:1
+4499:Goblin:5:1
+4500:Scarab swarm:98:1
+4501:Ethereal Man:0:1
+4502:Ethereal Lady:0:1
+4503:Ethereal Numerator:0:1
+4504:Ethereal Expert:0:1
+4505:Ethereal Perceptive:0:1
+4506:Ethereal Guide:0:1
+4507:Ethereal Fluke:0:1
+4508:Ethereal Mimic:0:1
+4509:Me:79:1
+4510:Me:79:1
+4511:Oneiromancer:0:1
+4512:House:0:5
+4513:Baba Yaga:0:1
+4514:Pauline Polaris:0:1
+4515:Meteora:0:1
+4516:Melana Moonlander:0:1
+4517:Selene:0:1
+4518:Rimae Sirsalis:0:1
+4519:Sirsal Banker:0:1
+4520:Clan Guard:0:1
+4521:Enchanted Broom:0:1
+4522:Enchanted Broom:0:1
+4523:Enchanted Broom:0:1
+4524:Enchanted Bucket:0:1
+4525:Enchanted Bucket:0:1
+4526:Bouquet Mac Hyacinth:0:1
+4527:Suqah:111:2
+4528:Suqah:111:2
+4529:Suqah:111:2
+4530:Suqah:111:2
+4531:Suqah:111:2
+4532:Suqah:111:2
+4533:Suqah:111:2
+4534:Moss giant:48:2
+4535:Parrot:1:1
+4536:Lokar Searunner:0:1
+4537:Lokar Searunner:0:1
+4538:null:1:1
+4539:Cabin boy:0:1
+4540:Captain Bentley:0:1
+4541:'Beefy' Burns:0:1
+4542:'Eagle-eye' Shultz:0:1
+4543:First mate 'Davey-boy':0:1
+4544:'Bird's-Eye' Jack:0:1
+4545:'Picarron' Pete:0:1
+4546:Jake:37:1
+4547:Bedread the bold:0:1
+4548:Wilson:37:1
+4549:Tommy 2-times:0:1
+4550:Murky Pat:0:1
+4551:Jack Sails:0:1
+4552:Palmer:37:1
+4553:'Betty' B.Boppin:0:1
+4554:'Beedy-eye' Jones:0:1
+4555:Jenny Blade:0:1
+4556:'Lecherous' Lee:0:1
+4557:'Sticky' Sanders:0:1
+4558:Hirko:0:1
+4559:Holoy:0:1
+4560:Frizzy Skernip:0:1
+4561:Yulf Squecks:0:1
+4562:Praistan Ebola:0:1
+4563:Hura:0:1
+4564:Digsite workman:0:1
+4565:Digsite workman:0:1
+4566:Examiner:0:1
+4567:Examiner:0:1
+4568:Researcher:0:1
+4569:Nick:0:1
+4570:Crow:0:1
+4571:Crow:0:1
+4572:Gianne jnr.:0:1
+4573:Timble:0:1
+4574:Tamble:0:1
+4575:Spang:0:1
+4576:Brambickle:0:1
+4577:Wingstone:0:1
+4578:Penwie:0:1
+4579:Generic Diplomat:0:1
+4580:Ambassador Gimblewap:0:1
+4581:Ambassador Spanfipple:0:1
+4582:Ambassador Ferrnook:0:1
+4583:Professor Manglethorp:0:1
+4584:Damwin:0:1
+4585:Professor Onglewip:0:1
+4586:Professor Imblewyn:0:1
+4587:Perrdur:0:1
+4588:Dalila:0:1
+4589:Sorrn:0:1
+4590:Mimm:0:1
+4591:Eebel:0:1
+4592:Ermin:0:1
+4593:Portobello:0:1
+4594:Captain Ninto:0:1
+4595:Captain Daerkin:0:1
+4596:Captain Lamdoo:0:1
+4597:Meegle:0:1
+4598:Wurbel:0:1
+4599:Sarble:0:1
+4600:Guard Vemmeldo:0:1
+4601:Burkor:0:1
+4602:Froono:0:1
+4603:Fortress Guard:20:1
+4604:Fortress Guard:20:1
+4605:Fortress Guard:20:1
+4606:Fortress Guard:20:1
+4607:Black Cat:0:1
+4608:Monk:0:1
+4609:null:0:1
+4610:Brimstail:0:1
+4611:Saboteur:0:1
+4612:Gnome shop keeper:0:1
+4613:null:0:1
+4614:Cute creature:0:1
+4615:Evil creature:0:1
+4616:null:1:1
+4617:Cute creature:0:1
+4618:Evil creature:0:1
+4619:null:1:1
+4620:Cute creature:0:1
+4621:Evil creature:0:1
+4622:null:1:1
+4623:Cute creature:0:1
+4624:Evil creature:0:1
+4625:null:1:1
+4626:Cute creature:0:1
+4627:Evil creature:0:1
+4628:null:1:1
+4629:Cute creature:0:1
+4630:Evil creature:0:1
+4631:fluffie:0:1
+4632:fluffie:0:1
+4633:Goblin:0:1
+4634:Goblin:0:1
+4635:Goblin:0:1
+4636:Goblin:0:1
+4637:Goblin:0:1
+4638:Gnome soldier:0:1
+4639:Gnome soldier:0:1
+4640:Gnome soldier:0:1
+4641:Gnome soldier:0:1
+4642:Gnome soldier:0:1
+4643:Healthorg and tortoise:0:3
+4644:Oaknock the Engineer:0:1
+4645:Glouphrie the Untrusted:0:1
+4646:King Healthorg:0:1
+4647:Hazelmere:0:1
+4648:Nisha:0:1
+4649:Tyras guard:0:1
+4650:Trader Stan:0:1
+4651:Trader Crewmember:0:1
+4652:Trader Crewmember:0:1
+4653:Trader Crewmember:0:1
+4654:Trader Crewmember:0:1
+4655:Trader Crewmember:0:1
+4656:Trader Crewmember:0:1
+4657:Sir Prysin:0:1
+4658:Dark wizard:7:1
+4659:Dark wizard:7:1
+4660:Dark wizard:20:1
+4661:Dark wizard:20:1
+4662:Denath:0:1
+4663:Denath:0:1
+4664:Wally:1:1
+4665:Baby blue dragon:48:2
+4666:Baby blue dragon:48:2
+4667:Baby red dragon:48:2
+4668:Baby red dragon:48:2
+4669:Red dragon:152:4
+4670:Red dragon:152:4
+4671:Red dragon:152:4
+4672:Red dragon:152:4
+4673:Black dragon:227:4
+4674:Black dragon:227:4
+4675:Black dragon:227:4
+4676:Black dragon:227:4
+4677:Green dragon:79:4
+4678:Green dragon:79:4
+4679:Green dragon:79:4
+4680:Green dragon:79:4
+4681:Blue dragon:111:4
+4682:Blue dragon:111:4
+4683:Blue dragon:111:4
+4684:Blue dragon:111:4
+4685:Ice giant:53:2
+4686:Ice giant:53:2
+4687:Ice giant:53:2
+4688:Moss giant:42:2
+4689:Hill Giant:28:2
+4690:Hill Giant:28:2
+4691:Hill Giant:28:2
+4692:Hill Giant:28:2
+4693:Hill Giant:28:2
+4694:Lesser demon:82:2
+4695:Lesser demon:82:2
+4696:Lesser demon:82:2
+4697:Lesser demon:82:2
+4698:Greater demon:92:3
+4699:Greater demon:92:3
+4700:Greater demon:92:3
+4701:Greater demon:92:3
+4702:Black demon:172:3
+4703:Black demon:172:3
+4704:Black demon:172:3
+4705:Black demon:172:3
+4706:Moss giant:48:2
+4707:Magic Tutor:0:1
+4708:Old Man Ral:0:1
+4709:Vertida Sefalatis:0:1
+4710:Aeonisig Raispher:0:1
+4711:null:0:1
+4712:null:0:1
+4713:Safalaan:0:1
+4714:null:0:1
+4715:Sarius Guile:0:1
+4716:Trader Sven:0:1
+4717:Meiyerditch citizen:0:1
+4718:Meiyerditch citizen:0:1
+4719:Meiyerditch citizen:0:1
+4720:Meiyerditch citizen:0:1
+4721:Meiyerditch citizen:0:1
+4722:Meiyerditch citizen:0:1
+4723:Meiyerditch citizen:0:1
+4724:Meiyerditch citizen:0:1
+4725:Meiyerditch citizen:0:1
+4726:Meiyerditch citizen:0:1
+4727:Meiyerditch citizen:0:1
+4728:Meiyerditch citizen:0:1
+4729:Meiyerditch citizen:0:1
+4730:Meiyerditch citizen:0:1
+4731:Meiyerditch citizen:0:1
+4732:Meiyerditch citizen:0:1
+4733:Meiyerditch citizen:0:1
+4734:Meiyerditch citizen:0:1
+4735:Meiyerditch citizen:0:1
+4736:Meiyerditch citizen:0:1
+4737:Meiyerditch citizen:0:1
+4738:Meiyerditch citizen:0:1
+4739:Meiyerditch citizen:0:1
+4740:Meiyerditch citizen:0:1
+4741:Meiyerditch citizen:0:1
+4742:Meiyerditch citizen:0:1
+4743:Meiyerditch citizen:0:1
+4744:Meiyerditch citizen:0:1
+4745:Meiyerditch citizen:0:1
+4746:A Meiyerditch child:0:1
+4747:A Meiyerditch child:0:1
+4748:A Meiyerditch child:0:1
+4749:A Meiyerditch child:0:1
+4750:A Meiyerditch child:0:1
+4751:A Meiyerditch child:0:1
+4752:A Meiyerditch child:0:1
+4753:A Meiyerditch child:0:1
+4754:A Meiyerditch child:0:1
+4755:A Meiyerditch child:0:1
+4756:Meiyerditch miner:0:1
+4757:Meiyerditch miner:0:1
+4758:Meiyerditch miner:0:1
+4759:Meiyerditch miner:0:1
+4760:Meiyerditch miner:0:1
+4761:Meiyerditch miner:0:1
+4762:Shadowy figure:0:1
+4763:Shadowy figure:0:1
+4764:Shadowy figure:0:1
+4765:null:0:1
+4766:Stray dog:0:1
+4767:Stray dog:0:1
+4768:Cat:0:1
+4769:Cat:0:1
+4770:Boat:0:4
+4771:Boat:0:3
+4772:Juvinate guard:54:1
+4773:Juvinate guard:54:1
+4774:Vampyre juvenile:45:1
+4775:Vampyre juvenile:45:1
+4776:Vampyre juvinate:54:1
+4777:Vampyre juvinate:54:1
+4778:Held vampyre juvenile:54:1
+4779:Held vampyre juvenile:54:1
+4780:Held vampyre juvinate:54:1
+4781:Held vampyre juvinate:54:1
+4782:Vampyre juvinate:0:1
+4783:Former vampyre:0:1
+4784:Former vampyre:0:1
+4785:Former vampyre:0:1
+4786:Former vampyre:0:1
+4787:Former vampyre:0:1
+4788:Former vampyre:0:1
+4789:Angry vampyre:64:1
+4790:Angry vampyre:64:1
+4791:Vanstrom Klause:0:1
+4792:Vanstrom Klause:0:1
+4793:Vanstrom Klause:169:1
+4794:Vanstrom Klause:0:3
+4795:Vanstrom Klause:0:3
+4796:Vanstrom Klause:0:3
+4797:Vanescula Drakan:0:1
+4798:Vanescula Drakan:0:1
+4799:Vanescula Drakan:0:3
+4800:Vanescula Drakan:0:3
+4801:Ranis Drakan:0:1
+4802:Ranis Drakan:0:1
+4803:Ranis Drakan:0:3
+4804:Ranis Drakan:0:3
+4805:Vyrewatch:110:1
+4806:Vyrewatch:120:1
+4807:Vyrewatch:130:1
+4808:Vyrewatch:140:1
+4809:Flying female vampire:110:3
+4810:Flying female vampire:120:3
+4811:Flying female vampire:130:3
+4812:Flying female vampire:140:3
+4813:Vyrewatch:110:3
+4814:Vyrewatch:120:3
+4815:Vyrewatch:130:3
+4816:Vyrewatch:140:3
+4817:Vyrewatch:110:1
+4818:Vyrewatch:120:1
+4819:Vyrewatch:130:1
+4820:Vyrewatch:140:1
+4821:Vyrewatch:110:3
+4822:Vyrewatch:120:3
+4823:Vyrewatch:130:3
+4824:Vyrewatch:140:3
+4825:Vyrewatch:110:3
+4826:Vyrewatch:120:3
+4827:Vyrewatch:130:3
+4828:Vyrewatch:140:3
+4829:Vyrewatch:110:3
+4830:Vyrewatch:120:3
+4831:Vyrewatch:130:3
+4832:Vyrewatch:140:3
+4833:Vyrewatch:110:3
+4834:Vyrewatch:120:3
+4835:Vyrewatch:130:3
+4836:Vyrewatch:140:3
+4837:Vyrewatch:110:1
+4838:Vyrewatch:120:1
+4839:Vyrewatch:130:1
+4840:Vyrewatch:140:1
+4841:Vyrewatch:110:1
+4842:Vyrewatch:120:1
+4843:Vyrewatch:130:1
+4844:Vyrewatch:140:1
+4845:Flying female vampire:110:3
+4846:Flying female vampire:120:3
+4847:Flying female vampire:130:3
+4848:Flying female vampire:140:3
+4849:Vyrewatch:110:3
+4850:Vyrewatch:120:3
+4851:Vyrewatch:130:3
+4852:Vyrewatch:140:3
+4853:null:1:1
+4854:null:1:1
+4855:null:1:1
+4856:Ezekial Lovecraft:0:1
+4857:null:1:1
+4858:null:1:1
+4859:null:1:1
+4860:null:1:1
+4861:Sarius Guile:0:1
+4862:Vanstrom Klause:169:1
+4863:Kennith:0:1
+4864:Kennith:0:1
+4865:null:1:1
+4866:Holgart:0:1
+4867:Holgart:0:1
+4868:Holgart:0:1
+4869:null:1:1
+4870:Fisherman:0:1
+4871:null:1:1
+4872:Col. O'Niall:0:1
+4873:Col. O'Niall:0:1
+4874:Mayor Hobb:0:1
+4875:Mayor Hobb:0:1
+4876:null:0:1
+4877:null:0:1
+4878:Brother Maledict:0:1
+4879:Brother Maledict:0:1
+4880:null:1:1
+4881:null:1:1
+4882:null:1:1
+4883:Witchaven villager:0:1
+4884:Witchaven villager:0:1
+4885:Witchaven villager:0:1
+4886:Witchaven villager:0:1
+4887:Witchaven villager:0:1
+4888:Witchaven villager:0:1
+4889:Mother Mallum:0:4
+4890:Slug Prince:62:2
+4891:null:1:2
+4892:Giant lobster:0:2
+4893:Giant Lobster:45:2
+4894:Sea slug:0:1
+4895:Jeb:0:1
+4896:Jeb:0:1
+4897:Sir Tinley:0:1
+4898:Hobgoblin:28:1
+4899:Cooking Tutor:0:1
+4900:Crafting Tutor:0:1
+4901:Fishing Tutor:0:1
+4902:Mining Tutor:0:1
+4903:Prayer Tutor:0:1
+4904:Smelting Tutor:0:1
+4905:Smithing Tutor:0:1
+4906:Woodcutting Tutor:0:1
+4907:Bank Tutor:0:1
+4908:Fishing spot:0:1
+4909:Fritz the Glassblower:0:1
+4910:Earth elemental:35:1
+4911:Elemental rock:0:1
+4912:null:0:1
+4913:Jig cart:0:1
+4914:Jig cart:0:1
+4915:Jig cart:0:1
+4916:Jig cart:0:1
+4917:Jig cart:0:1
+4918:Jig cart:0:1
+4919:Abidor Crank:0:1
+4920:Giant crypt rat:76:2
+4921:Giant crypt rat:76:2
+4922:Giant rat:3:2
+4923:Giant rat:3:2
+4924:Giant rat:3:2
+4925:Giant rat:3:2
+4926:Giant rat:6:2
+4927:Giant rat:6:2
+4928:Dungeon rat:12:2
+4929:Dungeon rat:12:2
+4930:Goat:23:1
+4931:Goat:23:1
+4932:Billy Goat:33:1
+4933:Goat:23:1
+4934:Goat:23:1
+4935:Billy Goat:33:1
+4936:Dungeon rat:12:1
+4937:Dungeon rat:12:1
+4938:Angry giant rat:45:2
+4939:Angry giant rat:45:2
+4940:Angry giant rat:47:1
+4941:Blessed giant rat:9:2
+4942:Giant rat:3:2
+4943:Giant rat:3:2
+4944:Giant rat:26:2
+4945:Giant rat:26:2
+4946:Ignatius Vulcan:0:1
+4947:My Arm:0:1
+4948:My Arm:0:1
+4949:My Arm:0:1
+4950:null:1:1
+4951:null:1:1
+4952:null:1:1
+4953:null:1:1
+4954:null:1:1
+4955:null:1:1
+4956:null:1:1
+4957:My Arm:0:1
+4958:My Arm:0:1
+4959:My Arm:0:1
+4960:Adventurer:0:2
+4961:null:1:1
+4962:Captain Barnaby:0:1
+4963:Murcaily:0:1
+4964:Jagbakoba:0:1
+4965:Tool Leprechaun:0:1
+4966:null:1:1
+4967:Flies:0:1
+4968:Unnamed troll child:0:1
+4969:Drunken dwarf's leg:0:1
+4970:null:1:1
+4971:Baby Roc:75:1
+4972:Giant Roc:172:5
+4973:Shadow:0:4
+4974:Captain Barnaby:0:1
+4975:Male slave:0:1
+4976:Male slave:0:1
+4977:Female slave:0:1
+4978:Female slave:0:1
+4979:Cart Camel:0:4
+4980:Mine Cart:0:1
+4981:Mine Cart:0:1
+4982:Ana:0:1
+4983:Mercenary:45:1
+4984:null:0:1
+4985:null:0:1
+4986:null:0:1
+4987:null:0:1
+4988:Irena:0:1
+4989:Mercenary:45:1
+4990:Mercenary:45:1
+4991:Mercenary:45:1
+4992:Mercenary:45:1
+4993:Guard:45:1
+4994:Guard:45:1
+4995:Guard:45:1
+4996:Guard:45:1
+4997:Guard:45:1
+4998:Guard:45:1
+4999:Guard:45:1
+5000:Guard:45:1
+5001:Guard:45:1
+5002:Guard:45:1
+5003:null:0:1
+5004:null:0:1
+5005:null:0:1
+5006:null:0:1
+5007:null:0:1
+5008:null:0:1
+5009:null:0:1
+5010:null:0:1
+5011:null:0:1
+5012:null:0:1
+5013:null:0:1
+5014:null:0:1
+5015:null:0:1
+5016:null:0:1
+5017:Gublinch:0:1
+5018:Gublinch:0:1
+5019:Gublinch:0:1
+5020:null:0:1
+5021:null:0:1
+5022:null:0:1
+5023:Jack:0:1
+5024:Jill:0:1
+5025:Jeff:0:1
+5026:Egg launcher:0:1
+5027:Egg launcher:0:1
+5028:Egg launcher:0:1
+5029:Commander Connad:0:1
+5030:Captain Cain:0:1
+5031:Private Paldo:0:1
+5032:Private Pendron:0:1
+5033:Private Pierreb:0:1
+5034:Private Paldon:0:1
+5035:Major Attack:0:1
+5036:Major Collect:0:1
+5037:Major Defend:0:1
+5038:Major Heal:0:1
+5039:Sergeant Sambur:0:1
+5040:Penance Fighter:0:1
+5041:Penance Ranger:0:1
+5042:Penance Runner:0:1
+5043:Penance Healer:0:1
+5044:Penance Fighter:30:1
+5045:Penance Fighter:32:1
+5046:Jack:0:1
+5047:Jill:0:1
+5048:Jeff:0:1
+5049:Auguste:0:1
+5050:Auguste:0:1
+5051:Auguste:0:1
+5052:Auguste:0:1
+5053:Assistant Serf:0:1
+5054:Assistant Brock:0:1
+5055:Assistant Marrow:0:1
+5056:Assistant Le Smith:0:1
+5057:Assistant Stan:0:1
+5058:Bob:0:1
+5059:Curly:0:1
+5060:Moe:0:1
+5061:Larry:0:1
+5062:null:1:1
+5063:null:1:1
+5064:null:1:1
+5065:null:1:1
+5066:null:1:1
+5067:Shark:0:1
+5068:Shark:0:1
+5069:Shark:0:1
+5070:null:0:1
+5071:null:0:1
+5072:Tropical wagtail:0:1
+5073:Crimson swift:0:1
+5074:Cerulean twitch:0:1
+5075:Golden warbler:0:1
+5076:Copper longtail:0:1
+5077:null:0:1
+5078:null:0:1
+5079:Chinchompa:1:1
+5080:Carnivorous chinchompa:2:1
+5081:Ferret:0:1
+5082:Black warlock:0:1
+5083:Snowy knight:0:1
+5084:Sapphire glacialis:0:1
+5085:Ruby harvest:0:1
+5086:Prickly kebbit:0:1
+5087:Sabre-toothed kebbit:0:1
+5088:Barb-tailed kebbit:0:1
+5089:Wild kebbit:0:1
+5090:null:0:1
+5091:null:0:1
+5092:Matthias:0:1
+5093:Matthias:0:1
+5094:Gyr Falcon:0:1
+5095:Gyr Falcon:0:1
+5096:Gyr Falcon:0:1
+5097:Gyr Falcon:0:1
+5098:Spotted kebbit:0:1
+5099:Dark kebbit:0:1
+5100:Dashing kebbit:0:1
+5101:null:0:1
+5102:null:0:1
+5103:Sabre-toothed kyatt:60:2
+5104:Spined larupia:40:2
+5105:Horned graahk:50:2
+5106:null:0:1
+5107:null:0:1
+5108:null:0:1
+5109:Artimeus:0:1
+5110:Aleck:0:1
+5111:Leon:0:1
+5112:Hunting expert:0:1
+5113:Hunting expert:0:1
+5114:Orange salamander:0:1
+5115:Red salamander:0:1
+5116:Black salamander:0:1
+5117:Swamp lizard:0:1
+5118:null:0:1
+5119:null:0:1
+5120:Eagle:0:3
+5121:Eagle:0:5
+5122:Eagle:0:5
+5123:Eagle:0:5
+5124:null:0:1
+5125:null:0:1
+5126:Nickolaus:0:1
+5127:Nickolaus:0:1
+5128:Nickolaus:0:1
+5129:Nickolaus:0:1
+5130:Desert eagle:0:3
+5131:Jungle eagle:0:3
+5132:Polar eagle:0:3
+5133:Eagle:0:3
+5134:null:0:3
+5135:null:0:3
+5136:null:0:3
+5137:Kebbit:13:1
+5138:Charlie:0:1
+5139:null:0:1
+5140:Boulder:0:2
+5141:Uri:0:1
+5142:Uri:0:1
+5143:Uri:0:1
+5144:Double agent:65:1
+5145:Double agent:108:1
+5146:Li'l lamb:0:1
+5147:Lamb:0:1
+5148:Sheep:0:1
+5149:Sheep:0:1
+5150:Sheep:0:1
+5151:Sheep:0:1
+5152:Sheep:0:1
+5153:Sheep:0:1
+5154:Sheep:0:1
+5155:Sheep:0:1
+5156:Sheep:0:1
+5157:Sheep:0:1
+5158:Sheep:0:1
+5159:Sheep:0:1
+5160:Sheep:0:1
+5161:Sheep:0:1
+5162:Sheep:0:1
+5163:Sheep:0:1
+5164:Sheep:0:1
+5165:Sheep:0:1
+5166:Mountain Goat:0:1
+5167:Mountain Goat:0:1
+5168:Ram:2:1
+5169:Ram:2:1
+5170:Ram:2:1
+5171:Mountain goat:0:1
+5172:Golden sheep:0:1
+5173:Golden sheep:0:1
+5174:Ogre chieftain:81:2
+5175:null:1:2
+5176:Ogre shaman:113:2
+5177:Ogre shaman:1:2
+5178:Blue dragon:27:4
+5179:Elkoy:0:1
+5180:null:1:2
+5181:Ogre shaman:113:2
+5182:Elkoy:0:1
+5183:null:1:2
+5184:Ogre shaman:113:2
+5185:Biggleswade:126:1
+5186:null:1:2
+5187:Ogre shaman:113:2
+5188:Saff Waldon:126:1
+5189:null:1:2
+5190:Ogre shaman:113:2
+5191:Blaze Sharpeye:0:1
+5192:null:1:2
+5193:Ogre shaman:113:2
+5194:Blaze Sharpeye:0:1
+5195:Wizard:0:1
+5196:Wizard:0:1
+5197:Wizard:0:1
+5198:Ava:0:1
+5199:null:0:1
+5200:Witch:0:1
+5201:null:0:1
+5202:Alice's husband:0:1
+5203:Alice's husband:0:1
+5204:Alice's husband:0:1
+5205:Alice's husband:0:1
+5206:null:1:1
+5207:Tree:0:1
+5208:Undead tree:0:1
+5209: Sneaky undead fowl:1:1
+5210:Cow1337killr:123:1
+5211:Undead cow:2:2
+5212:Alice:0:1
+5213:Penance Fighter:37:1
+5214:Penance Fighter:42:1
+5215:Penance Fighter:47:1
+5216:Penance Fighter:56:1
+5217:Penance Fighter:61:1
+5218:Penance Fighter:68:1
+5219:Penance Fighter:77:1
+5220:Penance Runner:0:1
+5221:Penance Runner:0:1
+5222:Penance Runner:0:1
+5223:Penance Runner:0:1
+5224:Penance Runner:0:1
+5225:Penance Runner:0:1
+5226:Penance Runner:0:1
+5227:Penance Runner:0:1
+5228:Penance Runner:0:1
+5229:Penance Ranger:21:1
+5230:Penance Ranger:25:1
+5231:Penance Ranger:32:1
+5232:Penance Ranger:38:1
+5233:Penance Ranger:43:1
+5234:Penance Ranger:51:1
+5235:Penance Ranger:57:1
+5236:Penance Ranger:64:1
+5237:Penance Ranger:72:1
+5238:Penance Healer:0:1
+5239:Penance Healer:0:1
+5240:Penance Healer:0:1
+5241:Penance Healer:0:1
+5242:Penance Healer:0:1
+5243:Penance Healer:0:1
+5244:Penance Healer:0:1
+5245:Penance Healer:0:1
+5246:Penance Healer:0:1
+5247:Penance Queen:209:5
+5248:Queen spawn:63:1
+5249:Captain Errdo:0:1
+5250:Scarab mage:93:1
+5251:Locust rider:106:2
+5252:Locust rider:98:2
+5253:Giant scarab:191:3
+5254:Scarab mage:66:1
+5255:Locust rider:68:2
+5256:Locust rider:68:2
+5257:null:1:1
+5258:Banker:0:1
+5259:null:1:1
+5260:Banker:0:1
+5261:null:1:1
+5262:Stonemason:0:1
+5263:null:1:1
+5264:Nathifa:0:1
+5265:null:1:1
+5266:Urbi:0:1
+5267:null:1:1
+5268:Jamila:0:1
+5269:null:1:1
+5270:Sophanem guard:0:1
+5271:null:1:1
+5272:Sophanem guard:0:1
+5273:null:1:1
+5274:Sophanem guard:0:1
+5275:null:1:1
+5276:Sophanem guard:0:1
+5277:Menaphite guard:0:1
+5278:Coenus:0:1
+5279:Jex:0:1
+5280:null:1:1
+5281:Maisa:0:1
+5282:null:1:1
+5283:null:1:1
+5284:Osman:0:1
+5285:Osman:0:1
+5286:Osman:0:1
+5287:Osman:0:1
+5288:Embalmer:0:1
+5289:Carpenter:0:1
+5290:Linen worker:0:1
+5291:Priest:0:1
+5292:Giant scarab:0:3
+5293:Zombie:13:1
+5294:Zombie:13:1
+5295:Zombie:13:1
+5296:Zombie:13:1
+5297:Zombie:13:1
+5298:Zombie:13:1
+5299:Zombie:13:1
+5300:Zombie:13:1
+5301:Zombie:13:1
+5302:Zombie:13:1
+5303:Zombie:13:1
+5304:Zombie:13:1
+5305:Zombie:13:1
+5306:Zombie:13:1
+5307:Zombie:13:1
+5308:Zombie:18:1
+5309:Zombie:18:1
+5310:Zombie:18:1
+5311:Zombie:18:1
+5312:Zombie:18:1
+5313:Zombie:18:1
+5314:Zombie:24:1
+5315:Zombie:24:1
+5316:Zombie:24:1
+5317:Zombie:24:1
+5318:Zombie:24:1
+5319:Zombie:24:1
+5320:Zombie:24:1
+5321:Zombie:24:1
+5322:Zombie:24:1
+5323:Zombie:24:1
+5324:Zombie:24:1
+5325:Zombie:24:1
+5326:Zombie:24:1
+5327:Zombie:24:1
+5328:Zombie:25:1
+5329:Zombie:25:1
+5330:Zombie:25:1
+5331:Zombie:25:1
+5332:Skeleton:22:1
+5333:Skeleton:22:1
+5334:Skeleton:22:1
+5335:Skeleton:21:1
+5336:Skeleton:21:1
+5337:Skeleton:25:1
+5338:Skeleton:25:1
+5339:Skeleton:25:1
+5340:Skeleton:25:1
+5341:Skeleton:45:1
+5342:Ghost:19:1
+5343:Ghost:19:1
+5344:Ghost:19:1
+5345:Ghost:19:1
+5346:Ghost:19:1
+5347:Ghost:19:1
+5348:Ghost:19:1
+5349:Ghost:19:1
+5350:Ghost:19:1
+5351:Ghost:19:1
+5352:Ghost:19:1
+5353:Undead one:68:1
+5354:Undead one:61:1
+5355:Undead one:68:1
+5356:Undead one:68:1
+5357:Undead one:73:1
+5358:Undead one:73:1
+5359:Giant skeleton:80:1
+5360:Mummy ashes:96:1
+5361:Waterfiend:115:1
+5362:Brutal green dragon:227:4
+5363:Mithril dragon:304:4
+5364:Confused barbarian:132:1
+5365:Skeleton:60:1
+5366:Skeleton:60:1
+5367:Skeleton:85:1
+5368:Skeleton:85:1
+5369:Ghost:77:1
+5370:Ghost:77:1
+5371:Ghost:77:1
+5372:Ghost:76:1
+5373:Ghost:76:1
+5374:Ghost:76:1
+5375:Zombie:30:1
+5376:Zombie:30:1
+5377:Zombie:44:1
+5378:Zombie:44:1
+5379:Zombie:53:1
+5380:Zombie:53:1
+5381:Skeleton:77:1
+5382:Animated steel armour:53:1
+5383:Odovacar:0:1
+5384:Giant skeleton:100:2
+5385:Skeleton:94:1
+5386:Skeleton:77:1
+5387:Skeleton:81:1
+5388:Skeleton:42:1
+5389:Skeleton:59:1
+5390:Skeleton:42:1
+5391:Skeleton:63:1
+5392:Skeleton:40:1
+5393:Zombie:40:1
+5394:Zombie:42:1
+5395:Zombie:47:1
+5396:Zombie:50:1
+5397:Zombie:56:1
+5398:Zombie:61:1
+5399:Zombie:67:1
+5400:Zombie:70:1
+5401:Zombie:72:1
+5402:Zombie:76:1
+5403:Zombie:80:1
+5404:Zombie:85:1
+5405:Zombie:86:1
+5406:Zombie:90:1
+5407:Zombie:95:1
+5408:Zombie:98:1
+5409:Zombie:100:1
+5410:Zombie:81:1
+5411:Skeleton:72:1
+5412:Skeleton:87:1
+5413:Possessed pickaxe:50:1
+5414:Animated spade:50:1
+5415:Terror dog statue:0:2
+5416:Terror dog statue:0:3
+5417:Terror dog:110:2
+5418:Terror dog:100:1
+5419:Tarn:0:1
+5420:Tarn:69:1
+5421:Mutant tarn:69:3
+5422:Skeleton:77:1
+5423:null:0:1
+5424:Larry:0:1
+5425:Larry:0:1
+5426:Larry:0:1
+5427:null:0:1
+5428:Penguin:0:1
+5429:Penguin:0:1
+5430:Penguin:0:1
+5431:KGP Guard:0:1
+5432:Pescaling Pax:0:1
+5433:Ping:0:1
+5434:Ping:0:1
+5435:Pong:0:1
+5436:Pong:0:1
+5437:Ping:0:1
+5438:Pong:0:1
+5439:null:0:1
+5440:null:0:1
+5441:KGP Agent:0:1
+5442:KGP Agent:0:1
+5443:null:1:1
+5444:Noodle:0:1
+5445:Penguin:0:1
+5446:Penguin suit:0:1
+5447:Agility Instructor:0:1
+5448:Army Commander:0:1
+5449:Penguin:0:1
+5450:Penguin:0:1
+5451:Penguin:0:1
+5452:Icelord:51:2
+5453:Icelord:51:2
+5454:Icelord:51:2
+5455:Icelord:51:2
+5456:Crusher:0:1
+5457:Crusher:0:1
+5458:Crusher:0:1
+5459:Crusher:0:1
+5460:Tree:0:1
+5461:Jungle Tree:0:1
+5462:Tolna:0:1
+5463:Honour guard:0:1
+5464:Honour guard:0:1
+5465:Fridleif Shieldson:0:1
+5466:Thakkrad Sigmundson:0:1
+5467:Iceberg:0:1
+5468:Iceberg:0:2
+5469:Arctic Pine:0:2
+5470:Fishing spot:0:1
+5471:Fishing spot:0:1
+5472:Ice Troll King:122:2
+5473:Ice troll runt:74:1
+5474:Ice troll male:82:1
+5475:Ice troll female:82:1
+5476:Ice troll grunt:102:1
+5477:Bork Sigmundson:0:1
+5478:King Gjuki Sorvott IV:0:1
+5479:HRH Hrafn:0:1
+5480:Thorkel Silkbeard:0:1
+5481:Mord Gunnars:0:1
+5482:Mord Gunnars:0:1
+5483:Hring Hring:0:1
+5484:Flosi Dalksson:0:1
+5485:Raum Urda-Stein:0:1
+5486:Skuli Myrka:0:1
+5487:Keepa Kettilon:0:1
+5488:Magnus Gram:0:1
+5489:Guard:0:1
+5490:Guard:0:1
+5491:Guard:0:1
+5492:Guard:0:1
+5493:Freygerd:0:1
+5494:Lensa:0:1
+5495:Vanligga Gastfrihet:0:1
+5496:Sassilik:0:1
+5497:Miner:0:1
+5498:Miner:0:1
+5499:Eric:0:1
+5500:Gruva Patrull:0:1
+5501:Brendt:0:1
+5502:Grundt:0:1
+5503:Mawnis Burowgar:0:1
+5504:Mawnis Burowgar:0:1
+5505:Fridleif Shieldson:0:1
+5506:Thakkrad Sigmundson:0:1
+5507:Maria Gunnars:0:1
+5508:Maria Gunnars:0:1
+5509:Jofridr Mordstatter:0:1
+5510:Morten Holdstrom:0:1
+5511:Gunnar Holdstrom:0:1
+5512:Anne Isaakson:0:1
+5513:Lisse Isaakson:0:1
+5514:Honour guard:115:1
+5515:Honour guard:115:1
+5516:Honour guard:115:1
+5517:Honour guard:115:1
+5518:Kjedelig Uppsen:0:1
+5519:Trogen Konungarde:0:1
+5520:Slug Hemligssen:0:1
+5521:Ice troll runt:74:1
+5522:Ice troll male:82:1
+5523:Ice troll female:82:1
+5524:Ice troll grunt:100:1
+5525:Ice troll runt:74:1
+5526:Ice troll male:82:1
+5527:Ice troll female:82:1
+5528:Ice troll grunt:100:1
+5529:Yak:22:2
+5530:null:1:1
+5531:Sorceress:0:1
+5532:Apprentice:0:1
+5533:Autumn Elemental:0:1
+5534:Autumn Elemental:0:1
+5535:Autumn Elemental:0:1
+5536:Autumn Elemental:0:1
+5537:Autumn Elemental:0:1
+5538:Autumn Elemental:0:1
+5539:Spring Elemental:0:1
+5540:Spring Elemental:0:1
+5541:Spring Elemental:0:1
+5542:Spring Elemental:0:1
+5543:Spring Elemental:0:1
+5544:Spring Elemental:0:1
+5545:Spring Elemental:0:1
+5546:Spring Elemental:0:1
+5547:Summer Elemental:0:1
+5548:Summer Elemental:0:1
+5549:Summer Elemental:0:1
+5550:Summer Elemental:0:1
+5551:Summer Elemental:0:1
+5552:Summer Elemental:0:1
+5553:Winter Elemental:0:1
+5554:Winter Elemental:0:1
+5555:Winter Elemental:0:1
+5556:Winter Elemental:0:1
+5557:Winter Elemental:0:1
+5558:Winter Elemental:0:1
+5559:Osman:0:1
+5560:Osman:0:1
+5561:Osman:0:1
+5562:null:0:1
+5563:Del-Monty:0:1
+5564:Bouncer:160:2
+5565:Bouncer:160:2
+5566:General Khazard:0:1
+5567:Scout:0:1
+5568:Scout:0:1
+5569:Scout:0:1
+5570:Scout:0:1
+5571:Sin Seer:0:1
+5572:Ghost:0:1
+5573:null:0:1
+5574:null:0:1
+5575:null:0:1
+5576:null:0:1
+5577:null:0:1
+5578:Effigy:0:1
+5579:Effigy:0:1
+5580:Bonafido:0:2
+5581:Homunculus:0:3
+5582:Homunculus:0:3
+5583:Homunculus:0:3
+5584:Cage:0:3
+5585:'Transmute' The Alchemist:0:1
+5586:'Transmute' The Alchemist:0:1
+5587:'Currency' The Alchemist:0:1
+5588:'Currency' The Alchemist:0:1
+5589:'Black-eye':0:1
+5590:'No fingers':0:1
+5591:'Gummy':0:1
+5592:'The Guns':0:1
+5593:Frogeel:103:2
+5594:Spidine:42:1
+5595:Swordchick:46:1
+5596:Jubster:87:3
+5597:Newtroost:19:1
+5598:null:0:1
+5599:null:0:3
+5600:null:0:3
+5601:null:0:1
+5602:null:0:1
+5603:Unicow:25:2
+5604:Elfinlocks:93:1
+5605:Clockwork cat:0:1
+5606:null:0:1
+5607:Clockwork cat:0:1
+5608:Monk:0:1
+5609:Monk:0:1
+5610:Monk:0:1
+5611:Monk:0:1
+5612:Rufus:0:1
+5613:Mi-Gor:0:1
+5614:Puffin:0:1
+5615:Puffin:0:1
+5616:Brother Tranquility:0:1
+5617:Brother Tranquility:0:1
+5618:Brother Tranquility:0:1
+5619:Monk:0:1
+5620:Monk:0:1
+5621:Monk:0:1
+5622:Monk:0:1
+5623:Zombie monk:0:1
+5624:Zombie monk:0:1
+5625:Zombie monk:0:1
+5626:Zombie monk:0:1
+5627:Sorebones:57:1
+5628:Sorebones:57:1
+5629:Zombie pirate:57:1
+5630:Zombie pirate:57:1
+5631:Zombie pirate:57:1
+5632:Zombie pirate:57:1
+5633:Zombie pirate:57:1
+5634:Zombie pirate:57:1
+5635:Zombie pirate:57:1
+5636:Zombie pirate:57:1
+5637:Zombie pirate:57:1
+5638:Zombie pirate:57:1
+5639:Zombie pirate:57:1
+5640:Zombie pirate:57:1
+5641:Zombie pirate:57:1
+5642:Zombie pirate:57:1
+5643:Zombie pirate:57:1
+5644:Zombie pirate:57:1
+5645:Zombie pirate:57:1
+5646:Zombie pirate:57:1
+5647:Zombie pirate:57:1
+5648:Zombie pirate:57:1
+5649:Zombie pirate:57:1
+5650:Zombie pirate:57:1
+5651:Zombie pirate:57:1
+5652:Zombie pirate:57:1
+5653:Zombie pirate:57:1
+5654:Zombie pirate:57:1
+5655:Zombie pirate:57:1
+5656:Zombie pirate:57:1
+5657:Zombie pirate:57:1
+5658:Zombie pirate:57:1
+5659:Zombie pirate:57:1
+5660:Zombie pirate:57:1
+5661:Zombie pirate:57:1
+5662:Zombie pirate:57:1
+5663:Zombie pirate:57:1
+5664:Zombie pirate:57:1
+5665:Zombie pirate:57:1
+5666:Barrelchest:170:3
+5667:null:0:1
+5668:null:0:1
+5669:null:0:1
+5670:null:0:1
+5671:null:0:1
+5672:null:0:1
+5673:null:0:1
+5674:null:0:1
+5675:null:0:1
+5676:null:0:1
+5677:null:0:1
+5678:Undead Lumberjack:30:1
+5679:Undead Lumberjack:30:1
+5680:Undead Lumberjack:30:1
+5681:Undead Lumberjack:30:1
+5682:Undead Lumberjack:30:1
+5683:Undead Lumberjack:30:1
+5684:Undead Lumberjack:35:1
+5685:Undead Lumberjack:35:1
+5686:Undead Lumberjack:35:1
+5687:Undead Lumberjack:35:1
+5688:Undead Lumberjack:35:1
+5689:Undead Lumberjack:35:1
+5690:Undead Lumberjack:35:1
+5691:Undead Lumberjack:35:1
+5692:Undead Lumberjack:40:1
+5693:Undead Lumberjack:40:1
+5694:Undead Lumberjack:40:1
+5695:Undead Lumberjack:40:1
+5696:Undead Lumberjack:40:1
+5697:Undead Lumberjack:40:1
+5698:Undead Lumberjack:40:1
+5699:Undead Lumberjack:40:1
+5700:Undead Lumberjack:45:1
+5701:Undead Lumberjack:45:1
+5702:Undead Lumberjack:45:1
+5703:Undead Lumberjack:45:1
+5704:Undead Lumberjack:45:1
+5705:Undead Lumberjack:45:1
+5706:Undead Lumberjack:45:1
+5707:Undead Lumberjack:45:1
+5708:Undead Lumberjack:50:1
+5709:Undead Lumberjack:50:1
+5710:Undead Lumberjack:50:1
+5711:Undead Lumberjack:50:1
+5712:Undead Lumberjack:50:1
+5713:Undead Lumberjack:50:1
+5714:Undead Lumberjack:50:1
+5715:Undead Lumberjack:50:1
+5716:Undead Lumberjack:55:1
+5717:Undead Lumberjack:55:1
+5718:Undead Lumberjack:55:1
+5719:Undead Lumberjack:55:1
+5720:Undead Lumberjack:55:1
+5721:Undead Lumberjack:55:1
+5722:Undead Lumberjack:55:1
+5723:Undead Lumberjack:55:1
+5724:Undead Lumberjack:60:1
+5725:Undead Lumberjack:60:1
+5726:Undead Lumberjack:60:1
+5727:Undead Lumberjack:60:1
+5728:Undead Lumberjack:60:1
+5729:Undead Lumberjack:60:1
+5730:Undead Lumberjack:60:1
+5731:Undead Lumberjack:60:1
+5732:Undead Lumberjack:64:1
+5733:Undead Lumberjack:64:1
+5734:Undead Lumberjack:64:1
+5735:Undead Lumberjack:64:1
+5736:Undead Lumberjack:64:1
+5737:Undead Lumberjack:64:1
+5738:Undead Lumberjack:64:1
+5739:Undead Lumberjack:64:1
+5740:Undead Lumberjack:70:1
+5741:Undead Lumberjack:70:1
+5742:Undead Lumberjack:70:1
+5743:Undead Lumberjack:70:1
+5744:Undead Lumberjack:70:1
+5745:Undead Lumberjack:70:1
+5746:Undead Lumberjack:70:1
+5747:Undead Lumberjack:70:1
+5748:Fishing spot:0:1
+5749:Fishing spot:0:1
+5750:Cave bug:96:2
+5751:Molanisk:51:1
+5752:Cave goblin:0:1
+5753:Cave goblin:0:1
+5754:Cave goblin:0:1
+5755:Cave goblin:0:1
+5756:Cave goblin:0:1
+5757:Cave goblin:0:1
+5758:Cave goblin:0:1
+5759:Cave goblin:0:1
+5760:Cave goblin:0:1
+5761:Cave goblin:0:1
+5762:Cave goblin:0:1
+5763:Cave goblin:0:1
+5764:Cave goblin:0:1
+5765:Cave goblin:0:1
+5766:Cave goblin:0:1
+5767:Cave goblin:0:1
+5768:Cave goblin:0:1
+5769:Cave goblin:0:1
+5770:Ur-zek:0:1
+5771:Ur-vass:0:1
+5772:Ur-taal:0:1
+5773:Ur-meg:0:1
+5774:Ur-lun:0:1
+5775:Ur-pel:0:1
+5776:Banker:0:1
+5777:Banker:0:1
+5778:Bartak:0:1
+5779:Turgall:0:1
+5780:Reldak:0:1
+5781:Miltog:0:1
+5782:Mernik:0:1
+5783:Cave goblin:0:1
+5784:Crate goblin:0:1
+5785:Cave goblin:0:1
+5786:Goblin scribe:0:1
+5787:null:0:1
+5788:Gourmet:0:1
+5789:Gourmet:0:1
+5790:Gourmet:0:1
+5791:Gourmet:0:1
+5792:Turgok:0:1
+5793:Markog:0:1
+5794:Durgok:0:1
+5795:Tindar:0:1
+5796:Gundik:0:1
+5797:Zenkog:0:1
+5798:Lurgon:0:1
+5799:Ur-tag:0:1
+5800:Guard:26:1
+5801:Guard:24:1
+5802:null:1:1
+5803:Young 'un:0:1
+5804:Tyke:0:1
+5805:Nipper:0:1
+5806:Nipper:0:1
+5807:Cave goblin child:0:1
+5808:Cave goblin child:0:1
+5809:Cave goblin child:0:1
+5810:Cave goblin child:0:1
+5811:Cave goblin child:0:1
+5812:Cave goblin child:0:1
+5813:Cave goblin child:0:1
+5814:Cave goblin child:0:1
+5815:Cave goblin child:0:1
+5816:Cave goblin child:0:1
+5817:Cave goblin child:0:1
+5818:Cave goblin child:0:1
+5819:Cave goblin child:0:1
+5820:Cave goblin child:0:1
+5821:Cave goblin child:0:1
+5822:Cave goblin child:0:1
+5823:Spit goblin:0:1
+5824:Goblin fish:0:1
+5825:Movario:0:1
+5826:Darve:0:1
+5827:Moths:0:1
+5828:Barlak:0:1
+5829:Rabbit:2:1
+5830:null:1:1
+5831:null:1:1
+5832:null:1:1
+5833:Rat Burgiss:0:1
+5834:Surok Magis:0:1
+5835:Surok Magis:0:1
+5836:Zaff:0:1
+5837:Anna Jones:0:1
+5838:King Roald:47:1
+5839:Mishkal'un Dorn:0:1
+5840:Dakh'thoulan Aegis:0:1
+5841:Sil'as Dahcsnu:0:1
+5842:Outlaw:32:1
+5843:Outlaw:32:1
+5844:Outlaw:32:1
+5845:Outlaw:32:1
+5846:Outlaw:32:1
+5847:Outlaw:32:1
+5848:Outlaw:32:1
+5849:Outlaw:32:1
+5850:Outlaw:32:1
+5851:Outlaw:32:1
+5852:Monkey:1:1
+5853:null:0:1
+5854:Bench:0:1
+5855:Goblin:0:1
+5856:Goblin:0:1
+5857:Zanik:0:1
+5858:Ur-tag:0:1
+5859:H.A.M. Archer:30:1
+5860:H.A.M. Mage:30:1
+5861:Zanik:0:2
+5862:Sigmund and Zanik:0:2
+5863:Ambassador Alvijar:0:1
+5864:Builder:0:1
+5865:Builder:0:1
+5866:Builder:0:1
+5867:Builder:0:1
+5868:Tegdak:0:1
+5869:null:1:1
+5870:Zanik:0:1
+5871:Sergeant Mossfists:51:1
+5872:Sergeant Slimetoes:51:1
+5873:Cave goblin:0:1
+5874:Cave goblin:0:1
+5875:Cave goblin:0:1
+5876:Cave goblin:0:1
+5877:Cave goblin:0:1
+5878:Cave goblin:0:1
+5879:Ticket goblin:0:1
+5880:Dwarf:0:1
+5881:Dwarf:0:1
+5882:Dwarf:0:1
+5883:Dwarf:0:1
+5884:Dwarf:0:1
+5885:Dwarf:0:1
+5886:Ticket dwarf:0:1
+5887:null:1:1
+5888:null:1:1
+5889:null:1:1
+5890:null:1:1
+5891:null:1:1
+5892:null:1:1
+5893:Cyrisus:0:1
+5894:Cyrisus:0:1
+5895:Cyrisus:0:1
+5896:Cyrisus:0:1
+5897:Cyrisus:0:1
+5898:'Bird's-Eye' Jack:0:1
+5899:null:0:1
+5900:null:0:1
+5901:null:0:1
+5902:The Inadequacy:343:5
+5903:The Everlasting:223:3
+5904:The Untouchable:274:2
+5905:The Illusive:108:1
+5906:A Doubt:78:1
+5907:The Illusive:1:1
+5908:Dying tree:0:1
+5909:Barbarian:8:1
+5910:Cook:0:1
+5911:Cook:0:1
+5912:Banker:0:1
+5913:Banker:0:1
+5914:Iffie:0:1
+5915:Elsie:0:1
+5916:Cleaner:0:1
+5917:Stray dog:0:1
+5918:Stray dog:0:1
+5919:Guard:21:1
+5920:Guard:21:1
+5921:Trainee Guard:0:1
+5922:Captain:0:1
+5923:Man:2:1
+5924:Woman:2:1
+5925:Benny:0:1
+5926:Thief:16:1
+5927:Thief:16:1
+5928:Thief:16:1
+5929:Thief:16:1
+5930:Art Critic Jacques:0:1
+5931:Historian Minas:0:1
+5932:Barnabus Hurma:0:1
+5933:Marius Giste:0:1
+5934:Caden Azro:0:1
+5935:Thias Leacke:0:1
+5936:Sinco Doar:0:1
+5937:Tinse Torpe:0:1
+5938:Information clerk:0:1
+5939:Torrcs:0:1
+5940:Marfet:0:1
+5941:Museum guard:0:1
+5942:Museum guard:0:1
+5943:Museum guard:0:1
+5944:Teacher and pupil:0:1
+5945:Schoolboy:0:1
+5946:Schoolboy:0:1
+5947:Teacher and pupil:0:1
+5948:Teacher and pupil:1:1
+5949:Schoolboy:1:1
+5950:Teacher:1:1
+5951:Schoolgirl:1:1
+5952:Workman:0:2
+5953:Workman:0:2
+5954:Workman:0:2
+5955:Workman:0:2
+5956:Void Knight:0:1
+5957:Schoolgirl:0:1
+5958:Digsite workman:0:1
+5959:Barge workman:0:1
+5960:Barge workman:0:1
+5961:Barge workman:0:1
+5962:Barge workman:0:1
+5963:Barge foreman:0:1
+5964:Ed Wood:0:1
+5965:Orlando Smith:0:1
+5966:Natural historian:0:1
+5967:Natural historian:0:1
+5968:Natural historian:0:1
+5969:Natural historian:0:1
+5970:Natural historian:0:1
+5971:Leech display:0:3
+5972:Sea slugs display:0:3
+5973:Snail display:0:3
+5974:Monkey display:0:3
+5975:Lizard display:0:4
+5976:Penguin display:0:3
+5977:Camel display:0:3
+5978:Terrorbird display:0:3
+5979:Dragon display:0:5
+5980:Wyvern display:0:4
+5981:Battle tortoise display:0:5
+5982:Mole display:0:3
+5983:Schoolgirl:0:1
+5984:Schoolgirl:0:1
+5985:Schoolgirl:0:1
+5986:Workman:0:2
+5987:Sylas:0:1
+5988:Miazrqa:0:1
+5989:Grimgnash:0:3
+5990:Rupert the Beard:1:1
+5991:Drain pipe:0:1
+5992:Rupert the Beard:1:1
+5993:Experiment No.2:109:2
+5994:Mouse:95:4
+5995:Mouse:95:4
+5996:Glod:138:4
+5997:null:0:3
+5998:null:0:1
+5999:Rupert the Beard:0:1
+6000:null:0:1
+6001:Rupert the Beard:0:1
+6002:Gnome:0:1
+6003:Winkin:0:1
+6004:Gnome:0:1
+6005:Cage:0:1
+6006:Werewolf:88:1
+6007:Werewolf:88:1
+6008:Werewolf:88:1
+6009:Werewolf:88:1
+6010:Werewolf:88:1
+6011:Werewolf:88:1
+6012:Werewolf:88:1
+6013:Werewolf:88:1
+6014:Werewolf:88:1
+6015:Werewolf:88:1
+6016:Werewolf:88:1
+6017:Werewolf:88:1
+6018:Werewolf:88:1
+6019:Werewolf:88:1
+6020:Werewolf:88:1
+6021:Werewolf:88:1
+6022:Werewolf:88:1
+6023:Werewolf:88:1
+6024:Werewolf:88:1
+6025:Werewolf:88:1
+6026:Boris:24:1
+6027:Imre:24:1
+6028:Yuri:24:1
+6029:Joseph:24:1
+6030:Nikolai:24:1
+6031:Eduard:24:1
+6032:Lev:24:1
+6033:Georgy:24:1
+6034:Svetlana:24:1
+6035:Irina:24:1
+6036:Alexis:24:1
+6037:Milla:24:1
+6038:Galina:24:1
+6039:Sofiya:24:1
+6040:Ksenia:24:1
+6041:Yadviga:24:1
+6042:Nikita:24:1
+6043:Vera:24:1
+6044:Zoja:24:1
+6045:Liliya:24:1
+6046:Big Wolf:73:2
+6047:Wolf:25:2
+6048:Wolf:25:2
+6049:Wolf:25:2
+6050:Desert Wolf:27:2
+6051:Desert Wolf:27:2
+6052:Ice wolf:96:2
+6053:Ninja impling:0:1
+6054:Dragon impling:0:1
+6055:Baby impling:0:1
+6056:Young impling:0:1
+6057:Gourmet impling:0:1
+6058:Earth impling:0:1
+6059:Essence impling:0:1
+6060:Eclectic impling:0:1
+6061:Nature impling:0:1
+6062:Magpie impling:0:1
+6063:Ninja impling:0:1
+6064:Dragon impling:0:1
+6065:null:0:1
+6066:null:0:1
+6067:null:0:1
+6068:null:0:1
+6069:null:0:1
+6070:Elnock Inquisitor:0:1
+6071:Immenizz:0:1
+6072:Fairy Aeryka:0:1
+6073:Wandering impling:0:1
+6074:Imp defender:0:1
+6075:null:0:1
+6076:null:0:1
+6077:null:0:1
+6078:Cyclops:56:2
+6079:Cyclops:76:2
+6080:Cyclops:56:2
+6081:Cyclops:76:2
+6082:null:1:1
+6083:null:1:1
+6084:Captain Ned:0:1
+6085:Cabin boy Jenkins:0:1
+6086:Cabin boy Jenkins:0:1
+6087:Elvarg:83:4
+6088:Zombie rat:3:2
+6089:Zombie rat:3:2
+6090:Zombie rat:3:1
+6091:Skeleton:22:1
+6092:Skeleton:22:1
+6093:Skeleton:22:1
+6094:Ghost:19:1
+6095:Ghost:19:1
+6096:Ghost:19:1
+6097:Ghost:19:1
+6098:Ghost:19:1
+6099:Zombie:24:1
+6100:Zombie:24:1
+6101:Lesser demon:82:2
+6102:Lost barbarian:132:1
+6103:Skeleton hero:149:1
+6104:Skeleton brute:132:1
+6105:Skeleton warlord:132:1
+6106:Skeleton heavy:132:1
+6107:Skeleton thug:132:1
+6108:Entrana firebird:2:2
+6109:Mounted terrorbird gnome:49:2
+6110:Mounted terrorbird gnome:49:2
+6111:Mounted terrorbird gnome:49:2
+6112:Ducklings:0:1
+6113:Duck:0:1
+6114:Drake:0:1
+6115:Seagull:2:1
+6116:Seagull:3:1
+6117:Mr. Mordaut:0:5
+6118:Observatory assistant:0:2
+6119:null:0:1
+6120:null:0:1
+6121:Observatory professor:0:1
+6122:Sleeping guard:1:1
+6123:Naghead:0:1
+6124:Wagchin:0:1
+6125:Goblin:0:1
+6126:Goblin:0:1
+6127:Greasycheeks:0:1
+6128:Smellytoes:0:1
+6129:Creakyknees:0:1
+6130:Clothears:0:1
+6131:Zombie:0:2
+6132:Goblin:0:2
+6133:Goblin:0:2
+6134:Dunce:0:1
+6135:Town crier:0:1
+6136:Town crier:0:1
+6137:Town crier:0:1
+6138:Town crier:0:1
+6139:Town crier:0:1
+6140:Squire (Intermediate):0:1
+6141:Squire (Veteran):0:1
+6142:Portal:0:3
+6143:Portal:0:3
+6144:Portal:0:3
+6145:Portal:0:3
+6146:Portal:0:3
+6147:Portal:0:3
+6148:Portal:0:3
+6149:Portal:0:3
+6150:Portal:0:3
+6151:Portal:0:3
+6152:Portal:0:3
+6153:Portal:0:3
+6154:Portal:0:3
+6155:Portal:0:3
+6156:Portal:0:3
+6157:Portal:0:3
+6158:Sir Lucan:120:1
+6159:Workman:0:2
+6160:Sir Lancelot:127:1
+6161:Sir Bedivere:110:1
+6162:Sir Tristram:115:1
+6163:Sir Pelleas:112:1
+6164:Sir Gawain:122:1
+6165:Sir Kay:124:1
+6166:Sir Pelleas:0:1
+6167:Sir Gawain:0:1
+6168:Sir Kay:0:1
+6169:Squire:0:1
+6170:Sir Lancelot:127:1
+6171:Sir Kay:124:1
+6172:Sir Gawain:122:1
+6173:Sir Lucan:120:1
+6174:Bandit:41:1
+6175:Sir Tristram:115:1
+6176:Sir Pelleas:112:1
+6177:Sir Bedivere:110:1
+6178:Anna:0:1
+6179:David:0:1
+6180:Anna:0:1
+6181:Court judge:0:1
+6182:Jury:0:1
+6183:Guard:0:1
+6184:Guard:0:1
+6185:Prosecutor:0:1
+6186:null:0:1
+6187:Morgan Le Faye:0:1
+6188:Renegade knight:37:1
+6189:Black Knight:33:1
+6190:Guard:0:1
+6191:null:1:1
+6192:null:1:1
+6193:null:1:1
+6194:null:1:1
+6195:null:1:1
+6196:null:1:1
+6197:null:1:1
+6198:Sinclair:0:1
+6199:null:1:1
+6200:Banker:0:1
+6201:Knight:0:2
+6202:null:1:2
+6203:K'ril Tsutsaroth:650:5
+6204:Tstanon Karlak:145:3
+6205::0:3
+6206:Zakl'n Gritch:142:2
+6207::0:1
+6208:Balfrug Kreeyath:151:3
+6209::0:1
+6210:Hellhound:127:2
+6211:Imp:7:1
+6212:Werewolf:93:1
+6213:Werewolf:93:1
+6214:Vampire:77:1
+6215:Bloodveld:81:2
+6216:Pyrefiend:48:1
+6217:Icefiend:13:1
+6218:Gorak:149:2
+6219:Spiritual warrior:115:1
+6220:Spiritual ranger:118:1
+6221:Spiritual mage:121:1
+6222:Kree'arra:580:5
+6223:Wingman Skree:143:2
+6224::0:1
+6225:Flockleader Geerin:149:2
+6226::0:1
+6227:Flight Kilisa:159:2
+6228::0:1
+6229:Spiritual warrior:123:2
+6230:Spiritual ranger:127:2
+6231:Spiritual mage:122:2
+6232:Aviansie:69:2
+6233:Aviansie:79:2
+6234:Aviansie:84:2
+6235:Aviansie:83:2
+6236:Aviansie:92:2
+6237:Aviansie:97:2
+6238:Aviansie:137:2
+6239:Aviansie:148:2
+6240:Aviansie:71:2
+6241:Aviansie:73:2
+6242:Aviansie:79:2
+6243:Aviansie:89:2
+6244:Aviansie:94:2
+6245:Aviansie:97:2
+6246:Aviansie:131:2
+6247:Commander Zilyana:596:2
+6248:Starlight:149:2
+6249::0:1
+6250:Growler:139:3
+6251::0:1
+6252:Bree:146:2
+6253::0:1
+6254:Saradomin priest:113:1
+6255:Spiritual warrior:125:1
+6256:Spiritual ranger:122:1
+6257:Spiritual mage:120:1
+6258:Knight of Saradomin:103:1
+6259:Knight of Saradomin:101:1
+6260:General Graardor:624:4
+6261:Sergeant Strongstack:141:1
+6262::0:1
+6263:Sergeant Steelwill:142:1
+6264::0:1
+6265:Sergeant Grimspike:142:1
+6266::0:1
+6267:Fishing spot:0:1
+6268:Jogre:58:2
+6269:Cyclops:81:2
+6270:Cyclops:81:2
+6271:Ork:107:1
+6272:Ork:107:1
+6273:Ork:107:1
+6274:Ork:107:1
+6275:Hobgoblin:47:1
+6276:Spiritual ranger:115:1
+6277:Spiritual warrior:134:1
+6278:Spiritual mage:121:1
+6279:Goblin:17:1
+6280:Goblin:12:1
+6281:Goblin:12:1
+6282:Goblin:15:1
+6283:Goblin:13:1
+6284:null:0:2
+6285:Warped terrorbird:81:2
+6286:Warped terrorbird:81:2
+6287:Warped terrorbird:81:2
+6288:Warped terrorbird:81:2
+6289:Warped terrorbird:81:2
+6290:Warped terrorbird:81:2
+6291:Warped terrorbird:81:2
+6292:Warped terrorbird:81:2
+6293:Warped terrorbird:143:2
+6294:Warped terrorbird:143:2
+6295:Warped terrorbird:143:2
+6296:Warped tortoise:96:3
+6297:Warped tortoise:96:3
+6298:Jeffery:0:1
+6299:Big monolith:0:2
+6300:Small monolith:0:1
+6301:Cute creature:0:1
+6302:Evil creature:0:1
+6303:Yewnock the engineer:0:1
+6304:Bolrie:0:1
+6305:Hazelmere:0:1
+6306:Bolrie:0:1
+6307:Advisor:0:1
+6308:King Argenthorg:0:1
+6309:Prince Argenthorg:0:1
+6310:null:0:1
+6311:Cute creature:0:1
+6312:Evil creature:0:1
+6313:Terrorbird servant:0:2
+6314:Guard no. 21:0:2
+6315:Guard no. 72:0:2
+6316:Guard no. 21:0:2
+6317:Guard no. 72:0:2
+6318:Longramble:0:1
+6319:null:0:1
+6320:Spirit tree:0:2
+6321:Spirit tree:0:2
+6322:Warped terrorbird:81:2
+6323:Warped terrorbird:81:2
+6324:Warped terrorbird:81:2
+6325:Warped terrorbird:81:2
+6326:Warped terrorbird:81:2
+6327:Warped terrorbird:81:2
+6328:Warped terrorbird:81:2
+6329:Warped terrorbird:81:2
+6330:Warped terrorbird:143:2
+6331:Warped terrorbird:143:2
+6332:Warped terrorbird:143:2
+6333:null:0:1
+6334:Child:0:1
+6335:Child:0:1
+6336:Child:0:1
+6337:Child:0:1
+6338:Child:0:1
+6339:Child:0:1
+6340:Child:0:1
+6341:Child:0:1
+6342:Child:0:1
+6343:Child:0:1
+6344:Child:0:1
+6345:Child:0:1
+6346:Pirate:23:1
+6347:Pirate:23:1
+6348:Pirate:23:1
+6349:Pirate:23:1
+6350:Pirate:23:1
+6351:Pirate:26:1
+6352:Pirate:26:1
+6353:Pirate:26:1
+6354:Pirate:26:1
+6355:Pirate:26:1
+6356:Pirate:26:1
+6357:Street urchin:0:1
+6358:Street urchin:0:1
+6359:Street urchin:0:1
+6360:Street urchin:0:1
+6361:Street urchin:0:1
+6362:Eniola:0:1
+6363:Zamorak warrior:84:1
+6364:Zamorak warrior:85:1
+6365:Zamorak ranger:81:1
+6366:Zamorak ranger:82:1
+6367:Zamorak mage:84:1
+6368:Zamorak mage:82:1
+6369:Cave lizard:37:1
+6370:Mage of Zamorak:0:1
+6371:Zamorak crafter:19:1
+6372:Zamorak crafter:19:1
+6373:Kennith:0:1
+6374:Guard dog:44:1
+6375:Wizard Cromperty:0:1
+6376:Jungle spider:40:1
+6377:Jungle spider:40:1
+6378:Tenacious toucan:70:1
+6379:Giant ant worker:40:1
+6380:Giant ant soldier:58:1
+6381:Giant wasp:66:1
+6382:Pernicious parrot:66:1
+6383:Giant wasp:66:1
+6384:Karamjan Jungle Eagle:0:5
+6385:Karamjan Jungle eagle:0:3
+6386:null:1:1
+6387:null:0:3
+6388:Bandit:41:1
+6389:Gargoyle:1:1
+6390:Grim Reaper:0:2
+6391:Glough:0:1
+6392:Oldak:0:1
+6393:Zanik:0:1
+6394:null:1:1
+6395:Zanik:0:1
+6396:null:1:1
+6397:Zanik:0:1
+6398:null:1:1
+6399:Zanik:0:1
+6400:null:0:1
+6401:Oldak:0:1
+6402:Goblin:0:1
+6403:Goblin:0:1
+6404:Goblin:0:1
+6405:Goblin:0:1
+6406:Goblin:0:1
+6407:Goblin:0:1
+6408:Goblin:0:1
+6409:Goblin:0:1
+6410:Goblin:0:1
+6411:Goblin:0:1
+6412:Goblin:0:1
+6413:Goblin:0:1
+6414:Goblin:0:1
+6415:Goblin:0:1
+6416:Goblin:0:1
+6417:Goblin:0:1
+6418:Goblin:0:1
+6419:Goblin:0:1
+6420:Goblin:0:1
+6421:Goblin:0:1
+6422:Goblin:0:1
+6423:Goblin:0:1
+6424:Goblin:0:1
+6425:Goblin:0:1
+6426:Goblin:0:1
+6427:Goblin:0:1
+6428:Goblin:0:1
+6429:Goblin:0:1
+6430:Goblin:0:1
+6431:Goblin:0:1
+6432:Goblin:0:1
+6433:Goblin:0:1
+6434:Goblin:0:1
+6435:Goblin:0:1
+6436:Goblin:0:1
+6437:Goblin:0:1
+6438:Goblin:0:1
+6439:Goblin:0:1
+6440:Goblin:0:1
+6441:Goblin:0:1
+6442:Goblin:0:1
+6443:Goblin:0:1
+6444:Goblin:0:1
+6445:Goblin:0:1
+6446:Goblin:0:1
+6447:Goblin:0:1
+6448:Goblin:0:1
+6449:Goblin:0:1
+6450:Goblin:0:1
+6451:Goblin:0:1
+6452:Goblin:0:1
+6453:Goblin:0:1
+6454:Goblin:0:1
+6455:Goblin:0:1
+6456:Goblin:0:1
+6457:Goblin:0:1
+6458:Goblin:0:1
+6459:Goblin:0:1
+6460:Goblin:0:1
+6461:Goblin:0:1
+6462:Goblin:0:1
+6463:Goblin:0:1
+6464:Goblin:0:1
+6465:Goblin:0:1
+6466:Goblin:0:1
+6467:Goblin:0:1
+6468:Skoblin:15:1
+6469:Snothead:35:1
+6470:Snailfeet:45:1
+6471:Mosschin:55:1
+6472:Redeyes:65:1
+6473:Strongbones:75:1
+6474:Snothead:0:1
+6475:Snailfeet:0:1
+6476:Mosschin:0:1
+6477:Redeyes:0:1
+6478:Strongbones:0:1
+6479:Grubfoot:0:1
+6480:null:1:1
+6481:Grubfoot:0:1
+6482:Priest:0:1
+6483:Priest:0:1
+6484:Priest:0:1
+6485:Priest:0:1
+6486:Priest:0:1
+6487:Priest:0:1
+6488:Preacher:0:1
+6489:High priest:0:1
+6490:Goblin:0:1
+6491:Goblin:0:1
+6492:Goblin:0:1
+6493:Goblin:0:1
+6494:Goblin:0:1
+6495:Goblin:0:1
+6496:Goblin guard:0:1
+6497:Goblin guard:0:1
+6498:Guard:0:1
+6499:Guard:0:1
+6500:Guard:0:1
+6501:Guard:0:1
+6502:Guard:0:1
+6503:Guard:0:1
+6504:Ghost:0:1
+6505:null:1:1
+6506:Registrar 1:0:1
+6507:Registrar 2:0:1
+6508:Registrar 3:0:1
+6509:Registrar 4:0:1
+6510:Jury:0:1
+6511:Jury:0:1
+6512:Spectator:0:1
+6513:Spectator:0:1
+6514:Spectator:0:1
+6515:Spectator:0:1
+6516:Spectator:0:1
+6517:Spectator:0:1
+6518:Spectator:0:1
+6519:Spectator:0:1
+6520:Head Registrar:0:1
+6521:Grand Exchange Tutor:0:1
+6522:Brugsen Bursen:0:1
+6523:Farid Morrisane (ores):0:1
+6524:Bob Barter (herbs):0:1
+6525:Murky Matt (runes):0:1
+6526:Relobo Blinyo (logs):0:1
+6527:Hofuthand (armour and weapons):0:1
+6528:Grand Exchange clerk:0:1
+6529:Grand Exchange clerk:0:1
+6530:Grand Exchange clerk:0:1
+6531:Grand Exchange clerk:0:1
+6532:Banker:0:1
+6533:Banker:0:1
+6534:Banker:0:1
+6535:Banker:0:1
+6536:Registrar 5:0:1
+6537:Mandrith:0:1
+6538:Banker:0:1
+6539:Charley the Cleaner:0:1
+6540:Scotty the Cleaner:0:1
+6541:Sanchez the Cleaner:0:1
+6542:Summer Bonde:0:1
+6543::0:1
+6544::0:1
+6545:null:1:1
+6546:null:1:1
+6547:null:1:1
+6548:null:1:1
+6549:null:1:1
+6550:null:1:1
+6551:null:1:1
+6552:null:1:1
+6553:null:1:1
+6554:null:1:1
+6555:null:1:1
+6556:null:1:1
+6557:null:1:1
+6558:null:1:1
+6559:null:1:1
+6560:null:1:1
+6561:null:1:1
+6562:null:1:1
+6563:null:1:1
+6564:null:1:1
+6565:Grave marker:0:1
+6566:Broken grave marker:0:1
+6567:Collapsing grave marker:0:1
+6568:Grave marker:0:1
+6569:Broken grave marker:0:1
+6570:Collapsing grave marker:0:1
+6571:Gravestone:0:1
+6572:Broken gravestone:0:1
+6573:Collapsing gravestone:0:1
+6574:Gravestone:0:1
+6575:Broken gravestone:0:1
+6576:Collapsing gravestone:0:1
+6577:Gravestone:0:1
+6578:Broken gravestone:0:1
+6579:Collapsing gravestone:0:1
+6580:Stele:0:1
+6581:Broken stele:0:1
+6582:Collapsing stele:0:1
+6583:Saradomin symbol:0:1
+6584:Broken Saradomin symbol:0:1
+6585:Collapsing Saradomin symbol:0:1
+6586:Zamorak symbol:0:1
+6587:Broken Zamorak symbol:0:1
+6588:Collapsing Zamorak symbol:0:1
+6589:Guthix symbol:0:1
+6590:Broken Guthix symbol:0:1
+6591:Collapsing Guthix symbol:0:1
+6592:Bandos symbol:0:1
+6593:Broken Bandos symbol:0:1
+6594:Collapsing Bandos symbol:0:1
+6595:Armadyl symbol:0:1
+6596:Broken Armadyl symbol:0:1
+6597:Collapsing Armadyl symbol:0:1
+6598:Memorial stone:0:1
+6599:Broken memorial stone:0:1
+6600:Collapsing memorial stone:0:1
+6601:Memorial stone:0:1
+6602:Broken memorial stone:0:1
+6603:Collapsing memorial stone:0:1
+6604:Revenant imp:7:1
+6605:Revenant goblin:15:1
+6606:Revenant icefiend:45:1
+6607:Revenant werewolf:75:1
+6608:Revenant hobgoblin:60:1
+6609:Revenant werewolf:75:1
+6610:Revenant ork:105:1
+6611:Revenant knight:126:1
+6612:Revenant goblin:30:1
+6613:Revenant vampire:68:1
+6614:Revenant werewolf:75:1
+6615:Revenant ork:105:1
+6616:Revenant goblin:15:1
+6617:Revenant werewolf:75:1
+6618:Revenant ork:105:1
+6619:Revenant knight:126:1
+6620:Revenant goblin:22:1
+6621:Revenant icefiend:45:1
+6622:Revenant pyrefiend:52:1
+6623:Revenant vampire:68:1
+6624:Revenant ork:105:1
+6625:Revenant werewolf:75:1
+6626:Revenant ork:105:1
+6627:Revenant knight:126:1
+6628:Revenant icefiend:45:1
+6629:Revenant ork:105:1
+6630:Revenant knight:126:1
+6631:Revenant pyrefiend:52:1
+6632:Revenant werewolf:75:1
+6633:Revenant ork:105:1
+6634:Revenant knight:126:1
+6635:Revenant imp:7:1
+6636:Revenant goblin:15:1
+6637:Revenant goblin:22:1
+6638:Revenant goblin:30:1
+6639:Revenant goblin:37:1
+6640:Revenant icefiend:45:1
+6641:Revenant pyrefiend:52:1
+6642:Revenant hobgoblin:60:1
+6643:Revenant vampire:68:1
+6644:Revenant werewolf:75:1
+6645:Revenant cyclops:82:2
+6646:Revenant hellhound:90:2
+6647:Revenant demon:98:2
+6648:Revenant ork:105:1
+6649:Revenant dark beast:120:3
+6650:Revenant knight:126:1
+6651:Revenant goblin:22:1
+6652:Revenant vampire:68:1
+6653:Revenant ork:105:1
+6654:Revenant knight:126:1
+6655:Revenant imp:7:1
+6656:Revenant goblin:15:1
+6657:Revenant goblin:30:1
+6658:Revenant goblin:37:1
+6659:Revenant icefiend:45:1
+6660:Revenant pyrefiend:52:1
+6661:Revenant hobgoblin:60:1
+6662:Revenant vampire:68:1
+6663:Revenant werewolf:75:1
+6664:Revenant ork:105:1
+6665:Revenant knight:126:1
+6666:Revenant imp:7:1
+6667:Revenant goblin:30:1
+6668:Revenant pyrefiend:52:1
+6669:Revenant vampire:68:1
+6670:Revenant ork:105:1
+6671:Revenant vampire:68:1
+6672:Revenant ork:105:1
+6673:Revenant knight:126:1
+6674:Revenant vampire:68:1
+6675:Revenant werewolf:75:1
+6676:Revenant knight:126:1
+6677:Revenant imp:7:1
+6678:Revenant goblin:15:1
+6679:Revenant goblin:22:1
+6680:Revenant goblin:30:1
+6681:Revenant goblin:37:1
+6682:Revenant icefiend:45:1
+6683:Revenant pyrefiend:52:1
+6684:Revenant hobgoblin:60:1
+6685:Revenant vampire:68:1
+6686:Revenant werewolf:75:1
+6687:Revenant cyclops:82:2
+6688:Revenant hellhound:90:2
+6689:Revenant demon:98:2
+6690:Revenant ork:105:1
+6691:Revenant dark beast:120:3
+6692:Revenant knight:126:1
+6693:Revenant goblin:30:1
+6694:Revenant icefiend:45:1
+6695:Revenant vampire:68:1
+6696:Revenant ork:105:1
+6697:Revenant imp:7:1
+6698:Revenant goblin:22:1
+6699:Revenant goblin:37:1
+6700:Revenant vampire:68:1
+6701:Revenant werewolf:75:1
+6702:Revenant ork:105:1
+6703:Revenant imp:7:1
+6704:Revenant goblin:15:1
+6705:Revenant goblin:22:1
+6706:Revenant goblin:30:1
+6707:Revenant goblin:37:1
+6708:Revenant icefiend:45:1
+6709:Revenant pyrefiend:52:1
+6710:Revenant hobgoblin:60:1
+6711:Revenant vampire:68:1
+6712:Revenant werewolf:75:1
+6713:Revenant ork:105:1
+6714:Revenant knight:126:1
+6715:Revenant imp:7:1
+6716:Revenant goblin:15:1
+6717:Revenant goblin:22:1
+6718:Revenant goblin:30:1
+6719:Revenant goblin:37:1
+6720:Revenant icefiend:45:1
+6721:Revenant pyrefiend:52:1
+6722:Revenant hobgoblin:60:1
+6723:Revenant vampire:68:1
+6724:Revenant werewolf:75:1
+6725:Revenant ork:105:1
+6726:Revenant knight:126:1
+6727:Revenant hobgoblin:60:1
+6728:Revenant werewolf:75:1
+6729:Revenant ork:105:1
+6730:Revenant knight:126:1
+6731:Queen of Snow:0:1
+6732:Snow imp:0:1
+6733:Snow imp:0:1
+6734:Snow imp:0:1
+6735:Snow imp:0:1
+6736:Snow imp:0:1
+6737:Snow imp:0:1
+6738:Snow imp:0:1
+6739:Snow imp:0:1
+6740:Snow:0:1
+6741:Snow:0:1
+6742:Barbarian snowman:0:1
+6743:Dragon snowman:0:1
+6744:Dwarf snowman:0:1
+6745:Pirate snowman:0:1
+6746:Snowman:0:1
+6747:Snow ranger:29:1
+6748:Snow warrior:29:1
+6749:Snow mage:29:1
+6750:Pet shop owner:0:1
+6751:null:0:1
+6752:Bulldog:0:1
+6753:Mummy:125:1
+6754:Mummy:125:1
+6755:Mummy:125:1
+6756:Mummy:125:1
+6757:Mummy:125:1
+6758:Mummy:125:1
+6759:Mummy:125:1
+6760:Mummy:125:1
+6761:Dried zombie:89:1
+6762:Dried zombie:94:1
+6763:Dried zombie:110:1
+6764:Skeleton:97:1
+6765:Skeleton:108:1
+6766:Skeleton:120:1
+6767:Skeleton:115:1
+6768:Skeleton:140:1
+6769:Doorman:0:1
+6770:Giant scarab:191:3
+6771:Giant scarab:206:3
+6772:Scarab larva:14:1
+6773:Scabaras ranger:103:1
+6774:Scabaras lancer:112:1
+6775:Scabaras priest:1:1
+6776:Scabaras locust:106:2
+6777:Locust lancer:109:2
+6778:Locust ranger:98:2
+6779:Crocodile:89:2
+6780:Scabaras mage:98:1
+6781:Scabaras mage:88:1
+6782:Maisa:0:1
+6783:Maisa:0:1
+6784:Priest:0:1
+6785:Clay golem:0:1
+6786:Lead archaeologist Abigail:0:1
+6787:Assistant archaeologist Kerner:0:1
+6788:High Priest of Scabaras:0:1
+6789:High Priest of Scabaras:179:1
+6790:High Priest of Scabaras:139:1
+6791:High Priest of Scabaras:148:1
+6792:Vulture:31:2
+6793:null:1:1
+6794:Spirit terrorbird:0:2
+6795:Spirit terrorbird:62:2
+6796:Granite crab:0:1
+6797:Granite crab:26:1
+6798:Praying mantis:0:1
+6799:Praying mantis:131:1
+6800:Giant ent:0:2
+6801:Giant ent:137:2
+6802:Spirit cobra:0:2
+6803:Spirit cobra:105:2
+6804:Spirit dagannoth:0:2
+6805:Spirit dagannoth:148:2
+6806:Thorny snail:0:1
+6807:Thorny snail:26:1
+6808:Beaver:0:1
+6809:Karamthulhu overlord:0:1
+6810:Karamthulhu overlord:95:1
+6811:Hydra:0:2
+6812:Hydra:141:2
+6813:Bunyip:0:2
+6814:Bunyip:70:2
+6815:War tortoise:0:2
+6816:War tortoise:86:2
+6817:Fruit bat:0:1
+6818:Abyssal parasite:0:1
+6819:Abyssal parasite:86:1
+6820:Abyssal lurker:0:1
+6821:Abyssal lurker:93:1
+6822:Unicorn stallion:0:2
+6823:Unicorn stallion:70:2
+6824:Magpie:0:1
+6825:Dreadfowl:0:1
+6826:Dreadfowl:26:1
+6827:Stranger plant:0:1
+6828:Stranger plant:107:1
+6829:Spirit wolf:0:2
+6830:Spirit wolf:26:2
+6831:Desert wyrm:0:2
+6832:Desert wyrm:31:2
+6833:Evil turnip:0:1
+6834:Evil turnip:62:1
+6835:Vampire bat:0:1
+6836:Vampire bat:44:1
+6837:Spirit scorpion:0:1
+6838:Spirit scorpion:51:1
+6839:Arctic bear:0:2
+6840:Arctic bear:122:2
+6841:Spirit spider:0:1
+6842:Spirit spider:25:1
+6843:Bloated leech:0:1
+6844:Bloated leech:76:1
+6845:Honey badger:0:1
+6846:Honey badger:45:1
+6847:Albino rat:0:2
+6848:Albino rat:37:2
+6849:Granite lobster:0:1
+6850:Granite lobster:129:1
+6851:Macaw:0:1
+6852:Macaw:0:1
+6853:Bronze minotaur:0:2
+6854:Bronze minotaur:50:2
+6855:Iron minotaur:0:2
+6856:Iron minotaur:70:2
+6857:Steel minotaur:0:2
+6858:Steel minotaur:90:2
+6859:Mithril minotaur:0:2
+6860:Mithril minotaur:112:2
+6861:Adamant minotaur:0:2
+6862:Adamant minotaur:133:2
+6863:Rune minotaur:0:2
+6864:Rune minotaur:154:2
+6865:Smoke devil:0:1
+6866:Smoke devil:101:1
+6867:Bull ant:0:1
+6868:Bull ant:58:1
+6869:Wolpertinger:0:1
+6870:Wolpertinger:210:1
+6871:Compost mound:0:2
+6872:Compost mound:37:2
+6873:Pack yak:0:2
+6874:Pack yak:175:2
+6875:Spirit cockatrice:0:2
+6876:Spirit cockatrice:64:2
+6877:Spirit guthatrice:0:2
+6878:Spirit guthatrice:64:2
+6879:Spirit saratrice:0:2
+6880:Spirit saratrice:64:2
+6881:Spirit zamatrice:0:2
+6882:Spirit zamatrice:64:2
+6883:Spirit pengatrice:0:2
+6884:Spirit pengatrice:64:2
+6885:Spirit coraxatrice:0:2
+6886:Spirit coraxatrice:64:2
+6887:Spirit vulatrice:0:2
+6888:Spirit vulatrice:64:2
+6889:Barker toad:0:1
+6890:Barker toad:112:1
+6891:Penguin keeper:0:1
+6892:Pet shop owner:0:1
+6893:Pet shop owner:0:1
+6894:Terrier:0:1
+6895:Labrador:0:1
+6896:Dalmatian:0:1
+6897:Bulldog:0:1
+6898:Pet shop owner:0:1
+6899:Bulldog:0:1
+6900:Hatchling dragon:0:1
+6901:Baby dragon:0:2
+6902:Hatchling dragon:0:1
+6903:Baby dragon:0:2
+6904:Hatchling dragon:0:1
+6905:Baby dragon:0:2
+6906:Hatchling dragon:0:1
+6907:Baby dragon:0:2
+6908:Baby penguin:0:1
+6909:Penguin:0:1
+6910:Penguin:0:1
+6911:Raven chick:0:1
+6912:Raven:0:1
+6913:Baby raccoon:0:1
+6914:Raccoon:0:1
+6915:Baby gecko:0:1
+6916:Gecko:0:1
+6917:Baby gecko:0:1
+6918:Gecko:0:1
+6919:Baby squirrel:0:1
+6920:Squirrel:0:1
+6921:Baby squirrel:0:1
+6922:Baby chameleon:0:1
+6923:Chameleon:0:1
+6924:Baby chameleon:0:1
+6925:Chameleon:0:1
+6926:Baby chameleon:0:1
+6927:Chameleon:0:1
+6928:Baby chameleon:0:1
+6929:Chameleon:0:1
+6930:Baby chameleon:0:1
+6931:Chameleon:0:1
+6932:Baby chameleon:0:1
+6933:Chameleon:0:1
+6934:Baby chameleon:0:1
+6935:Chameleon:0:1
+6936:Baby chameleon:0:1
+6937:Chameleon:0:1
+6938:Baby chameleon:0:1
+6939:Chameleon:0:1
+6940:Baby chameleon:0:1
+6941:Chameleon:0:1
+6942:Baby monkey:0:1
+6943:Monkey:0:1
+6944:Baby monkey:0:1
+6945:Vulture chick:0:1
+6946:Vulture:0:1
+6947:Baby giant crab:0:1
+6948:Giant crab:0:1
+6949:Saradomin chick:0:1
+6950:Saradomin bird:0:1
+6951:Saradomin owl:0:1
+6952:Zamorak chick:0:1
+6953:Zamorak bird:0:1
+6954:Zamorak hawk:0:1
+6955:Guthix chick:0:1
+6956:Guthix bird:0:1
+6957:Guthix raptor:0:1
+6958:Terrier puppy:0:1
+6959:Terrier:0:1
+6960:Greyhound puppy:0:1
+6961:Greyhound:0:2
+6962:Labrador puppy:0:1
+6963:Labrador:0:2
+6964:Dalmatian puppy:0:1
+6965:Dalmatian:0:1
+6966:Sheepdog puppy:0:1
+6967:Sheepdog:0:2
+6968:Bulldog:0:1
+6969:Bulldog puppy:0:1
+6970:Pikkupstix:0:1
+6971:Pikkupstix:0:1
+6972:Druid:33:1
+6973:Druid:33:1
+6974:Druid:33:1
+6975:Druid:33:1
+6976:Druid:33:1
+6977:Druid:33:1
+6978:Druid:33:1
+6979:Druid:33:1
+6980:Druid:33:1
+6981:Druidess:33:1
+6982:Druidess:33:1
+6983:Druidess:33:1
+6984:Druidess:33:1
+6985:Druidess:33:1
+6986:Druidess:33:1
+6987:Druidess:33:1
+6988:null:0:1
+6989:null:0:1
+6990:Giant wolpertinger:0:3
+6991:Ibis:0:1
+6992:Spirit jelly:0:1
+6993:Spirit jelly:88:1
+6994:Spirit kalphite:0:2
+6995:Spirit kalphite:39:2
+6996:Fishing spot:0:1
+6997:Baby raccoon:0:1
+6998:Revenant dragon:135:2
+6999:Revenant dragon:135:2
+7000:null:1:1
+7001:Dark Squall:0:1
+7002:Surok Magis:0:1
+7003:Fire giant:86:2
+7004:Fire giant:86:2
+7005:Big wolf:73:2
+7006:null:0:1
+7007:null:0:1
+7008:null:0:1
+7009:null:0:1
+7010:Grenwall:0:1
+7011:Grenwall:0:1
+7012:Pawya:0:1
+7013:Earth mound:0:1
+7014:Pawya:0:1
+7015:Platypus:0:1
+7016:Platypus:0:1
+7017:Platypus:0:1
+7018:Baby platypus:0:1
+7019:Baby platypus:0:1
+7020:Baby platypus:0:1
+7021:Platypus:0:1
+7022:Platypus:0:1
+7023:Platypus:0:1
+7024:Baby platypus:0:1
+7025:Baby platypus:0:1
+7026:Baby platypus:0:1
+7027:Patrick:0:1
+7028:Penelope:0:1
+7029:Peter:0:1
+7030:Peanut:0:1
+7031:Wimpy bird:0:1
+7032:null:1:1
+7033:null:1:1
+7034:null:1:1
+7035:null:1:1
+7036:null:1:1
+7037:null:0:1
+7038:null:0:1
+7039:Diseased kebbit:0:1
+7040:null:0:1
+7041:null:0:1
+7042:null:0:1
+7043:null:0:1
+7044:Fishing spot:0:1
+7045:Fishing spot:0:1
+7046:Fishing spot:0:1
+7047:Balnea:0:1
+7048:Frawd:0:2
+7049:Ogress banker:0:2
+7050:Ogress banker:0:2
+7051:Chief Tess:0:2
+7052:Seegud:0:2
+7053:Chargurr:0:2
+7054:Chargurr:0:2
+7055:null:0:2
+7056:null:0:2
+7057:Snurgh:0:2
+7058:Kringk:0:2
+7059:Thump:0:2
+7060:Massage table:0:2
+7061:Thump:0:2
+7062:Muggh:0:2
+7063:Kringk:0:1
+7064:Hairdryer:0:1
+7065:null:0:1
+7066:null:0:1
+7067:Snert:0:1
+7068:Tyke:0:1
+7069:Snarrl:0:1
+7070:Snarrk:0:1
+7071:I'rk:0:1
+7072:Thuddley:0:1
+7073:Grr'bah:0:1
+7074:Chomp:0:1
+7075:Grubb:0:1
+7076:Grunther:0:1
+7077:Glum:0:2
+7078:Ogress champion:99:2
+7079:Ogress warrior:86:2
+7080:Ogress warrior:86:2
+7081:Ogress:69:2
+7082:Ogress:69:2
+7083:Flying bugs:0:1
+7084:Eucalyptus ent:0:2
+7085:Eucalyptus ent:0:3
+7086:Eucalyptus ent:0:4
+7087:Balnea:0:1
+7088:Chief Tess:0:2
+7089:Chargurr:0:2
+7090:Wise Old Man:0:1
+7091:null:1:1
+7092:null:1:1
+7093:null:1:1
+7094:null:1:1
+7095:null:0:1
+7096:null:0:1
+7097:null:0:1
+7098:null:0:1
+7099:null:0:2
+7100:null:0:2
+7101:null:0:2
+7102:null:0:1
+7103:null:0:1
+7104:Dawg:0:2
+7105:Chaos druid:13:1
+7106:Thug:10:1
+7107:Thug:10:1
+7108:Thug:10:1
+7109:Thug:10:1
+7110:Thug:10:1
+7111:Thug:10:1
+7112:Thug:10:1
+7113:Thug:10:1
+7114:Thug:10:1
+7115:Thaki the delivery dwarf:0:1
+7116:Drunken sailor:0:1
+7117:Drunken sailor:0:1
+7118:Catapult engineer:0:1
+7119:null:1:1
+7120:Tyras guard:0:1
+7121:General Hining:0:1
+7122:Githan:0:1
+7123:Amulet of Nature:0:1
+7124:Mud:0:1
+7125:Rabbit:0:1
+7126:Rabbit:0:1
+7127:Rabbit:0:1
+7128:Farmer:0:1
+7129:Farmer:0:1
+7130:Farmer:0:1
+7131:Farmer Blinkin:0:1
+7132:Mrs. Winkin:0:1
+7133:Bork:267:3
+7134:Bork:267:3
+7135:Ork legion:70:1
+7136:Surok Magis:0:1
+7137:Dagon'hai Elite:0:1
+7138:Dagon'hai Monk:97:1
+7139:Dagon'hai Monk:97:1
+7140:Dagon'hai Monk:97:1
+7141:null:1:1
+7142:Guard:0:1
+7143:Professor Henry:0:1
+7144:Gublinch jailmate:0:2
+7145:Gublinchette jailmate:0:1
+7146:Gublinchette jailmate:0:2
+7147:Gublinch jailmate:0:1
+7148:Gublinch jailmate:0:3
+7149:Gublinch jailmate:0:2
+7150:Gublinch jailmate:0:2
+7151:Student:0:1
+7152:Student:0:1
+7153:Student:0:1
+7154:Student:0:1
+7155:Student:0:1
+7156:Student:0:1
+7157:Student:0:1
+7158:Cockroach drone:8:1
+7159:Cockroach worker:56:2
+7160:Cockroach soldier:83:3
+7161:Mugger:6:1
+7162:Mugger:6:1
+7163:null:1:1
+7164:Villager:0:1
+7165:Villager:0:1
+7166:Villager:0:1
+7167:Villager:0:1
+7168:Kimberly:0:1
+7169:Kimberly:0:1
+7170:Kimberly:0:3
+7171:Kennith:0:1
+7172:Kennith:0:1
+7173:Kennith:0:3
+7174:Kennith:0:3
+7175:Kennith:0:1
+7176:null:1:1
+7177:null:1:1
+7178:null:1:1
+7179:null:1:1
+7180:null:1:1
+7181:null:1:1
+7182:null:1:1
+7183:Villager:0:1
+7184:Ezekial Lovecraft:0:1
+7185:Clive:0:1
+7186:Katherine:0:1
+7187:Katherine:0:1
+7188:Clive:0:1
+7189:Kent:0:1
+7190:null:1:1
+7191:null:1:1
+7192:null:1:1
+7193:null:1:1
+7194:null:1:1
+7195:null:1:1
+7196:Rabbit hole:1:1
+7197:Easter Bunny:0:1
+7198:Bunny:0:1
+7199:Bunny:0:1
+7200:Guard bunny:0:1
+7201:Chocatrice:0:1
+7202:Rat:0:1
+7203:Void Knight:0:1
+7204:Rat:0:1
+7205:Mouse:0:1
+7206:Cockroach:0:1
+7207:Spider:0:1
+7208:Rabbit:0:1
+7209:Snail:0:1
+7210:Baby monkey:0:1
+7211:Monkey:0:1
+7212:Baby monkey:0:1
+7213:Monkey:0:1
+7214:Baby monkey:0:1
+7215:Monkey:0:1
+7216:Baby monkey:0:1
+7217:Monkey:0:1
+7218:Baby monkey:0:1
+7219:Monkey:0:1
+7220:Baby monkey:0:1
+7221:Monkey:0:1
+7222:Baby monkey:0:1
+7223:Monkey:0:1
+7224:Baby monkey:0:1
+7225:Monkey:0:1
+7226:Baby monkey:0:1
+7227:Monkey:0:1
+7228:Baby monkey:0:1
+7229:Baby monkey:0:1
+7230:Baby monkey:0:1
+7231:Baby monkey:0:1
+7232:Baby monkey:0:1
+7233:Baby monkey:0:1
+7234:Baby monkey:0:1
+7235:Baby monkey:0:1
+7236:Baby monkey:0:1
+7237:Terrier puppy:0:1
+7238:Terrier:0:1
+7239:Terrier puppy:0:1
+7240:Terrier:0:1
+7241:Greyhound puppy:0:1
+7242:Greyhound:0:2
+7243:Greyhound puppy:0:1
+7244:Greyhound:0:2
+7245:Labrador puppy:0:1
+7246:Labrador:0:2
+7247:Labrador puppy:0:1
+7248:Labrador:0:2
+7249:Dalmatian puppy:0:1
+7250:Dalmatian:0:1
+7251:Dalmatian puppy:0:1
+7252:Dalmatian:0:1
+7253:Sheepdog puppy:0:1
+7254:Sheepdog:0:2
+7255:Sheepdog puppy:0:1
+7256:Sheepdog:0:2
+7257:Bulldog:0:1
+7258:Bulldog:0:1
+7259:Bulldog puppy:0:1
+7260:Bulldog puppy:0:1
+7261:Raven chick:0:1
+7262:Raven:0:1
+7263:Raven chick:0:1
+7264:Raven:0:1
+7265:Raven chick:0:1
+7266:Raven:0:1
+7267:Raven chick:0:1
+7268:Raven:0:1
+7269:Raven chick:0:1
+7270:Raven:0:1
+7271:Baby raccoon:0:1
+7272:Raccoon:0:1
+7273:Baby raccoon:0:1
+7274:Raccoon:0:1
+7275:Baby Raccoon:0:1
+7276:Baby raccoon:0:1
+7277:Baby gecko:0:1
+7278:Baby gecko:0:1
+7279:Baby gecko:0:1
+7280:Baby gecko:0:1
+7281:Gecko:0:1
+7282:Gecko:0:1
+7283:Gecko:0:1
+7284:Gecko:0:1
+7285:Baby gecko:0:1
+7286:Baby gecko:0:1
+7287:Baby gecko:0:1
+7288:Baby gecko:0:1
+7289:Gecko:0:1
+7290:Gecko:0:1
+7291:Gecko:0:1
+7292:Gecko:0:1
+7293:Baby giant crab:0:1
+7294:Giant crab:0:1
+7295:Baby giant crab:0:1
+7296:Giant crab:0:1
+7297:Baby giant crab:0:1
+7298:Giant crab:0:1
+7299:Baby giant crab:0:1
+7300:Giant crab:0:1
+7301:Baby squirrel:0:1
+7302:Squirrel:0:1
+7303:Baby squirrel:0:1
+7304:Squirrel:0:1
+7305:Baby squirrel:0:1
+7306:Squirrel:0:1
+7307:Baby squirrel:0:1
+7308:Squirrel:0:1
+7309:Baby squirrel:0:1
+7310:Baby squirrel:0:1
+7311:Baby squirrel:0:1
+7312:Baby squirrel:0:1
+7313:Baby penguin:0:1
+7314:Penguin:0:1
+7315:Penguin:0:1
+7316:Baby penguin:0:1
+7317:Penguin:0:1
+7318:Penguin:0:1
+7319:Vulture chick:0:1
+7320:Vulture:0:1
+7321:Vulture chick:0:1
+7322:Vulture:0:1
+7323:Vulture chick:0:1
+7324:Vulture:0:1
+7325:Vulture chick:0:1
+7326:Vulture:0:1
+7327:Vulture chick:0:1
+7328:Vulture:0:1
+7329:Swamp titan:0:2
+7330:Swamp titan:152:2
+7331:Spirit mosquito:0:1
+7332:Spirit mosquito:32:1
+7333:Void spinner:0:1
+7334:Void spinner:40:1
+7335:Forge regent:0:1
+7336:Forge regent:133:1
+7337:Spirit larupia:0:2
+7338:Spirit larupia:93:2
+7339:Geyser titan:0:2
+7340:Geyser titan:200:2
+7341:Lava titan:0:2
+7342:Lava titan:148:2
+7343:Steel titan:0:2
+7344:Steel titan:230:2
+7345:Obsidian golem:0:2
+7346:Obsidian golem:126:2
+7347:Talon beast:0:2
+7348:Talon beast:135:2
+7349:Abyssal titan:0:2
+7350:Abyssal titan:215:2
+7351:Void torcher:0:1
+7352:Void torcher:46:1
+7353:Giant chinchompa:0:1
+7354:Giant chinchompa:42:1
+7355:Fire titan:0:2
+7356:Fire titan:139:2
+7357:Moss titan:0:2
+7358:Moss titan:139:2
+7359:Ice titan:0:2
+7360:Ice titan:139:2
+7361:Spirit Tz-Kih:0:1
+7362:Spirit Tz-Kih:36:1
+7363:Spirit graahk:0:2
+7364:Spirit graahk:93:2
+7365:Spirit kyatt:0:2
+7366:Spirit kyatt:93:2
+7367:Void shifter:0:1
+7368:Void shifter:46:1
+7369:Void shifter:47:1
+7370:Void ravager:0:1
+7371:Void ravager:46:1
+7372:Ravenous locust:0:1
+7373:Ravenous locust:120:1
+7374:Ravenous locust:0:1
+7375:Iron titan:0:2
+7376:Iron titan:220:2
+7377:Pyrelord:0:1
+7378:Pyrelord:70:1
+7379:Elfinlocks:93:1
+7380:Missi Sissi:98:1
+7381:Missi Sissi:98:1
+7382:Uberlass:103:1
+7383:Uberlass:103:1
+7384:Uberlass:103:1
+7385:Uberlass:103:1
+7386:Uberlass:103:1
+7387:Sannytea:108:1
+7388:Sannytea:108:1
+7389:Irollsixes:113:1
+7390:Irollsixes:113:1
+7391:Foxyhunter:118:1
+7392:Foxyhunter:118:1
+7393:Foxyhunter:118:1
+7394:Gabriela:0:1
+7395:Teodor:0:1
+7396:Aurel:0:1
+7397:Cornelius:0:1
+7398:Elisabeta:0:1
+7399:Sorin:0:1
+7400:Luscion:0:1
+7401:Sergiu:0:1
+7402:Radu:0:1
+7403:Grigore:0:1
+7404:Ileana:0:1
+7405:Valeria:0:1
+7406:Emilia:0:1
+7407:Florin:0:1
+7408:Catalina:0:1
+7409:Ivan:0:1
+7410:Victor:0:1
+7411:Helena:0:1
+7412:Mihail:0:1
+7413:Nicoleta:0:1
+7414:Vasile:0:1
+7415:Razvan:0:1
+7416:Luminata:0:1
+7417:Rat:1:1
+7418:Juvinate:119:1
+7419:Held vampyre juvinate:119:1
+7420:Hieronymus Avlafrim:0:1
+7421:Sasquine Huburns:0:1
+7422:Sasquine Huburns:0:1
+7423:Lollery:82:1
+7424:Wigglewoo:130:1
+7425:Wigglewoo:130:1
+7426:Orangeowns:72:1
+7427:Orangeowns:72:1
+7428:I like m0m:95:1
+7429:I like m0m:95:1
+7430:Qutiedoll:99:1
+7431:Goreu:0:1
+7432:Ysgawyn:0:1
+7433:Arvel:0:1
+7434:Mawrth:0:1
+7435:Kelyn:0:1
+7436:Eoin:0:1
+7437:Iona:0:1
+7438:Elf warrior:108:1
+7439:Elf warrior:108:1
+7440:Elf warrior:90:1
+7441:Elf warrior:90:1
+7442:Arianwyn:0:1
+7443:Eudav:0:1
+7444:Oronwen:0:1
+7445:Banker:0:1
+7446:Banker:0:1
+7447:Dalldav:0:1
+7448:Gethin:0:1
+7449:Amaethwr:0:1
+7450:Teclyn:0:1
+7451:Butterfly:0:1
+7452:Lapsang:130:1
+7453:Lapsang:130:1
+7454:Souchong:105:1
+7455:Souchong:105:1
+7456:Earlgrey:87:1
+7457:Earlgrey:87:1
+7458:Fairtrade:93:1
+7459:Fairtrade:93:1
+7460:Teapotspout:94:1
+7461:Rat:0:1
+7462:Hotwater:81:1
+7463:Hotwater:81:1
+7464:Sliceoflemon:124:1
+7465:Sliceoflemon:124:1
+7466:Milknosugar:127:1
+7467:Milknosugar:127:1
+7468:Randomdood:86:1
+7469:Employedman:91:1
+7470:Heidiggle:98:1
+7471:Dodgy Penny:102:1
+7472:Shadydude98:98:1
+7473:Madam C:73:1
+7474:M0m Online:69:1
+7475:Lady Seenit:138:1
+7476:Berrybree:68:1
+7477:Stuffstuffer:69:1
+7478:null:41:1
+7479:Learking:83:1
+7480:Rachael:0:1
+7481:Cool Mom227:83:1
+7482:Purepker895:52:1
+7483:Pkmaster0036:87:1
+7484:Cow1337killr:123:1
+7485:Mathdude:93:1
+7486:Mathdude:93:1
+7487:1337sp34kr:63:1
+7488:1337sp34kr:63:1
+7489:Moglewee:103:1
+7490:Moglewee:103:1
+7491:Sarah Domin:76:1
+7492:Sarah Domin:76:1
+7493:Sarah Domin:76:1
+7494:Sue Spammers:112:1
+7495:Killerwail:86:1
+7496:Wise Old Man:0:1
+7497:Sabre-toothed kyatt:60:2
+7498:Snowy knight:0:1
+7499:Sapphire glacialis:0:1
+7500:Cerulean twitch:0:1
+7501:Abone:74:1
+7502:Mythmaster:87:1
+7503:Donkey Wrong:93:1
+7504:Creapantic:101:1
+7505:Frondlike:103:1
+7506:Happy Spud:112:1
+7507:Nobodyhere:82:1
+7508:Bluehairlass:85:1
+7509:Evil Wibbler:69:1
+7510:Ilikekebabs:76:1
+7511:Trunka Lex:86:1
+7512:Val Razz:72:1
+7513:Abstractclas:72:1
+7514:Bigbluebox:93:1
+7515:Funorbrox:126:1
+7516:Heresjohnny:118:1
+7517:Mogglewump:105:1
+7518:Morrisnorris:83:1
+7519:Matt Blitzer:138:1
+7520:Ketchuppl0x:108:1
+7521:Renderorder:61:1
+7522:Boolean:101:1
+7523:Stress Diva:79:1
+7524:Treadsoftly:106:1
+7525:Helphelphelp:76:1
+7526:Doorbellpl0x:52:1
+7527:Fixmydoorup:91:1
+7528:Redheadmonky:81:1
+7529:Wallscaler:62:1
+7530:2scompany:76:1
+7531:2scompany:76:1
+7532:3sacrowd:103:1
+7533:4sjustsilly:103:1
+7534:Roadblocked:68:1
+7535:Barricade:0:1
+7536:Barricade:0:1
+7537:Yoinker:81:1
+7538:Yoinker:81:1
+7539:Stopthief:76:1
+7540:Stopthief:76:1
+7541:Knickknack:87:1
+7542:Paddywhack:63:1
+7543:Giveadog:81:1
+7544:Spacebadgers:53:1
+7545:Freakypeaky:31:1
+7546:Rollinghome:112:1
+7547:Nullpointer:61:1
+7548:Badgerfreak:118:1
+7549:Windstrike32:91:1
+7550:Void Knight:0:1
+7551:Portal:0:3
+7552:Portal:0:3
+7553:Portal:0:3
+7554:Portal:0:3
+7555:Portal:0:3
+7556:Portal:0:3
+7557:Portal:0:3
+7558:Portal:0:3
+7559:Brawler:158:2
+7560:Lostme:130:1
+7561:Chiercat:113:1
+7562:Skydischarge:127:1
+7563:Agplus:107:1
+7564:Distantthin:89:1
+7565:Allmarshes:98:1
+7566:Explosive67:100:1
+7567:Wraithboss:102:1
+7568:What Goudron:107:1
+7569:Alpha1beta:111:1
+7570:Solltalk:122:1
+7571:Hm Val:126:1
+7572:Wizzydumped:130:1
+7573:Oddskater:129:1
+7574:Lvzyoda:117:1
+7575:Airstriker:107:1
+7576:Droepedoff:88:1
+7577:Plzpudding:125:1
+7578:Assassin10:115:1
+7579:Steallake:113:1
+7580:Poledragon:114:1
+7581:Deepkiwi:115:1
+7582:Al Truism:116:1
+7583:Ohhhhdude:117:1
+7584:Bigface Oz:118:1
+7585:Torcher:79:1
+7586:Torcher:79:1
+7587:Torcher:91:1
+7588:Torcher:92:1
+7589:Defiler:97:1
+7590:Defiler:97:1
+7591:Shifter:90:1
+7592:Shifter:90:1
+7593:Shifter:104:1
+7594:Shifter:104:1
+7595:Splatter:44:1
+7596:Splatter:54:1
+7597:Splatter:65:1
+7598:Spinner:74:1
+7599:Ravager:106:1
+7600:Fiara:0:3
+7601:Reggie:0:1
+7602:Getorix:0:1
+7603:Pontimer:0:1
+7604:Alran:0:1
+7605:Banker:0:1
+7606:Vyrewatch:110:1
+7607:Vyrewatch:120:1
+7608:Vyrewatch:130:1
+7609:Vyrewatch:140:1
+7610:Flying female vampire:110:3
+7611:Flying female vampire:120:3
+7612:Flying female vampire:130:3
+7613:Flying female vampire:140:3
+7614:Vyrewatch:110:3
+7615:Vyrewatch:120:3
+7616:Vyrewatch:130:3
+7617:Vyrewatch:140:3
+7618:Vyrewatch:110:1
+7619:Vyrewatch:120:1
+7620:Vyrewatch:130:1
+7621:Vyrewatch:140:1
+7622:Vyrewatch:110:3
+7623:Vyrewatch:120:3
+7624:Vyrewatch:130:3
+7625:Vyrewatch:140:3
+7626:Vyrewatch:110:3
+7627:Vyrewatch:120:3
+7628:Vyrewatch:130:3
+7629:Vyrewatch:140:3
+7630:Vyrewatch:85:3
+7631:Vyrewatch:110:3
+7632:Vyrewatch:130:3
+7633:Vyrewatch:85:3
+7634:Vyrewatch:110:3
+7635:Vyrewatch:130:3
+7636:Fishing spot:0:1
+7637:null:1:1
+7638:null:1:1
+7639:null:1:1
+7640:Skeletal hand:80:1
+7641:Zombie hand:90:1
+7642:Mutated bloodveld:126:2
+7643:Mutated bloodveld:146:2
+7644:Zaromark Sliver:80:1
+7645:Zaromark Sliver:80:1
+7646:Zaromark Sliver:80:1
+7647:Zaromark Sliver:80:1
+7648:Zaromark Sliver:80:1
+7649:Zaromark Sliver:80:1
+7650:Zaromark Sliver:80:1
+7651:Zaromark Sliver:80:1
+7652:Zaromark Sliver:0:1
+7653:Zaromark Sliver:0:1
+7654:Fistandantilus:80:1
+7655:Fistandantilus:80:1
+7656:Fistandantilus:80:1
+7657:Fistandantilus:80:1
+7658:Fistandantilus:80:1
+7659:Fistandantilus:80:1
+7660:Fistandantilus:80:1
+7661:Fistandantilus:80:1
+7662:Fistandantilus:0:1
+7663:Fistandantilus:0:1
+7664:Mercenary Adventurer:0:1
+7665:Ivan Strom:0:1
+7666:Mysterious person:0:1
+7667:Mysterious person:0:1
+7668:Mysterious person:0:1
+7669:Mysterious person:0:1
+7670:Mysterious person:0:1
+7671:Mysterious person:0:1
+7672:Flaygian Screwte:0:1
+7673:Mekritus A'hara:0:1
+7674:Andiess Juip:0:1
+7675:Kael Forshaw:0:1
+7676:Andiess Juip:0:1
+7677:Kael Forshaw:0:1
+7678:Safalaan:0:1
+7679:Andiess Juip:0:1
+7680:Kael Forshaw:0:1
+7681:Safalaan:0:1
+7682:Vyrewatch:120:3
+7683:Vyrewatch:120:3
+7684:Vyrewatch:1:3
+7685:Vyrewatch:1:3
+7686:Safalaan:41:1
+7687:Spectral Vyrewatch:0:1
+7688:null:1:1
+7689:null:1:1
+7690:Drezel:0:1
+7691:Vyrewatch:110:3
+7692:Vyrewatch:120:3
+7693:Vyrewatch:130:3
+7694:Vyrewatch:130:3
+7695:Vyrewatch:110:3
+7696:Vyrewatch:120:3
+7697:Vyrewatch:130:3
+7698:Vyrewatch:130:3
+7699:Vyrewatch:110:3
+7700:Vyrewatch:120:3
+7701:Vyrewatch:130:3
+7702:Vyrewatch:140:3
+7703:Vyrewatch:110:3
+7704:Vyrewatch:120:3
+7705:Vyrewatch:130:3
+7706:Vyrewatch:140:3
+7707:Drezel:0:1
+7708:null:1:1
+7709:null:1:1
+7710:null:1:1
+7711:Temple guardian:30:2
+7712:null:1:5
+7713:Baby icefiend:0:1
+7714:Icefiend:13:1
+7715:Icefiend:13:1
+7716:null:13:1
+7717:Professor Arblenap:0:1
+7718:Brother Bordiss:0:1
+7719:Brother Althric:0:1
+7720:Drorkar:0:1
+7721:Nurmof:0:1
+7722:Lakki the delivery dwarf:0:1
+7723:Drorkar:0:1
+7724:Brother Bordiss:0:1
+7725:Professor Arblenap:0:1
+7726:Assistant:0:1
+7727:Monk:5:1
+7728:null:1:1
+7729:null:0:1
+7730:null:1:1
+7731:null:1:1
+7732:null:1:1
+7733:null:1:1
+7734:null:1:1
+7735:null:1:1
+7736:Baby icefiend:0:1
+7737:Will:0:1
+7738:Will:0:1
+7739:Phil:0:1
+7740:Jiggling crate:0:1
+7741:Three little kittens:0:1
+7742:Fluffs:0:1
+7743:Fluffs:0:1
+7744:null:1:1
+7745:Kittens:0:1
+7746:TzHaar-Mej-Malk:0:1
+7747:TzHaar-Xil-Tog:0:1
+7748:TzHaar-Hur-Frok:0:1
+7749:TzHaar-Ket-Grol:0:1
+7750:TzHaar-Ket-Rok:0:1
+7751:TzHaar-Ket-Lurk:0:1
+7752:TzHaar-Mej-Lor:0:1
+7753:TzHaar-Mej:0:1
+7754:TzHaar-Hur:0:1
+7755:TzHaar-Xil:0:1
+7756:Library assistant:0:3
+7757:TzHaar-Hur-Brekt:0:1
+7758:TzHaar-Hur-Brekt:0:1
+7759:TzHaar-Ket-Jok:0:1
+7760:TzHaar-Ket-Jok:0:1
+7761:TzHaar-Xil-Mor:0:1
+7762:TzHaar-Xil-Mor:0:1
+7763:TzHaar-Mej-Kol:0:1
+7764:TzHaar-Mej-Kol:0:1
+7765:TzHaar-Hur-Klag:0:1
+7766:TzHaar-Hur-Klag:0:1
+7767:TzHaar-Hur:74:1
+7768:TzHaar-Hur:74:1
+7769:TzHaar-Hur:74:1
+7770:TokTz-Ket-Dill:100:3
+7771:TokTz-Ket-Dill:100:3
+7772:Lava monster:47:1
+7773:Fire monster:47:1
+7774:Skeleton:40:1
+7775:Skeleton:38:1
+7776:Skeleton:31:1
+7777:Skeleton:31:1
+7778:Skeleton:28:1
+7779:null:0:1
+7780:Sumona:0:1
+7781:Jesmona:0:1
+7782:Catolax:0:1
+7783:null:0:1
+7784:null:0:1
+7785:Ali Cat:0:1
+7786:Mighty banshee:90:2
+7787:Cave crawler:138:2
+7788:Skeleton:53:1
+7789:Zombie:41:1
+7790:Zombie:38:1
+7791:Zombie:56:1
+7792:Zombie:69:1
+7793:Banshee mistress:111:2
+7794:Banshee mistress:0:2
+7795:Insectoid assassin:141:1
+7796:Insectoid assassin:0:1
+7797:Kurask overlord:240:3
+7798:Monstrous cave crawler:180:2
+7799:Basilisk boss:240:2
+7800:Mightiest turoth:180:3
+7801:Aberrant spectre:96:2
+7802:Aberrant spectre:96:2
+7803:Aberrant spectre:96:2
+7804:Aberrant spectre:96:2
+7805:Kurask minion:106:3
+7806:Mummy warrior:0:3
+7807:Mummy warrior:54:1
+7808:Mummy warrior:54:1
+7809:Cat:1:1
+7810:Banshee:1:2
+7811:Kurask:1:3
+7812:Cave crawler:2:2
+7813:Basilisk:2:2
+7814:Turoth:2:3
+7815:Skeleton:22:1
+7816:Master:0:1
+7817:Zombie:18:1
+7818:Zombie:18:1
+7819:Zombie:18:1
+7820:Zombie:18:1
+7821:A wanderer.:0:1
+7822:A wanderer.:0:1
+7823:Wall beast:49:1
+7824:Osman:0:1
+7825:50 Ships Mufassah:0:1
+7826:Karamthulhu:0:2
+7827:Karamthulhu:0:2
+7828:Giant lobster:60:2
+7829:Giant crab:60:1
+7830:Customs Sergeant:1:1
+7831:Customs Sergeant:1:1
+7832:Young Ralph:0:1
+7833:Young Ralph:0:1
+7834:Young Ralph:0:1
+7835:Young Ralph:0:1
+7836:Young Ralph:0:1
+7837:Customs Officer:35:1
+7838:Customs Officer:35:1
+7839:Customs Officer:0:1
+7840:Heavy-Handed Harry:0:1
+7841:Player:1:1
+7842:Locker Officer:0:1
+7843:Locker Officer:0:1
+7844:Ex-ex-parrot:0:1
+7845:Pirate impling:0:1
+7846:Pirate impling:0:1
+7847:Captain Rabid Jack:0:1
+7848:Jack:0:1
+7849:Bosun Giles:0:1
+7850:Pirate:0:1
+7851:Lizzie:0:1
+7852:Cap'n Izzy No-Beard:0:1
+7853:Ralph:0:1
+7854:Brass Hand Harry:0:1
+7855:Bill Teach:0:1
+7856:Pirate:0:1
+7857:Brass Hand Harry:0:1
+7858:null:0:2
+7859:null:0:1
+7860:Gull:0:1
+7861:Jack:1:1
+7862:Fishing spot:0:1
+7863:Fishing spot:0:1
+7864:Fishing spot:0:1
+7865:Guardsman Dante:0:1
+7866:Guardsman DeShawn:0:1
+7867:Guardsman Brawn:0:1
+7868:Iain:0:1
+7869:Julian:0:1
+7870:Lachtopher:0:1
+7871:Samuel:0:1
+7872:Victoria:0:1
+7873:Man:2:1
+7874:Man:2:1
+7875:Man:2:1
+7876:Man:2:1
+7877:Man:2:1
+7878:Man:2:1
+7879:Man:2:1
+7880:Woman:2:1
+7881:Woman:2:1
+7882:Woman:2:1
+7883:Woman:2:1
+7884:Woman:2:1
+7885:Guardsman Dante:0:1
+7886:Guardsman DeShawn:0:1
+7887:Guardsman Brawn:0:1
+7888:Sergeant Abram:0:1
+7889:Guardsman Pazel:0:1
+7890:Guardsman Peale:0:1
+7891:Melee dummy:0:1
+7892:General Wartface:0:1
+7893:General Bentnoze:0:1
+7894:null:1:1
+7895:General Wartface:0:1
+7896:null:1:1
+7897:General Bentnoze:0:1
+7898:null:1:1
+7899:null:1:1
+7900:Loar Shadow:40:1
+7901:Loar Shadow:40:1
+7902:Sergeant Abram:0:1
+7903:Guardsman Pazel:0:1
+7904:Guardsman Peale:0:1
+7905:Barricade guard:0:1
+7906:Barricade guard:0:1
+7907:Barricade guard:0:1
+7908:Barricade guard:0:1
+7909:Barricade guard:0:1
+7910:Barricade guard:0:1
+7911:Barricade guard:0:1
+7912:Border guard:0:1
+7913:Iain:0:1
+7914:Julian:0:1
+7915:Lachtopher:0:1
+7916:Samuel:0:1
+7917:Victoria:0:1
+7918:Man:2:1
+7919:Man:2:1
+7920:Man:2:1
+7921:Man:2:1
+7922:Man:2:1
+7923:Man:2:1
+7924:Man:2:1
+7925:Woman:2:1
+7926:Woman:2:1
+7927:Woman:2:1
+7928:Woman:2:1
+7929:Lumbridge Guide:0:1
+7930:Doomsayer:0:1
+7931:Donie:0:1
+7932:Gee:0:1
+7933:Duke Horacio:0:1
+7934:Sigmund:0:1
+7935:Hans:0:1
+7936:Cook:0:1
+7937:Father Aereck:0:1
+7938:Sir Vant:0:1
+7939:Sir Vant:0:1
+7940:Sir Vant:0:1
+7941:Sir Vant:0:1
+7942:Sir Vant:0:1
+7943:Dragon:243:5
+7944:Dragon:243:5
+7945:Dragon:243:5
+7946:Dragon:243:5
+7947:Dragon:243:5
+7948:Dragon:243:5
+7949:Lumbridge Guide:0:1
+7950:Melee Tutor:0:1
+7951:Ranged Tutor:0:1
+7952:Magic Tutor:0:1
+7953:Cooking Tutor:0:1
+7954:Crafting Tutor:0:1
+7955:Fishing Tutor:0:1
+7956:Mining Tutor:0:1
+7957:Prayer Tutor:0:1
+7958:Smelting Tutor:0:1
+7959:Smithing Tutor:0:1
+7960:Woodcutting Tutor:0:1
+7961:Bank Tutor:0:1
+7962:Gee:0:1
+7963:Spirit:0:1
+7964:Goblin:2:1
+7965:Goblin:2:1
+7966:Chaos druid:13:1
+7967:Shopkeeper:0:1
+7968:null:1:1
+7969:Explorer Jack:0:1
+7970:Smithing Tutor:0:1
+7971:Mining Tutor:0:1
+7972:null:1:1
+7973:null:1:1
+7974:null:1:1
+7975:null:1:1
+7976:Spirit:0:1
+7977:Spirit:0:1
+7978:Spirit:0:1
+7979:Spirit:0:1
+7980:Spirit:0:1
+7981:Spirit:0:1
+7982:Spirit:0:1
+7983:Spirit:0:1
+7984:Spirit:0:1
+7985:null:1:1
+7986:Summer Bonde:0:1
+7987:Spirit:0:1
+7988:Spirit:0:1
+7989:Erik Bonde:0:1
+7990:Spirit:0:1
+7991:Jallek Lenkin:0:1
+7992:Spirit:0:1
+7993:Meranek Thanatos:0:1
+7994:Ghostly warrior:42:1
+7995:Spirit Beast:717:5
+7996:Spirit Beast:717:5
+7997:Spirit Beast:717:5
+7998:Ghost:79:1
+7999:Ghost:79:1
+8000:Goth leprechaun:0:1
+8001:null:1:1
+8002:Jack:0:1
+8003:Sarah:0:1
+8004:Laura:0:1
+8005:Laura:0:1
+8006:Roger:0:1
+8007:Jorral:0:1
+8008:Guthix:0:1
+8009:Max the traveller:0:1
+8010:Man:0:1
+8011:Man:0:1
+8012:Woman:0:1
+8013:Woman:0:1
+8014:Haluned:0:1
+8015:Jack:0:1
+8016:Baby Sarah:0:1
+8017:Snowy:0:1
+8018:Roger:0:1
+8019:Portal:0:1
+8020:Portal:0:1
+8021:null:0:1
+8022:Yellow orb:0:1
+8023:Yellow orb:0:1
+8024:Yellow orb:0:1
+8025:null:0:1
+8026:Green orb:0:1
+8027:Green orb:0:1
+8028:Green orb:0:1
+8029:Wizard Korvak:0:1
+8030:Wizard Vief:0:1
+8031:Wizard Acantha:0:2
+8032:Wizard Elriss:0:1
+8033:Wizard:0:1
+8034:Wizard:0:1
+8035:Wizard:0:1
+8036:Wizard:0:1
+8037:Wizard:0:1
+8038:Wizard:0:1
+8039:Wizard:0:1
+8040:Wizard:0:1
+8041:Imiago:0:1
+8042:Squire Fyre:0:1
+8043:Squire Fyre:0:1
+8044:Orry:0:1
+8045:Orry:0:1
+8046:Ube:0:1
+8047:Ube:0:1
+8048:Waldo:0:1
+8049:Waldo:0:1
+8050:Gjalp:0:1
+8051:Gjalp:0:1
+8052:Brother Fintan:0:1
+8053:Brother Fintan:0:1
+8054:Stubthumb:0:1
+8055:Stubthumb:0:1
+8056:Stubthumb:0:1
+8057:Doronbol:0:1
+8058:Doronbol:0:1
+8059:Crate:0:2
+8060:Crate:0:2
+8061:Egg:0:2
+8062:Egg:0:2
+8063:Nanuq:0:2
+8064:Nanuq:0:2
+8065:null:1:1
+8066:null:1:1
+8067:null:1:1
+8068:null:1:1
+8069:null:1:1
+8070:null:1:1
+8071:null:1:1
+8072:null:1:1
+8073:null:1:1
+8074:null:1:2
+8075:null:1:2
+8076:null:1:2
+8077:Pumpkin:0:1
+8078:Maggie:0:1
+8079:Circus barker:0:1
+8080:Circus barker:0:1
+8081:Circus barker:0:1
+8082:Agility assistant:0:1
+8083:Magic assistant:0:1
+8084:Ranged assistant:0:1
+8085:Ringmaster:0:2
+8086:Audience:0:1
+8087:Audience:0:1
+8088:Ticket vendor:0:2
+8089:null:0:2
+8090:Rock:1:1
+8091:Star sprite:0:2
+8092:Shooting star shadow:0:2
+8093:Penguin:0:1
+8094:Penguin:0:1
+8095:Penguin:0:1
+8096:Penguin:0:1
+8097:Penguin:0:1
+8098:Penguin:0:1
+8099:Penguin:0:1
+8100:Penguin:0:1
+8101:Penguin:0:1
+8102:Penguin:0:1
+8103:Penguin:0:1
+8104:Barrel:0:1
+8105:Bush:0:1
+8106:Bush:0:1
+8107:Cactus:0:1
+8108:Crate:0:1
+8109:Rock:0:1
+8110:Toadstool:0:1
+8111:Calladin:0:1
+8112:null:1:1
+8113:Summer Bonde:0:1
+8114:Summer Bonde:0:1
+8115:Erik Bonde:0:1
+8116:Erik Bonde:0:1
+8117:Jallek Lenkin:0:1
+8118:Jallek Lenkin:0:1
+8119:Meranek Thanatos:0:1
+8120:Meranek Thanatos:0:1
+8121:Spirit:0:1
+8122:Rogue:0:1
+8123:null:1:1
+8124:null:1:1
+8125:Tormented wraith:129:1
+8126:Dark energy core:0:1
+8127:Dark energy core:75:1
+8128:Spirit Beast:752:5
+8129:Spirit Beast:752:5
+8130:Spirit Beast:752:5
+8131:Spirit Beast:752:5
+8132:Spirit Beast:752:5
+8133:Corporeal Beast:785:5
+8134:Spirit:0:1
+8135:Summer Bonde:0:1
+8136:Erik Bonde:0:1
+8137:Jallek Lenkin:0:1
+8138:Meranek Thanatos:0:1
+8139:Hartwin:0:1
+8140:Hartwin:0:1
+8141:null:1:1
+8142:Zombie:18:1
+8143:Zombie:24:1
+8144:Zombie:18:1
+8145:Zombie:18:1
+8146:Zemouregal:0:2
+8147:null:1:1
+8148:Zemouregal:0:2
+8149:Armoured zombie:85:1
+8150:Armoured zombie:85:1
+8151:Armoured zombie:85:1
+8152:Armoured zombie:85:1
+8153:Armoured zombie:85:1
+8154:Armoured zombie:85:1
+8155:Armoured zombie:85:1
+8156:Armoured zombie:85:1
+8157:Armoured zombie:85:1
+8158:Armoured zombie:85:1
+8159:Armoured zombie:85:1
+8160:Armoured zombie:85:1
+8161:Armoured zombie:85:1
+8162:Armoured zombie:85:1
+8163:Armoured zombie:85:1
+8164:Armoured zombie:85:1
+8165:Sharathteerk:0:3
+8166:null:1:3
+8167:Sharathteerk:0:3
+8168:Arrav:180:1
+8169:Arrav:180:1
+8170:Ramarno:0:1
+8171:Dimintheis:0:1
+8172:Dimintheis:0:1
+8173:Guard:21:1
+8174:Clive:0:1
+8175:Ellamaria:0:1
+8176:Fish:0:2
+8177:Fish:0:2
+8178:Monk of Zamorak:17:1
+8179:Ellamaria:1:1
+8180:Traiborn:1:1
+8181:Fenkenstrain's Monster:1:1
+8182:Wise Old Man:1:1
+8183:null:1:1
+8184:null:1:3
+8185:Acrobat:1:1
+8186:Acrobat:1:1
+8187:Acrobat:1:1
+8188:Acrobat:1:1
+8189:Acrobat:1:1
+8190:Acrobat:1:1
+8191:Acrobat:1:1
+8192:Acrobat:1:1
+8193:Acrobat:1:1
+8194:Acrobat:1:1
+8195:Acrobat:1:1
+8196:Acrobat:1:1
+8197:Acrobat:1:1
+8198:Acrobat:1:1
+8199:Acrobat:1:1
+8200:Acrobat:1:1
+8201:Wendy:0:1
+8202:Trogs:0:1
+8203:Norman:0:1
+8204:Babe:0:1
+8205:Gus:0:1
+8206:Lottie:0:1
+8207:Aggie:0:1
+8208:Bat:0:1
+8209:Rat:0:1
+8210:Lizard:0:1
+8211:Blackbird:0:1
+8212:Spider:0:1
+8213:Snail:0:1
+8214:Cat:0:1
+8215:Lazy cat:0:1
+8216:Overgrown cat:0:1
+8217:Kitten:0:1
+8218:Wily cat:0:1
+8219:null:0:1
+8220:null:0:1
+8221:null:0:1
+8222:null:0:1
+8223:null:0:1
+8224:null:0:1
+8225:null:0:1
+8226:Guardian of Armadyl:0:1
+8227:Head mystic:0:1
+8228:Rewards mystic:0:1
+8229:Mystic:0:1
+8230:Mystic:0:1
+8231:Mystic:0:1
+8232:Mystic:0:2
+8233:Mystic:0:1
+8234:Mystic:0:1
+8235:Mystic:0:1
+8236:Mystic:0:1
+8237:Mystic:0:2
+8238:Mystic:0:1
+8239:Head mystic:0:1
+8240:Clay familiar (class 1):0:2
+8241:Clay familiar (class 1):25:2
+8242:Clay familiar (class 2):0:2
+8243:Clay familiar (class 2):37:2
+8244:Clay familiar (class 3):0:2
+8245:Clay familiar (class 3):58:2
+8246:Clay familiar (class 4):0:2
+8247:Clay familiar (class 4):93:2
+8248:Clay familiar (class 5):0:2
+8249:Clay familiar (class 5):139:2
+8250:Grindxplox:104:1
+8251:Grindxplox:104:1
+8252:Stealing Creation team:0:1
+8253:Resource NPC:1:1
+8254:Game NPC:1:1
+8255:null:250:1
+8256:Resource NPC:1:1
+8257:null:1:1
+8258:null:1:1
+8259:null:1:1
+8260:null:1:1
+8261:null:1:1
+8262:null:1:1
+8263:null:1:1
+8264:null:1:1
+8265:null:1:1
+8266:null:1:1
+8267:null:1:1
+8268:Harrallak Menarous:0:1
+8269:null:1:1
+8270:Yadech Strongarm:0:1
+8271:null:1:1
+8272:null:0:1
+8273:Turael:0:1
+8274:Mazchna:0:1
+8275:Duradel:0:1
+8276:null:1:1
+8277:null:1:1
+8278:null:1:1
+8279:Cyrisus:0:1
+8280:Sloane:0:1
+8281:Balance Elemental:454:3
+8282:Balance Elemental:454:3
+8283:Balance Elemental:454:3
+8284:Balance Elemental:0:3
+8285:Balance Elemental:0:3
+8286:Undead hero:92:1
+8287:Undead hero:92:1
+8288:Undead hero:92:1
+8289:Undead hero:92:1
+8290:Undead hero:92:1
+8291:Undead hero:92:1
+8292:Undead hero:92:1
+8293:Undead hero:92:1
+8294:Undead hero:92:1
+8295:Undead hero:92:1
+8296:Undead hero:92:1
+8297:Undead hero:92:1
+8298:Stone block:0:1
+8299:Harrallak Menarous:197:1
+8300:Harrallak Menarous:197:1
+8301:Harrallak Menarous:197:1
+8302:Turael:197:1
+8303:Turael:197:1
+8304:Cyrisus:197:1
+8305:Cyrisus:197:1
+8306:Ghommal:197:1
+8307:Mazchna:197:1
+8308:Mazchna:197:1
+8309:Mazchna:197:1
+8310:Duradel:197:1
+8311:Sloane:197:1
+8312:Elite Dark Warrior:122:1
+8313:Elite Dark Warrior:122:1
+8314:Elite Dark Warrior:122:1
+8315:Elite Dark Warrior:122:1
+8316:Elite Dark Ranger:79:1
+8317:Elite Dark Ranger:79:1
+8318:Elite Dark Ranger:79:1
+8319:Elite Dark Ranger:79:1
+8320:Elite Dark Mage:79:1
+8321:Elite Dark Mage:79:1
+8322:Elite Dark Mage:79:1
+8323:Elite Dark Mage:79:1
+8324:Elite Black Knight:138:1
+8325:Elite Black Knight:138:1
+8326:Elite Black Knight:138:1
+8327:Elite Black Knight:138:1
+8328:Elite Black Knight:0:1
+8329:Elite Black Knight:0:1
+8330:Elite Black Knight:0:1
+8331:Guardian of Armadyl:0:2
+8332:Guardian of Armadyl:45:1
+8333:Guardian of Armadyl:43:1
+8334:Mercenary axeman:88:1
+8335:Mercenary mage:48:1
+8336:Idria:0:1
+8337:Idria:0:1
+8338:Akrisae:0:1
+8339:Shady stranger:30:1
+8340:Shady stranger:30:1
+8341:Shady stranger:30:1
+8342:null:1:1
+8343:Guardian of Armadyl:57:1
+8344:Guardian of Armadyl:57:1
+8345:null:0:1
+8346:Local thug:0:1
+8347:null:1:1
+8348:Local mage:14:1
+8349:Tormented demon:450:3
+8350:Tormented demon:450:3
+8351:Tormented demon:450:3
+8352:Tormented demon:450:3
+8353:Tormented demon:450:3
+8354:Tormented demon:450:3
+8355:Tormented demon:450:3
+8356:Tormented demon:450:3
+8357:Tormented demon:450:3
+8358:Tormented demon:450:3
+8359:Tormented demon:450:3
+8360:Tormented demon:450:3
+8361:Tormented demon:450:3
+8362:Tormented demon:450:3
+8363:Tormented demon:450:3
+8364:Tormented demon:450:3
+8365:Tormented demon:450:3
+8366:Tormented demon:450:3
+8367:null:1:1
+8368:null:1:1
+8369:null:1:1
+8370:null:1:1
+8371:null:1:1
+8372:null:1:1
+8373:null:1:1
+8374:null:1:1
+8375:null:1:1
+8376:null:1:1
+8377:Undead troll:125:1
+8378:Undead troll:74:1
+8379:Undead troll:100:1
+8380:Undead troll:74:1
+8381:Undead troll:100:1
+8382:Undead troll:125:1
+8383:Undead troll:125:1
+8384:Undead troll:74:1
+8385:Undead troll:74:1
+8386:Undead troll:100:1
+8387:Undead troll:125:1
+8388:Undead troll:74:1
+8389:Undead troll:74:1
+8390:Undead troll:100:1
+8391:Undead troll:125:1
+8392:Undead troll:125:1
+8393:Vasador:0:1
+8394:Valator:0:1
+8395:Vaasdor:0:1
+8396:Varosad:0:1
+8397:Verisad:0:1
+8398:Vudisor:0:1
+8399:Vlatoad:0:1
+8400:Vedolas:0:1
+8401:Vundiar:0:1
+8402:Versita:0:1
+8403:Vislota:0:1
+8404:Vanjuta:0:1
+8405:Vasador:0:1
+8406:Valator:0:1
+8407:Vaasdor:0:1
+8408:Varosad:0:1
+8409:Verisad:0:1
+8410:Vudisor:0:1
+8411:Vlatoad:0:1
+8412:Vedolas:0:1
+8413:Vundiar:0:1
+8414:Versita:0:1
+8415:Vislota:0:1
+8416:Vanjuta:0:1
+8417:Ivy Sophista:0:1
+8418:Thaerisk Cemphier:0:1
+8419:Thaerisk Cemphier:0:1
+8420:null:1:1
+8421:null:1:1
+8422:Assassin:38:1
+8423:Assassin:38:1
+8424:Mithril dragon:57:5
+8425:Dragon head:0:3
+8426:Dragon head:0:3
+8427:Dragon head:0:3
+8428:Khazard launderer:0:2
+8429:Khazard cook:0:1
+8430:Silif:0:1
+8431:Silif:0:1
+8432:Silif:0:2
+8433:Silif:0:1
+8434:Silif:0:1
+8435:Shady stranger:50:1
+8436:Suspicious outsider:50:1
+8437:Elite Khazard guard:95:1
+8438:Elite Khazard guard:95:1
+8439:Elite Khazard guard:95:1
+8440:Elite Khazard guard:95:1
+8441:Dark Squall:0:1
+8442:Surok Magis:0:1
+8443:Lucien:0:3
+8444:Druid:0:1
+8445:Druid:0:1
+8446:Druid:0:1
+8447:Druid bodyguard:0:1
+8448:Druid bodyguard:0:1
+8449:Movario:0:1
+8450:Darve:0:1
+8451:Cave goblin:0:1
+8452:Movario:0:1
+8453:Darve:0:1
+8454:Light creature:0:1
+8455:Light creature:0:3
+8456:Druid spirit:0:2
+8457:Druid spirit:0:2
+8458:Druid spirit:0:2
+8459:Druid spirit:0:2
+8460:null:1:1
+8461:Turael:0:1
+8462:Spria:0:1
+8463:Mazchna:0:1
+8464:Mazchna:0:1
+8465:Achtryn:0:1
+8466:Duradel:0:1
+8467:Lapalok:0:1
+8468:null:0:1
+8469:null:0:1
+8470:null:0:2
+8471:null:1:1
+8472:null:1:1
+8473:null:1:1
+8474:null:1:1
+8475:null:1:1
+8476:null:1:1
+8477:null:1:1
+8478:null:1:1
+8479:null:1:1
+8480:null:1:1
+8481:null:1:1
+8482:null:1:1
+8483:null:1:1
+8484:Laidee Gnonock:0:1
+8485:Hazelmere:197:1
+8486:Undead mage:0:1
+8487:Wild broav:0:1
+8488:null:1:1
+8489:Hazelmere:197:1
+8490:Hazelmere:197:1
+8491:Broav:0:1
+8492:null:1:1
+8493:Sithaph:0:3
+8494:Strisath:0:3
+8495:Sakirth:0:3
+8496:Hazelmere's hat:1:1
+8497:Lucien:0:3
+8498:A lazy Khazard guard:1:3
+8499:Thanksgiving Turkey:1:1
+8500:Cook's brother:0:1
+8501:Turkey:5:2
+8502:Cactus:0:1
+8503:Cactus:0:1
+8504:Bush:0:1
+8505:Toadstool:0:1
+8506:Barrel:0:1
+8507:Bush:0:1
+8508:Crate:0:1
+8509:Bush:0:1
+8510:Rock:0:1
+8511:Bush:0:1
+8512:Marvin:0:1
+8513:Marius:0:1
+8514:Benny:0:1
+8515:Yeti:0:3
+8516:Yeti:0:3
+8517:Jack Frost:0:1
+8518:Jack Frost:0:1
+8519:Jack Frost:0:1
+8520:Jack Frost:0:1
+8521:null:1:1
+8522:null:1:1
+8523:null:1:1
+8524:null:1:1
+8525:null:1:1
+8526:null:1:1
+8527:null:1:1
+8528:null:1:1
+8529:null:1:1
+8530:null:1:1
+8531:null:1:1
+8532:null:1:1
+8533:null:1:1
+8534:null:1:1
+8535:null:1:1
+8536:Snow imp:0:1
+8537:Snow imp:0:1
+8538:Snow imp:0:1
+8539:Queen of Snow:0:1
+8540:Santa Claus:0:2
+8541:Head snow imp:0:1
+8542:Head snow imp:0:1
+8543:Head snow imp:0:1
+8544:Isidor:0:1
+8545:Mystic:0:1
+8546:Balance Elemental:454:3
+8547:Wounded phoenix:0:4
+8548:Phoenix:0:2
+8549:Phoenix:235:4
+8550:Phoenix eggling:0:1
+8551:Phoenix eggling:0:1
+8552:Large egg:0:1
+8553:null:1:2
+8554:null:1:4
+8555:Priest of Guthix:0:1
+8556:Brian Twitcher:0:1
+8557:Lesser reborn warrior:100:2
+8558:Lesser reborn warrior:100:2
+8559:Greater reborn warrior:128:2
+8560:Greater reborn warrior:128:2
+8561:Lesser reborn ranger:87:2
+8562:Lesser reborn ranger:87:2
+8563:Greater reborn ranger:107:2
+8564:Greater reborn ranger:107:2
+8565:Lesser reborn mage:82:2
+8566:Lesser reborn mage:82:2
+8567:Greater reborn mage:112:2
+8568:Greater reborn mage:112:2
+8569:Lesser reborn warrior:0:2
+8570:Greater reborn warrior:0:2
+8571:Lesser reborn ranger:0:2
+8572:Greater reborn ranger:0:2
+8573:Lesser reborn mage:0:2
+8574:Greater reborn mage:0:2
+8575:Phoenix:0:2
+8576:Phoenix:124:2
+8577:Phoenix eggling:0:1
+8578:Phoenix eggling:0:1
+8579:null:0:1
+8580:Karma the chameleon:0:1
+8581:Karma the chameleon:0:1
+8582:Karma the chameleon:0:1
+8583:Karma the chameleon:0:1
+8584:Karma the chameleon:0:1
+8585:Karma the chameleon:0:1
+8586:Karma the chameleon:0:1
+8587:Karma the chameleon:0:1
+8588:Karma the chameleon:0:1
+8589:Karma the chameleon:0:1

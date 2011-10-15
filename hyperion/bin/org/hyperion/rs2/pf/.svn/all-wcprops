@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/pf
+END
+AStarPathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/pf/AStarPathFinder.java
+END
+TileMapBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/pf/TileMapBuilder.java
+END
+PathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/pf/PathFinder.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/pf/Point.java
+END
+TileMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hyperion_server/!svn/ver/274/trunk/src/org/hyperion/rs2/pf/TileMap.java
+END
+DumbPathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/pf/DumbPathFinder.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hyperion_server/!svn/ver/276/trunk/src/org/hyperion/rs2/pf/Path.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hyperion_server/!svn/ver/274/trunk/src/org/hyperion/rs2/pf/Tile.java
+END

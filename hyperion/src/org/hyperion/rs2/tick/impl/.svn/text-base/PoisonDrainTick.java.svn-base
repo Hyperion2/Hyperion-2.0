@@ -1,0 +1,58 @@
+package org.hyperion.rs2.tickable.impl;
+
+import org.hyperion.rs2.model.Hit;
+import org.hyperion.rs2.model.Mob;
+import org.hyperion.rs2.model.Skills;
+import org.hyperion.rs2.model.Hit.HitType;
+import org.hyperion.rs2.tickable.Tickable;
+/**
+ * An event which depletes and deals poison damage.
+ * @author Michael Bull
+ *
+ */
+public class PoisonDrainTick extends Tickable {
+
+	/**
+	 * The cycle time, in ticks.
+	 */
+	public static final int CYCLE_TIME = 30;
+	
+	/**
+	 * The mob for who we are poisoning.
+	 */
+	public Mob mob;
+	
+	/**
+	 * The mob who poisoned the victim.
+	 */
+	public Mob attacker;
+	
+	/**
+	 * Creates the event to cycle every 18,000 milliseconds (18 seconds).
+	 */
+	public PoisonDrainTick(Mob mob, Mob attacker) {
+		super(CYCLE_TIME);
+		this.mob = mob;
+		this.attacker = attacker;
+	}
+	
+	/**
+	 * One damage is dealt 4 times before decreasing.
+	 */
+	private int drainAmount = 4;
+
+	@Override
+	public void execute() {
+		int dmg = mob.getCombatState().getPoisonDamage();
+		if(dmg > mob.getSkills().getLevel(Skills.HITPOINTS)) {
+			dmg = mob.getSkills().getLevel(Skills.HITPOINTS);
+		}
+		mob.inflictDamage(new Hit(HitType.POISON_HIT, dmg), attacker);
+		drainAmount--;
+		if(drainAmount == 0) {
+			mob.getCombatState().decreasePoisonDamage(1);
+			drainAmount = 4;
+		}
+	}
+
+}

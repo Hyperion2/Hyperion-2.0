@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hyperion_server/!svn/ver/274/trunk/src/org/hyperion/rs2/task/impl
+END
+SessionLoginTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/SessionLoginTask.java
+END
+SessionClosedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/SessionClosedTask.java
+END
+SessionOpenedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/SessionOpenedTask.java
+END
+PlayerResetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/PlayerResetTask.java
+END
+PlayerUpdateTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hyperion_server/!svn/ver/274/trunk/src/org/hyperion/rs2/task/impl/PlayerUpdateTask.java
+END
+NPCResetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/NPCResetTask.java
+END
+NPCUpdateTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/NPCUpdateTask.java
+END
+DeathTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/DeathTask.java
+END
+CleanupTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/CleanupTask.java
+END
+PlayerTickTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/PlayerTickTask.java
+END
+SessionMessageTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/SessionMessageTask.java
+END
+BenchmarkTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/BenchmarkTask.java
+END
+NPCTickTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hyperion_server/!svn/ver/264/trunk/src/org/hyperion/rs2/task/impl/NPCTickTask.java
+END
