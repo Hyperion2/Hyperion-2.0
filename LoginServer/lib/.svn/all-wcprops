@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/hyperion_server/!svn/ver/264/trunk/lib
+END
+slf4j-jdk14-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hyperion_server/!svn/ver/264/trunk/lib/slf4j-jdk14-1.5.8.jar
+END
+mina-core-2.0.0-M6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hyperion_server/!svn/ver/264/trunk/lib/mina-core-2.0.0-M6.jar
+END
+jython.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hyperion_server/!svn/ver/264/trunk/lib/jython.jar
+END
+junit-4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hyperion_server/!svn/ver/264/trunk/lib/junit-4.6.jar
+END
+commons-compress-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hyperion_server/!svn/ver/264/trunk/lib/commons-compress-1.0.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hyperion_server/!svn/ver/264/trunk/lib/slf4j-api-1.5.8.jar
+END
