@@ -2,6 +2,7 @@ package org.hyperion.rs2.content.combat;
 
 import org.hyperion.rs2.Constants;
 import org.hyperion.rs2.content.magic.Spells.Spell;
+import org.hyperion.rs2.content.skills.Prayer;
 import org.hyperion.rs2.model.Entity;
 import org.hyperion.rs2.model.NPC;
 import org.hyperion.rs2.model.Player;
@@ -22,7 +23,8 @@ public class CombatEffect {
 				if(o instanceof Player)
 					((Player)o).getActionSender().sendMessage("You feel as if magic has strucken you immobile.");
 				//Prayer reduce by 1/2
-				o.setFreezeDelay(System.currentTimeMillis() + (sp == Spell.BIND ? 5000 : 10000));
+				long freeze = (sp == Spell.BIND ? 5000 : 10000);
+				o.setFreezeDelay(System.currentTimeMillis() + (o instanceof Player && ((Player)o).getPrayers()[Prayer.PROTECT_FROM_MAGE] ? freeze/2 : freeze));
 				return;
 			}
 		} else {

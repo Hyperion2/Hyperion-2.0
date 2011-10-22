@@ -54,9 +54,9 @@ public class EntityDeath {
 	
 	/**
 	 * Executes death effects.
-	 * @param e The dead entity.
+	 * @param e The dead player.
 	 */
-	public static void executeDeathEffects(Entity e) {
+	public static void executeDeathEffects(Player p) {
 		
 	}
 	

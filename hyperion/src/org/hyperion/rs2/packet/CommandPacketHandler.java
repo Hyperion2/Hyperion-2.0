@@ -8,11 +8,9 @@ import org.hyperion.rs2.model.Player;
 import org.hyperion.rs2.model.Skills;
 import org.hyperion.rs2.model.World;
 import org.hyperion.rs2.model.container.Bank;
-import org.hyperion.rs2.model.container.Shops;
 import org.hyperion.rs2.model.npcs.npc;
 import org.hyperion.rs2.model.region.Region;
 import org.hyperion.rs2.net.Packet;
-import org.hyperion.util.ItemCompress;
 
 /**
  * Handles player commands (the ::words).
@@ -44,16 +42,17 @@ public class CommandPacketHandler implements PacketHandler {
 				player.getActionSender().sendMessage("You are at: " + player.getLocation() + ".");
 			} else if(command.equals("npc")) {
 				World.getWorld().register(new npc(Integer.valueOf(args[1])));
-			} else if(command.equals("compress")) {
-				new ItemCompress();
 			} else if(command.contains("region")) {
 				Region r = player.getRegion();
 				player.getActionSender().sendMessage("Region: "+r);
 				player.getActionSender().sendMessage("X: "+r.getCoordinates().getX()+" Y: "+r.getCoordinates().getY());
 				player.getActionSender().sendMessage("ItemCount: "+r.getRegionItems().size());
 				player.getActionSender().sendMessage("Entity Count: "+r.getPlayers().size()+" NPC: "+r.getNpcs().size());
-			} else if(command.equals("shop")) {
-				Shops.open(player, 0);
+			} else if(command.equals("chatinfo")) {
+				String[] s = new String[Integer.valueOf(args[1])];
+				for(int i = 0; i < s.length; i++)
+					s[i] = ""+i;
+				player.getActionSender().sendChatInfoInterface(s);
 			} else if(command.equals("config")) {
 				player.getActionSender().sendConfig(Integer.valueOf(args[1]), Integer.valueOf(args[2]));
 			} else if(command.equals("item")) {

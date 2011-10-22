@@ -11,6 +11,7 @@ import org.hyperion.rs2.content.combat.Combat;
 import org.hyperion.rs2.content.combat.CombatCheck;
 import org.hyperion.rs2.content.combat.CombatEffect;
 import org.hyperion.rs2.content.combat.WeaponStyle;
+import org.hyperion.rs2.content.skills.Prayer;
 import org.hyperion.rs2.model.Animation;
 import org.hyperion.rs2.model.Damage.Hit;
 import org.hyperion.rs2.model.Damage.HitType;
@@ -157,6 +158,8 @@ public class Range {
 						//Degrade, tick after animation.
 						if(atker instanceof Player)
 							DegradeSystem.checkDegrade(((Player)atker));
+						if(atker instanceof NPC)
+							((NPC)atker).distributeAttackEffects(victim, thisHit);
 						//Block animation
 						if(victim.getCurrentAnimation() == null)
 							victim.playAnimation(Animation.create(victim instanceof NPC ? NPCStyle.attacks.get(((NPC)victim).getId()).getDefAnim() : ((Player)victim).getDefEmote()));
@@ -199,12 +202,14 @@ public class Range {
 		if(e instanceof Player) {
 			Player p = (Player) e;
 			int cLv = p.getSkills().getLevel(Skills.RANGE);
+			if(p.getFightStyle() == WeaponStyle.STYLE_ACCURATE)
+				cLv += 3;
 			int bonus = p.getBonus()[Bonus.RANGE_ATTACK];
 			double cBoost = 1.00;
+			cLv = (int) Math.floor(cLv * cBoost);
 			//blah
 			//end
 			atk = (int) ((cLv * bonus) / 1000 + (cLv * 0.37) + (bonus * 0.66));
-			atk *= cBoost;
 		} else {
 			
 		}
@@ -212,10 +217,18 @@ public class Range {
 		if(o instanceof Player) {
 			Player p = (Player) o;
 			int cLv = p.getSkills().getLevel(Skills.DEFENCE)/2 + p.getSkills().getLevel(Skills.AGILITY)/2;
+			if(p.getFightStyle() == WeaponStyle.STYLE_LONG_RANGE || p.getFightStyle() == WeaponStyle.STYLE_DEFENSIVE)
+				cLv += 3;
 			int bonus = p.getBonus()[Bonus.RANGE_DEF];
 			double cBoost = 1.00;
+			if(p.getPrayers()[Prayer.ROCK_SKIN])
+				cBoost *= 1.10;
+			else if(p.getPrayers()[Prayer.THICK_SKIN])
+				cBoost *= 1.05;
+			else if(p.getPrayers()[Prayer.STEEL_SKIN])
+				cBoost *= 1.15;
+			cLv = (int) Math.floor(cLv * cBoost);
 			def = (int) ((cLv * bonus) / 1000 + (cLv * 0.37) + (bonus * 0.33));
-			def *= cBoost;
 		} else {
 			
 		}

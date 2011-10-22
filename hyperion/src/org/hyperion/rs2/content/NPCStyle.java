@@ -41,7 +41,9 @@ public class NPCStyle {
 		
 		private byte speed;// 0 - no delay, 1 - 600ms etc
 		
-		private boolean multi;
+		private double blockPercentile = 1.00;
+		
+		private boolean multi = false;
 
 		/**
 		 * @return the style
@@ -83,6 +85,13 @@ public class NPCStyle {
 		 */
 		public boolean isMulti() {
 			return multi;
+		}
+
+		/**
+		 * @return the blockPercentile
+		 */
+		public double getBlockPercentile() {
+			return blockPercentile;
 		}
 	}
 	

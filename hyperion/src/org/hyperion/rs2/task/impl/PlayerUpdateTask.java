@@ -276,7 +276,7 @@ public class PlayerUpdateTask implements Task {
 		 * queues.
 		 */
 		packet.putBits(1, 1);
-		packet.putBits(1, otherPlayer.getWalkingQueue().getDir());
+		packet.putBits(1, 1);
 		
 		/*
 		 * Calculate the x and y offsets.
@@ -325,10 +325,10 @@ public class PlayerUpdateTask implements Task {
 		 * We can used the cached update block!
 		 */
 		synchronized(otherPlayer) {
-			if(otherPlayer.hasCachedUpdateBlock() && otherPlayer != player && !forceAppearance) {
+			/*if(otherPlayer.hasCachedUpdateBlock() && otherPlayer != player && !forceAppearance) {
 				packet.put(otherPlayer.getCachedUpdateBlock().getPayload().flip());
 				return;
-			}
+			}*/
 			
 			/*
 			 * We have to construct and cache our own block.
@@ -433,8 +433,8 @@ public class PlayerUpdateTask implements Task {
 			
 			/*
 			 * Now it is over, cache the block if we can.
-			 */
-			if(otherPlayer != player && !forceAppearance) {
+			 *
+			if(otherPlayer != player && !forceAppearance {
 				otherPlayer.setCachedUpdateBlock(blockPacket);
 			}
 		

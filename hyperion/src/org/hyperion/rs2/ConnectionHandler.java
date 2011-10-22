@@ -8,8 +8,6 @@ import org.hyperion.rs2.model.Player;
 import org.hyperion.rs2.model.World;
 import org.hyperion.rs2.net.Packet;
 import org.hyperion.rs2.net.RS2CodecFactory;
-import org.hyperion.rs2.task.impl.SessionClosedTask;
-import org.hyperion.rs2.task.impl.SessionOpenedTask;
 
 /**
  * The <code>ConnectionHandler</code> processes incoming events from MINA,
@@ -22,6 +20,7 @@ public class ConnectionHandler extends IoHandlerAdapter {
 	/**
 	 * The <code>GameEngine</code> instance.
 	 */
+	@SuppressWarnings("unused")
 	private final GameEngine engine = World.getWorld().getEngine();
 
 	@Override
@@ -31,18 +30,21 @@ public class ConnectionHandler extends IoHandlerAdapter {
 
 	@Override
 	public void messageReceived(IoSession session, Object message) throws Exception {
-		//engine.pushTask(new SessionMessageTask(session, (Packet) message));
 		if(session.containsAttribute("player")) {
 			Player p = (Player) session.getAttribute("player");
-			if(p.getQueuedPackets().size() < 15) {
-				p.getQueuedPackets().add((Packet) message);
-			}
+			Packet packet = (Packet) message;
+			if(p.getQueuedPackets().size() < 15)
+				p.getQueuedPackets().add(packet);
 		}
 	}
 
 	@Override
 	public void sessionClosed(IoSession session) throws Exception {
-		engine.pushTask(new SessionClosedTask(session));
+		//engine.pushTask(new SessionClosedTask(session));
+		if(session.containsAttribute("player")) {
+			Player p = (Player) session.getAttribute("player");
+			World.getWorld().unregister(p);
+		}
 	}
 
 	@Override
@@ -54,7 +56,7 @@ public class ConnectionHandler extends IoHandlerAdapter {
 	public void sessionOpened(IoSession session) throws Exception {
 		session.setAttribute("remote", session.getRemoteAddress());
 		session.getFilterChain().addFirst("protocol", new ProtocolCodecFilter(RS2CodecFactory.LOGIN));
-		engine.pushTask(new SessionOpenedTask(session));
+		//engine.pushTask(new SessionOpenedTask(session));
 	}
 
 }

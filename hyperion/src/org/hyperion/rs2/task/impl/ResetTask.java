@@ -33,7 +33,7 @@ public class ResetTask implements Task {
 		if(r instanceof Player) {
 			Player player = (Player)r;
 			player.resetTeleportTarget();
-			player.resetCachedUpdateBlock();
+			//player.resetCachedUpdateBlock();
 		}
 		r.reset();
 	}

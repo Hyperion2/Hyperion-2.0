@@ -10,6 +10,7 @@ import org.hyperion.rs2.Constants;
 import org.hyperion.rs2.Persistable;
 import org.hyperion.rs2.action.ActionQueue;
 import org.hyperion.rs2.content.combat.WeaponStyle;
+import org.hyperion.rs2.content.skills.Prayer;
 import org.hyperion.rs2.model.UpdateFlags.UpdateFlag;
 import org.hyperion.rs2.model.container.Bank;
 import org.hyperion.rs2.model.container.Container;
@@ -253,12 +254,9 @@ public class Player extends Entity implements Persistable {
 	 */
 	private int health = getSkills().getLevel(Skills.HITPOINTS) * 10;
 	
-	/*
-	 * Cached details.
-	 */
 	/**
 	 * The cached update block.
-	 */
+	 *
 	private Packet cachedUpdateBlock;
 	
 	/**
@@ -279,7 +277,7 @@ public class Player extends Entity implements Persistable {
 	/**
 	 * Prayers.
 	 */
-	private boolean[] prayers = new boolean[20];
+	private boolean[] prayers = new boolean[Prayer.PRAYER[0].length];
 	
 	/**
 	 * PrayerBook.
@@ -390,7 +388,7 @@ public class Player extends Entity implements Persistable {
 	/**
 	 * Checks if there is a cached update block for this cycle.
 	 * @return <code>true</code> if so, <code>false</code> if not.
-	 */
+	 *
 	public boolean hasCachedUpdateBlock() {
 		return cachedUpdateBlock != null;
 	}
@@ -398,22 +396,22 @@ public class Player extends Entity implements Persistable {
 	/**
 	 * Sets the cached update block for this cycle.
 	 * @param cachedUpdateBlock The cached update block.
-	 */
+	 *
 	public void setCachedUpdateBlock(Packet cachedUpdateBlock) {
 		this.cachedUpdateBlock = cachedUpdateBlock;
 	}
 	
 	/**
 	 * Gets the cached update block.
-	 * @return The cached update block.
-	 */
+	 * @reurn The cached update block.
+	 *
 	public Packet getCachedUpdateBlock() {
 		return cachedUpdateBlock;
 	}
 	
 	/**
 	 * Resets the cached update block.
-	 */
+	 *
 	public void resetCachedUpdateBlock() {
 		cachedUpdateBlock = null;
 	}
@@ -717,7 +715,7 @@ public class Player extends Entity implements Persistable {
 			buf.put((byte) settings.getPrivateChatSetting()[i]);
 		for(int i = 0; i < Equipment.SIZE; i++) {
 			Item item = equipment.get(i);
-			if(item == null) {
+			if(item == null || item.getCount() <= 0) {
 				buf.putShort((short) 65535);
 			} else {
 				buf.putShort((short) item.getId());
@@ -733,7 +731,7 @@ public class Player extends Entity implements Persistable {
 		
 		for(int i = 0; i < Inventory.SIZE; i++) {
 			Item item = inventory.get(i);
-			if(item == null) {
+			if(item == null || item.getCount() <= 0) {
 				buf.putShort((short) 65535);
 			} else {
 				buf.putShort((short) item.getId());
@@ -752,7 +750,7 @@ public class Player extends Entity implements Persistable {
 		
 		for(int i = 0; i < Bank.SIZE; i++) {
 			Item item = bank.get(i);
-			if(item == null) {
+			if(item == null || item.getCount() <= 0) {
 				buf.putShort((short) 65535);
 			} else {
 				buf.putShort((short) item.getId());
@@ -795,10 +793,8 @@ public class Player extends Entity implements Persistable {
 		} else {
 			int finalHP = skills.getLevel(Skills.HITPOINTS) + amount;
 			int set = finalHP > skills.getMaxHealthLevel() && limit ? skills.getMaxHealthLevel() : skills.getMaxHealthLevel() + amount < finalHP ? skills.getMaxHealthLevel() + amount : finalHP;
-			if(health < set)
-				skills.setLevel(Skills.HITPOINTS, set <= 0 ? 0 : set);
+			skills.setLevel(Skills.HITPOINTS, set <= 0 ? 0 : set);
 		}
-		getActionSender().sendSkill(Skills.HITPOINTS);
 	}
 
 	/**
@@ -896,6 +892,7 @@ public class Player extends Entity implements Persistable {
 	 */
 	public void setHeadIcon(byte headIcon) {
 		this.headIcon = headIcon;
+		getUpdateFlags().flag(UpdateFlag.APPEARANCE);
 	}
 
 	/**
@@ -910,6 +907,7 @@ public class Player extends Entity implements Persistable {
 	 */
 	public void setSkullIcon(byte skullIcon) {
 		this.skullIcon = skullIcon;
+		getUpdateFlags().flag(UpdateFlag.APPEARANCE);
 	}
 
 	/**

@@ -83,11 +83,6 @@ public class WalkingQueue {
 	private boolean runQueue = false;
 	
 	/**
-	 * Current facing direction.
-	 */
-	private int dir = -1;
-	
-	/**
 	 * Run energy.
 	 */
 	private short runEnergy = 10000;//100 = 1% energy
@@ -115,20 +110,6 @@ public class WalkingQueue {
 	 */
 	public void setRunningQueue(boolean runQueue) {
 		this.runQueue = runQueue;
-	}
-	
-	/**
-	 * @param dir the dir to set
-	 */
-	public void setDir(int dir) {
-		this.dir = dir;
-	}
-
-	/**
-	 * @return the dir
-	 */
-	public int getDir() {
-		return dir;
 	}
 
 	/**
@@ -384,7 +365,6 @@ public class WalkingQueue {
 			 */
 			int walkDir = walkPoint == null ? -1 : walkPoint.dir;
 			int runDir = runPoint == null ? -1 : runPoint.dir;
-			dir = walkDir == -1 ? runDir : walkDir;//set facing direction.
 			entity.getSprites().setSprites(walkDir, runDir);
 		}
 		

@@ -205,7 +205,7 @@ public class NPCUpdateTask implements Task {
 		/*
 		 * TODO unsure, but probably discards the client-side walk queue.
 		 */
-		packet.putBits(1, npc.getWalkingQueue().getDir());
+		packet.putBits(1, 0);
 
 		/*
 		 * We now write the NPC type id.

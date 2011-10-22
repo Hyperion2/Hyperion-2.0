@@ -10,8 +10,10 @@ import org.hyperion.rs2.content.NPCStyle.Style;
 import org.hyperion.rs2.content.combat.Combat;
 import org.hyperion.rs2.content.combat.CombatCheck;
 import org.hyperion.rs2.content.combat.CombatEffect;
+import org.hyperion.rs2.content.combat.WeaponStyle;
 import org.hyperion.rs2.content.magic.Spells;
 import org.hyperion.rs2.content.magic.Spells.Spell;
+import org.hyperion.rs2.content.skills.Prayer;
 import org.hyperion.rs2.model.Animation;
 import org.hyperion.rs2.model.Damage.Hit;
 import org.hyperion.rs2.model.Damage.HitType;
@@ -245,7 +247,19 @@ public class Magic {
 			int defLv = d.getSkills().getLevel(Skills.DEFENCE);
 			int mageLv = d.getSkills().getLevel(Skills.DEFENCE);
 			int mageDef = d.getBonus()[Bonus.MAGIC_DEF];
-			def += ((defLv + mageLv) / 1.67) + (mageDef * 0.77);
+			if(d.getFightStyle() == WeaponStyle.STYLE_DEFENSIVE || d.getFightStyle() == WeaponStyle.STYLE_DEFENSIVE)
+				mageDef += 3;
+			double cBoost = 1.00;
+			if(d.getPrayers()[Prayer.ROCK_SKIN])
+				cBoost *= 1.10;
+			else if(d.getPrayers()[Prayer.THICK_SKIN])
+				cBoost *= 1.05;
+			else if(d.getPrayers()[Prayer.STEEL_SKIN])
+				cBoost *= 1.15;
+			defLv *= cBoost;
+			defLv *= 0.3;
+			mageLv *= 0.7;
+			def += ((defLv + mageLv) * 0.67) + (mageDef * 0.77);
 		}
 		return CombatCheck.random(def) <= CombatCheck.random(atk);
 	}
@@ -258,13 +272,18 @@ public class Magic {
 	 * @return The final hit.
 	 */
 	public static int altarDamage(Entity e, Entity o, int hit) {
-		if(o instanceof NPC || e instanceof NPC) return hit;//No NPC Support.
+		if(o instanceof NPC && e instanceof NPC) return hit;//No NPC Support.
 		int base = hit;
 		if(Server.VERSION >= 614)
 			hit += (base * (((Player)e).getBonus()[Bonus.MAGIC_DAMAGE]) / 100);
+		if(e instanceof NPC && o instanceof Player && ((Player)o).getPrayers()[Prayer.PROTECT_FROM_MAGE])
+			return (int) (hit - (hit * NPCStyle.attacks.get(((NPC)e).getId()).getAtts()[e.getFightIndex()].getBlockPercentile()));
+		if(e instanceof NPC) return hit;
 		Player p = (Player)e;
-		if(p.getSkills().getLevel(Skills.MAGIC) - p.getSkills().getLevelForExperience(Skills.MAGIC) > 0)
+		if(p.getSkills().getLevel(Skills.MAGIC) - p.getSkills().getLevelForExperience(Skills.MAGIC) > 0 && Server.VERSION >= 614)
 			hit = (int) (hit + (base * ((p.getSkills().getLevel(Skills.MAGIC) - p.getSkills().getLevelForExperience(Skills.MAGIC)) * 0.03)));
+		if(e instanceof Player && o instanceof Player && ((Player)o).getPrayers()[Prayer.PROTECT_FROM_MAGE])
+			return (int) (hit * 0.40);
 		return hit;
 	}
  }

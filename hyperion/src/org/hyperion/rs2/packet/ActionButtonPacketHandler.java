@@ -3,6 +3,7 @@ package org.hyperion.rs2.packet;
 import java.util.logging.Logger;
 
 import org.hyperion.rs2.content.combat.WeaponInfo;
+import org.hyperion.rs2.content.skills.Prayer;
 import org.hyperion.rs2.model.Animation;
 import org.hyperion.rs2.model.Player;
 import org.hyperion.rs2.model.container.Trade;
@@ -23,7 +24,13 @@ public class ActionButtonPacketHandler implements PacketHandler {
 	@Override
 	public void handle(Player player, Packet packet) {
 		final int button = packet.getShort();
+		//prayer buttons
+		if(button >= 683 && button <= 685 || button >= 5609 && button <= 5623) {
+			Prayer.prayerClick(player, button);
+			return;
+		}
 		switch(button) {
+		
 		
 		case 12298:
 		case 2282:

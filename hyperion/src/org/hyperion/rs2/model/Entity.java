@@ -610,6 +610,7 @@ public abstract class Entity {
 			this.setLastAttacked(source);
 			this.setCurrentTarget(source);
 		}
+		if(inc.getDamage() <= -1) return;
 		//Degrade Check.
 		if(this instanceof Player)
 			DegradeSystem.checkDegrade(((Player)this));
@@ -620,7 +621,10 @@ public abstract class Entity {
 				World.getWorld().submit(new DeathTick(this));
 			}
 			//playAnimation(Animation.create(7185));
-			source.setLastAttacked(null);
+			if(source != null) {
+				source.setLastAttacked(null);
+				source.setCurrentTarget(null);
+			}
 			this.setDead(true);
 			setPoisDmg(0);
 		}

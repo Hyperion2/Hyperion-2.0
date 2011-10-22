@@ -3,6 +3,7 @@ package org.hyperion.rs2.net;
 import org.apache.mina.core.future.IoFuture;
 import org.apache.mina.core.future.IoFutureListener;
 import org.hyperion.rs2.Constants;
+import org.hyperion.rs2.content.skills.Prayer;
 import org.hyperion.rs2.model.Entity;
 import org.hyperion.rs2.model.FloorItem;
 import org.hyperion.rs2.model.Item;
@@ -63,6 +64,7 @@ public class ActionSender {
 		sendMessage("Welcome to "+Constants.SERVER_NAME+", Owner is "+Constants.OWNER+".");
 		player.setRights(Rights.PLAYER);
 		sendMapRegion();
+		Prayer.resetPrayers(player, true);
 		sendSidebarInterfaces();
 		sendEnergy(player.getWalkingQueue().getRunEnergy());
 		sendWeight(player.getEquipment().getWeight() + (player.getInventory().getWeight() < 0 ? 0 : player.getInventory().getWeight()));
@@ -93,6 +95,23 @@ public class ActionSender {
 		PacketBuilder bldr = new PacketBuilder(240);
 		bldr.putShort((short) i);
 		player.write(bldr.toPacket());
+		return this;
+	}
+	
+	/**
+	 * Sends Chat Info for the Interface. Not Dialogue, Infopain.
+	 * @param strings Lines of text.
+	 * @return The action sender instance, for chaining.
+	 */
+	public ActionSender sendChatInfoInterface(String...strings) {
+		int inter = 354;
+		for(int i = 0; i < strings.length; i++)
+			inter = (inter + i + 2);
+		PacketBuilder bldr = new PacketBuilder(164);
+		bldr.putLEShort(inter);
+		player.write(bldr.toPacket());
+		for(int i = 0; i < strings.length; i++)
+			sendString(inter+1 + i, strings[i]);
 		return this;
 	}
 
