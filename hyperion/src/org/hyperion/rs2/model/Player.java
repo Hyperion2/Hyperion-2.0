@@ -631,7 +631,7 @@ public class Player extends Entity implements Persistable {
 		this.password = IoBufferUtils.getRS2String(buf);
 		this.rights = Player.Rights.getRights(buf.getUnsigned());
 		this.members = buf.getUnsigned() == 1;
-		this.getWalkingQueue().setRunEnergy(buf.getUnsigned());
+		this.getWalkingQueue().setRunEnergy(buf.getUnsignedShort());
 		this.spellBook = buf.get();
 		this.prayBook = buf.get();
 		this.health = buf.getShort();
